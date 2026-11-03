@@ -3,7 +3,8 @@
 **Tag tecnica/formato:** `game-engine-realtime` `ai-generativa` `procedurale-generativo`
 **Tag tema:** `intelligenza-artificiale-critica` `temporalita-non-lineare`
 **Tag corso:** `AW`
-**Stato:** biografia e opere riviste il 2026-11-01 · alcune voci degli Approfondimenti restano di origine AI e sono segnalate · tre immagini provengono dalla scheda originale, senza una fonte tracciata
+**Sito ufficiale:** [iancheng.com](https://iancheng.com/)
+**Stato:** biografia e opere riviste il 2026-11-01 · pagine delle opere, video e interviste aggiunti il 2026-11-03 da risultati di ricerca, senza aprire i link (da controllare) · alcune voci degli Approfondimenti restano di origine AI e sono segnalate · tre immagini provengono dalla scheda originale, senza una fonte tracciata
 
 ## Biografia
 Nato nel 1984 a Los Angeles, vive e lavora a New York.[^1][^2] Laurea, con doppio corso in scienze cognitive e art practice, alla UC Berkeley (2006); un anno a Industrial Light & Magic, la società di effetti visivi di George Lucas; MFA alla Columbia University (2009); dal 2010 al 2012 ha lavorato nello studio dell'artista **Pierre Huyghe** ed è stato co-direttore di Badlands Unlimited, casa editrice indipendente di Paul Chan. Personali alla Fondazione Sandretto Re Rebaudengo (2015), al Migros Museum (2016), al MoMA PS1 e al Carnegie Museum of Art (2017),[^3] alle Serpentine Galleries (2018), a Luma Arles e The Shed (2021), al Leeum di Seul e alla Light Art Space di Berlino (2022); collettive al MoMA, al Whitney, al Hirshhorn, alla Tate Modern, al Louisiana Museum e alla Biennale di Venezia 2019.
@@ -11,7 +12,10 @@ Nato nel 1984 a Los Angeles, vive e lavora a New York.[^1][^2] Laurea, con doppi
 ## Poetica e ricerca
 Cheng rifiuta i media statici a favore di **"simulazioni dal vivo"**: mondi digitali autonomi che girano in tempo reale su game engine, popolati da agenti IA il cui comportamento è emergente e non pre-sceneggiato. La sua pratica è più vicina al giardinaggio che alla narrazione: imposta condizioni iniziali e pulsioni degli agenti, poi cede il controllo, osservando cosa "diventa" il mondo. Cheng parla di «un videogioco che gioca da solo».[^9] L'immagine del giardinaggio viene dal REF *(origine AI, da verificare)*.
 
-Cheng chiama questa pratica **"Worlding"**: portare i mondi virtuali a vivere nella loro imprevedibilità continua, una metafora per una vita vissuta al servizio di una particolare vitalità, con la capacità di creare complessità e il coraggio di convivere con l'indeterminatezza che la complessità comporta.[^3] Il libro descrive quattro «maschere» dell'artista, il Regista, il Cartonista, l'Hacker e l'Emissario, e si appoggia ai giochi infiniti di James Carse.[^3] La distinzione dal "world-building" tradizionale non compare in Vandenbroeck [verificare sul libro]. È anche al centro del suo libro *Emissaries Guide to Worlding* (Serpentine Galleries, Fondazione Sandretto Re Rebaudengo, Koenig Books, 2018, con contributi di Nora Khan, Ben Vickers e Hans Ulrich Obrist) e il titolo di una mostra alla Pilar Corrias.[^4] L'aggancio a Heidegger, attribuito in precedenza a Vandenbroeck, non compare nel suo testo [verificare].
+Cheng chiama questa pratica **"Worlding"**: portare i mondi virtuali a vivere nella loro imprevedibilità continua, una metafora per una vita vissuta al servizio di una particolare vitalità, con la capacità di creare complessità e il coraggio di convivere con l'indeterminatezza che la complessità comporta.[^3] Il libro descrive quattro «maschere» dell'artista, il Regista, il Cartonista, l'Hacker e l'Emissario, e si appoggia ai giochi infiniti di James Carse.[^3]
+
+![Lo schema delle quattro maschere: Direttore, Fumettista, Hacker, Emissario (Fare mondi, Timeo, 2024, p. 35)](immagini/ian-cheng/fare-mondi-maschere.jpg)
+ Cheng distingue esplicitamente il worlding dal worldbuilding: nell'edizione del 2018 scrive che non è un libro sul worldbuilding, né su come rendere più credibile un romanzo fantasy, ma sul Worlding; in un post del 2022 definisce il worldbuilding come «fabricating the latent space enough to do work there» e il worlding come «creating conditions for a world's latent space to express and expand itself thru more ppl».[^23] [Entrambi i passi sono stati trovati tramite ricerca, non letti sulla fonte: verificare.] È anche al centro del suo libro *Emissaries Guide to Worlding* (Serpentine Galleries, Fondazione Sandretto Re Rebaudengo, Koenig Books, 2018, con contributi di Nora Khan, Ben Vickers e Hans Ulrich Obrist) e il titolo di una mostra alla Pilar Corrias.[^4] L'aggancio a Heidegger, attribuito in precedenza a Vandenbroeck, non compare nel suo testo [verificare].
 
 ## Opere principali
 
@@ -20,15 +24,36 @@ Cheng chiama questa pratica **"Worlding"**: portare i mondi virtuali a vivere ne
 **Descrizione:** video per il brano *Brats* dei Liars, dall'album *WIXIW* (Mute). Nato dall'esperienza di Cheng in una società di effetti visivi, porta Bugs Bunny ed Elmer Fudd dentro il software di animazione: gli scheletri si scontrano, gli arti si deformano, i personaggi sopravvivono alle esplosioni. Cheng dice di aver usato il racconto del cacciatore e del coniglio come formato per far crescere un «giardino» di movimenti.[^5]
 **Lettura critica:** uno dei primi lavori in cui Cheng spinge su difetti e imprevisti del software, prima di passare alle simulazioni in cui i personaggi vengono messi in moto e lasciati agire.[^22]
 
+**Pagina dell'opera:** pagina non trovata su iancheng.com; il video è su [Vimeo, con i crediti di regia di Cheng](https://vimeo.com/45095858)
+
+**Video:** [Liars, *Brats*, video ufficiale (YouTube)](https://www.youtube.com/watch?v=uL9jtjJ3zv0)
+
 ### Entropy Wrangler (2013)
 **Descrizione:** simulazione dal vivo, di durata infinita, mostrata da Off Vendome a Düsseldorf nel 2013. Un programma genera un vortice di disordine in cui persone, animali e oggetti fluttuano in uno spazio astratto e si scontrano per caso.[^6] La versione *Entropy Wrangler Cloud*, per Oculus Rift e Kinect, debutta alla sezione Frame di Frieze London nel 2013: chi la indossa si guarda intorno e lancia oggetti con il gesto delle mani.[^7]
 **Lettura critica:** Cheng lo considera il primo tentativo di un racconto animato senza fine.[^8] Pilar Corrias lo presenta prima di tutto come software, il «genotipo» dell'opera.
 
+**Pagina dell'opera:** pagina non trovata su iancheng.com; [Pilar Corrias, viewing room](https://pilarcorrias.viewingrooms.com/artworks/5235-ian-cheng-entropy-wrangler-2013/) · dal REF: [Rhizome, la versione per Oculus Rift](https://rhizome.org/editorial/2013/dec/23/prosthetic-knowledge-picks-oculus-rift/)
+
+**Video:** [*Entropy Wrangler Cloud (Chang & Eng)*, estratto dalla simulazione (Vimeo)](https://vimeo.com/77129257)
+
 ![Entropy Wrangler, fotogramma della simulazione: l'immagine viene dalla scheda originale, l'attribuzione è coerente con la descrizione della galleria ma non è confermata](immagini/ian-cheng/emissaries-01.png)
+
+### Thousand Islands Thousand Laws (2013–)
+**Descrizione:** simulazione animata in cui un pistolero da videogioco, uno stormo di aironi e un'isola di piante si mescolano e mutano di continuo, nella forma, nel comportamento e nel ruolo: protagonisti, comparse, oggetti di scena. La camera si muove come in un documentario naturalistico e impara a fermarsi sulle piccole perturbazioni. Cheng: «L'unica veduta stabile è quella del cambiamento stesso».[^17]
+
+**Pagina dell'opera:** pagina non trovata su iancheng.com; il testo dell'artista è su [*Artforum*](https://www.artforum.com/features/ian-cheng-220473/)
+
+**Video:** [*Thousand Islands Thousand Laws*, registrazione a 15 fps (Vimeo)](https://vimeo.com/74466694)
 
 ### Emissaries — trilogia: *Emissary in the Squat of Gods* (2015), *Emissary Forks at Perfection* (2015-16), *Emissary Sunsets the Self* (2017)
 **Descrizione:** tre "simulazioni dal vivo" collegate, di durata infinita, con agenti che hanno pulsioni e un comportamento non sceneggiato; Cheng le chiama «un videogioco che gioca da solo».[^9] In ognuna un agente, l'**Emissario**, ha una missione in un mondo indifferente. *Squat of Gods*: comunità antica in un paesaggio vulcanico, destinata alla distruzione dall'eruzione; l'Emissario è la giovane *Young Ancient*. *Forks at Perfection*: il vulcano è diventato un lago di cratere, un'IA studia la scomparsa dell'umanità e l'Emissario è Shiba, un cane della razza giapponese. *Sunsets the Self*: il lago è diventato un atollo senziente, l'Emissario è *AI Puddle*.[^10][^8]
 **Lettura critica:** Cheng ha dichiarato di essersi ispirato direttamente a *Il crollo della mente bicamerale e l'origine della coscienza* (1976) di Julian Jaynes — la teoria secondo cui gli umani antichi non prendevano decisioni coscienti e riflesse, interpretando invece i propri pensieri come voci esterne ("comandi divini"): *"Non so se sia vero, ma di sicuro è strano, e ha catturato la mia immaginazione al punto da farmi realizzare queste opere chiamate Emissaries"*.[^11] La trilogia segue l'evoluzione cognitiva attraverso tre epoche lontane: nascita, frammentazione e dissoluzione della coscienza.
+
+**Pagina dell'opera:** [iancheng.com/emissaries](https://iancheng.com/emissaries) · dal REF: [Cantor Arts Center, *Emissary Sunsets the Self*](https://museum.stanford.edu/exhibitions/ian-cheng-emissary-sunsets-self)
+
+**Video (dal REF):** [*A Portal to Infinity*, intervista sulla trilogia (Louisiana Channel)](https://www.youtube.com/watch?v=TO6Luilc4Bo) · [*SI Visions: Ian Cheng on the Society of Mind*](https://www.youtube.com/watch?v=kg1k8BmTqNg)
+
+**Video:** [*Emissary in the Squat of Gods* (YouTube)](https://www.youtube.com/watch?v=YbOBFvM81zQ) · [*Emissary Forks At Perfection*, registrazione v0.93 (Vimeo)](https://vimeo.com/214884118) · [*Emissary Sunsets The Self*, estratto v0.9 (Vimeo)](https://vimeo.com/214739002)
 
 ![Emissary in the Squat of Gods, still dalla simulazione](immagini/ian-cheng/emissaries-02.png)
 
@@ -38,6 +63,10 @@ Cheng chiama questa pratica **"Worlding"**: portare i mondi virtuali a vivere ne
 
 ![Bad Corgi (2015) — immagine dalla pagina della fonte](immagini/ian-cheng/bad-corgi.jpg)
 
+**Pagina dell'opera:** pagina non trovata su iancheng.com; [Serpentine Galleries](https://serpentinegalleries.org/whats-on/ian-cheng-bad-corgi)
+
+**Video:** [*Ian Cheng Digital Commission: Bad Corgi* (Serpentine)](https://www.youtube.com/watch?v=ByJrszDVxmA) · [*Bad Corgi*, trailer](https://www.youtube.com/watch?v=4ZpiqSG_t6I)
+
 **Approfondimento:** [Serpentine Galleries — Ian Cheng, Bad Corgi](https://serpentinegalleries.org/whats-on/ian-cheng-bad-corgi); [Pilar Corrias — «Artificial Ecology»](https://oldsite.pilarcorrias.com/wp-content/uploads/2015/03/Artificial-Ecology-Ian-Cheng-on-the-St...f-Pokémon-Go-Art-for-Sale-Artspace-copy.pdf)
 
 ### BOB (Bag of Beliefs) (2018-2019)
@@ -46,18 +75,28 @@ Cheng chiama questa pratica **"Worlding"**: portare i mondi virtuali a vivere ne
 
 ![BOB (Bag of Beliefs) (2018-2019) — immagine dalla pagina della fonte](immagini/ian-cheng/bob.jpg)
 
+**Pagina dell'opera:** [iancheng.com/BOB](https://iancheng.com/BOB) · saggio [«Minimum Viable Sentience»](https://iancheng.com/minimumviablesentience)
+
+**Video:** [*Ian Cheng: BOB, Emissaries* (Serpentine)](https://www.youtube.com/watch?v=XFmMrcW2ZsM) · [*BOB* alla Biennale di Venezia 2019](https://www.youtube.com/watch?v=41JkkFlksAk) · [*BOB*, registrazione dello schermo, maggio 2019 (Vimeo)](https://vimeo.com/366378954)
+
 ### Life After BOB: The Chalice Study (2021)
 **Descrizione:** serie anime costruita nel motore Unity, presentata dal vivo in tempo reale, debutta a Luma Arles nell'aprile 2021. Nel primo episodio, *The Chalice Study*, il neuroingegnere Dr. Wong installa un'IA sperimentale, BOB, nella figlia Chalice di dieci anni; BOB si fa carico delle sue difficoltà e Chalice viene messa ai margini. La durata è di 48 minuti per la galleria, 50 per altre fonti. L'interfaccia *World Watching* permette di esplorare i dettagli del mondo con i propri tempi, e chi modifica il wiki collegato cambia per sempre quei dettagli sullo schermo.[^16]
 **Lettura critica:** tragedia sul controllo genitoriale e sul "soluzionismo" della Silicon Valley — suggerisce che l'identità coincida proprio con ciò che l'ottimizzazione vorrebbe eliminare: trauma, caos, irrazionalità *(origine AI, da verificare)*.
 
 ![Life After BOB: The Chalice Study, still dal film/interfaccia Worldwatching](immagini/ian-cheng/life-after-bob-01.png)
 
+**Pagina dell'opera:** [iancheng.com/LAB](https://iancheng.com/LAB) · dal REF: [lifeafterbob.io](https://lifeafterbob.io/) · [cartella stampa](https://iancheng.com/viewer/lab-presskit)
+
+**Video (dal REF):** [*Life after BOB: The Chalice Study with Ian Cheng*, talk](https://www.youtube.com/watch?v=JfhdgNazHRo)
+
+**Video:** [*Life After BOB*, trailer (The Shed)](https://www.youtube.com/watch?v=AMg4JQIGjns) · [*Ian Cheng: Life After BOB*](https://www.youtube.com/watch?v=3cSTidBYhQE)
+
 ## Approfondimenti
 Materiale teorico e critico per la didattica, ricavato dai due documenti di riferimento originali su Drive («Ian Cheng REF» e «Ian Cheng», in «new refs»). **Attenzione sull'origine:** il secondo documento è un testo lungo di analisi in italiano, con tutta evidenza prodotto da un'AI e senza fonti di prima mano. Le voci tratte da lì sono marcate *(origine AI, da verificare)*: servono come traccia per la lezione, non come lettura critica consolidata. Le voci con link vanno invece a fonti dirette.
 
 ### Parole dell'artista
 - **Cartoni nell'era dei big data (Artforum).** Cheng descrive *Thousand Islands Thousand Laws* (2013–): una simulazione animata in cui un pistolero da videogioco, uno stormo di aironi e un'isola di piante si mescolano e mutano continuamente, non solo nella forma e nel comportamento ma nello **status** (protagonisti, comparse, oggetti di scena). La camera si muove come in un documentario naturalistico, incerta su cosa sia davvero interessante nell'inquadratura; impara a concentrarsi sulle piccole perturbazioni in cui le linee di influenza diventano visibili e lo status viene rimescolato: un «chi» diventa un «cosa», la figura diventa sfondo, il rumore informazione. «L'unica veduta stabile è quella del cambiamento stesso.» Il testo continua chiedendosi che cosa siano i cartoni nell'era dei big data: modelli artificiali per giocare con complessità che i nostri modelli mentali (riflessi, emozioni, abitudini, memoria, linguaggio) non riescono a cogliere da soli, capaci di «stirare e comprimere» catene causali e di riformulare il rapporto parte/tutto in uno zoom nauseante alla *Powers of Ten*. Premessa dichiarata del suo lavoro recente: fare cartoni per **mutare la coscienza** [verificare]. Il testo è «On Cartooning», *Artforum*, vol. 52, n. 10, estate 2014;[^17] la frase finale non si legge nell'estratto aperto.
-- **Worlding contro world-building.** Distinzione ripresa anche nella scheda (Poetica e ricerca): il *world-building* progetta dall'alto un mondo finito e coerente, che il pubblico esplora o consuma; il *worlding* imposta condizioni iniziali e agenti con le loro pulsioni, poi cede il controllo e osserva l'emergenza. La fonte indicata in precedenza, Vandenbroeck, non contiene questa distinzione [verificare]. La tabella «artista come architetto / artista come giardiniere» che si trova nel REF è una sintesi AI *(origine AI, da verificare)*.
+- **Worlding contro world-building.** La distinzione è di Cheng (vedi Poetica e ricerca, con le sue definizioni). La lettura «progetto dall'alto contro condizioni iniziali e agenti lasciati agire» è una sintesi, non una formula sua. Vandenbroeck non ne parla. La tabella «artista come architetto / artista come giardiniere» che si trova nel REF è una sintesi AI *(origine AI, da verificare)*.
 
 ### Emissaries (2015–2017): letture
 - **Jaynes come dispositivo.** Cheng stesso lo dichiara:[^11] la mente bicamerale di Julian Jaynes (1976), secondo cui gli umani antichi avrebbero vissuto le decisioni come voci divine, è per lui «strana» e immaginativa più che vera. L'Emissario è l'unico agente con una missione lineare in un mondo non narrativo: la tensione nasce dal conflitto tra un agente narrativo e un ecosistema indifferente. *(La lettura dell'Emissario come «lotta di un agente narrativo contro un mondo non-narrativo» è del REF AI: da verificare.)*
@@ -102,15 +141,23 @@ Non letti in questa revisione:
 - Risorse video dal REF: [Louisiana Channel, «A Portal to Infinity»](https://www.youtube.com/watch?v=TO6Luilc4Bo); [«Life after BOB: The Chalice Study with Ian Cheng» (artist talk)](https://www.youtube.com/watch?v=JfhdgNazHRo); [«In Dialogue: The Guggenheim Collection — Ian Cheng»](https://www.youtube.com/watch?v=55huQdixX0g). Gallerie di riferimento: [Gladstone](https://www.gladstonegallery.com/artists/ian-cheng), [Pilar Corrias](https://www.pilarcorrias.com/artists/39-ian-cheng/).
 
 ## Interviste e talk
+Prima quelle già nei REF del docente, poi le altre.
+
+**Dai REF**
 - **Video:** [Ian Cheng Interview: A Portal to Infinity (Louisiana Channel)](https://www.youtube.com/watch?v=TO6Luilc4Bo)
-- **Video:** [SI Visions: Ian Cheng on the Society of Mind (YouTube)](https://www.youtube.com/watch?v=kg1k8BmTqNg)
+- **Video:** [SI Visions: Ian Cheng on the Society of Mind](https://www.youtube.com/watch?v=kg1k8BmTqNg)
+- **Video:** [Life after BOB: The Chalice Study with Ian Cheng, talk](https://www.youtube.com/watch?v=JfhdgNazHRo)
+- [In Dialogue: The Guggenheim Collection — Ian Cheng](https://www.youtube.com/shorts/55huQdixX0g) (video breve)
+
+**Altre, non ancora viste**
+- **Video:** [Ian Cheng in conversation with Nora Khan and Ben Vickers (Serpentine)](https://www.youtube.com/watch?v=DV9HWjyJeno)
+- **Video:** [CMOA Forum 79: Ian Cheng (Carnegie Museum of Art)](https://vimeo.com/237783234)
 - [ArtNews — intervista su BOB](https://www.artnews.com/art-news/artists/ian-cheng-gladstone-bob-artificial-intelligence-11825/)
 - [LUMA Arles — intervista a Ian Cheng, con un talk insieme a Uzodinma Iweala e Rachel Rose](https://luma.org/en/arles/artists-thinkers-a-z/ian-cheng)
 - [Moderna Museet — talk con Ian Cheng e la produttrice Veronica So sull'architettura cognitiva di *BOB*](https://www.modernamuseet.se/stockholm/en/?p=106063)
 - [Serpentine — Ian Cheng: BOB, Emissaries (video)](https://www.serpentinegalleries.org/watch/ian-cheng-bob-emissaries/)
 - [The Brooklyn Rail — Ian Cheng con Osman Can Yerebakan (febbraio 2019)](https://brooklynrail.org/2019/02/art/IAN-CHENG-with-Osman-Can-Yerebakan)
 - *Emissaries Guide to Worlding* ([Serpentine](https://shop.serpentinegalleries.org/products/coming-soon-ian-cheng-emissaries-guide-to-worlding)): il libro include un'intervista di Hans Ulrich Obrist a Cheng.
-- **Video:** [Ian Cheng: Life After BOB Trailer (The Shed, YouTube)](https://www.youtube.com/watch?v=AMg4JQIGjns)
 
 ## Fonti
 - [iancheng.com](https://iancheng.com/)
@@ -128,6 +175,7 @@ Non letti in questa revisione:
 ## Crediti delle immagini
 *Entropy Wrangler*, *Emissary in the Squat of Gods* e *Life After BOB* sono screenshot raccolti nella scheda originale: non è nota la fonte esatta, da sostituire se possibile con immagini di provenienza tracciabile. Controllate a vista il 2026-11-01.
 - *BOB*: immagine dalla pagina [www.pilarcorrias.com](https://www.pilarcorrias.com/exhibitions/173-ian-cheng-bob-bag-of-beliefs/); diritti dei rispettivi titolari, uso didattico.
+- Schema delle maschere: fotografia della p. 35 di *Fare mondi* (Timeo, 2024); diritti dei rispettivi titolari, uso didattico.
 - *Bad Corgi*: immagine dalla pagina [serpentinegalleries.org](https://serpentinegalleries.org/whats-on/ian-cheng-bad-corgi); diritti dei rispettivi titolari, uso didattico.
 
 [^1]: Pilar Corrias, biografia di Ian Cheng. [link](https://www.pilarcorrias.com/artists/39-ian-cheng/biography/)
@@ -173,3 +221,5 @@ Non letti in questa revisione:
 [^21]: Serpentine Galleries, *Ian Cheng: Bad Corgi*. [link](https://serpentinegalleries.org/whats-on/ian-cheng-bad-corgi)
 
 [^22]: *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Travis Diehl).
+
+[^23]: Ian Cheng, *Emissary's Guide to Worlding*, 2018 (estratto trovato in rete, non letto sul libro); Ian Cheng, post su X, 18 luglio 2022. [link](https://x.com/eyecheng/status/1549144623758598150)
