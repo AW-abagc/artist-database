@@ -3,7 +3,7 @@
 **Tag tecnica/formato:** `video` `data-visualization`
 **Tag tema:** `sorveglianza-controllo` `storia-computer-grafica` `game-culture`
 **Tag corso:** `M3D`
-**Stato:** biografia e opere riviste il 2026-11-01 · sintesi: l'opera di Farocki è molto più vasta di quella qui raccolta · da verificare: i titoli dei giochi citati per *Parallel* e una formula attribuita a Parikka
+**Stato:** biografia e opere riviste il 2026-11-01; *Images of the World*, *Eye/Machine*, *War at a Distance*, *Serious Games* e *Parallel* riviste il 2026-11-06 sui testi d'archivio e critici · sintesi: l'opera di Farocki è molto più vasta di quella qui raccolta
 
 ## Biografia
 Regista, artista e scrittore, nato il 9 gennaio 1944 a Neutitschein (oggi Nový Jičín, Repubblica Ceca), morto il 30 luglio 2014 nei pressi di Berlino. Entra nel 1966 alla Accademia tedesca di cinema e televisione di Berlino (dffb), che lascia nel 1968 per ragioni politiche: secondo filmportal viene sospeso con altri diciotto studenti,[^10] secondo altre fonti espulso. Dal 1974 al 1984 è autore e redattore della rivista *Filmkritik*. Insegna a Berkeley (1993-99) e all'Accademia di Belle Arti di Vienna (2004-2011). Con Antje Ehmann, sposata nel 2001, dirige *Labour in a Single Shot* (2011-2014).[^1] Ha realizzato oltre cento film e installazioni; la mostra «Images of War (at a Distance)» al MoMA (2011) è stata la prima grande personale in un museo statunitense.[^2] Figura centrale del cinema saggistico e dell'arte dei media critica sulle immagini tecniche, la guerra e il lavoro.
@@ -15,30 +15,62 @@ Farocki ha sviluppato il concetto di **"immagine operativa"** (*operational imag
 
 ### Immagini del mondo e iscrizione della guerra / Bilder der Welt und Inschrift des Krieges (1988)
 **Descrizione:** film-saggio di 75 minuti in 16 mm, presentato il 10 novembre 1988 alla Duisburger Filmwoche; alcune fonti lo datano al 1989. Ruota attorno alle fotografie aeree americane dello stabilimento IG Farben scattate nel 1944: mostrano il campo di Auschwitz accanto all'obiettivo da bombardare, ma chi le analizzava non lo vide, e la CIA lo riconobbe solo decenni dopo.[^3]
-**Lettura critica:** da questo punto cieco Farocki esamina come macchine, scienza e apparato militare stabiliscano ciò che si può vedere. Riguarda Auschwitz: va presentato con cura.[^3]
+**Lettura critica:** da questo punto cieco Farocki esamina come macchine, scienza e apparato militare stabiliscano ciò che si può vedere. Il film tratta già la sorveglianza nell'identificazione dei volti e nel controllo della catena di montaggio; una voce narrante e la musica guidano la visione, a differenza di *Eye/Machine*, che secondo il germanista Martin Blumenthal-Barby ne è un aggiornamento tematico in forma opposta.[^20] Riguarda Auschwitz: va presentato con cura.[^3]
 
 ![Immagini del mondo e iscrizione della guerra — fotogramma: una mano copre il volto in una fotografia](immagini/harun-farocki/images-of-the-world.jpg)
 
 **Approfondimento:** [harunfarocki.de — Images of the World and the Inscription of War](http://www.harunfarocki.de/films/1980s/1988/images-of-the-world-and-the-inscription-of-war.html)
 
 ### Eye/Machine I-III (2000-2003)
-**Descrizione:** ciclo di video-installazioni a doppia proiezione su sistemi d'arma autonomi e visione artificiale in ambito industriale e militare. Il sito dell'archivio Farocki indica 2000, 2001 e 2003; altre fonti danno 2001-2003. *Eye/Machine III* dura 25 minuti in loop: usa l'esempio del missile da crociera, che confronta un'immagine del paesaggio in memoria con quella ripresa in volo.[^4]
-**Lettura critica:** è qui che Farocki introduce il concetto di immagine operativa, osservando il passaggio dalla rappresentazione alla primazia dell'operazione: l'immagine come parte di un ciclo di calcolo e azione, non di contemplazione.[^4]
+**Descrizione:** ciclo di tre video per doppia proiezione, disponibili anche a canale singolo, su sistemi d'arma autonomi e visione artificiale in ambito industriale e militare. Farocki lavora quasi solo con materiale trovato e didascalie, senza voce fuori campo.[^20] Il sito dell'archivio Farocki indica 2000, 2001 e 2003; altre fonti danno 2001-2003.[^4]
+
+**Le tre parti:**
+
+- *Eye/Machine I* (2000, 23 minuti): parte dalle riprese dai proiettili della guerra del Golfo del 1991 e segue il passaggio delle tecnologie visive militari alla vita civile.[^18] Un operaio alla pressa, accanto a un missile guidato, introduce il paragone tra automazione del lavoro manuale e del lavoro visivo.[^20]
+- *Eye/Machine II* (2001, 15 minuti): si chiede se regga ancora la distinzione tra essere umano e macchina, con macchine «intelligenti» militari e civili e ciò che vedono, e con campi di battaglia simulati al computer.[^19] Un pilota della Bundeswehr al simulatore riferisce senza emozione di essere stato abbattuto.[^20]
+- *Eye/Machine III* (2003, 25 minuti): organizza il materiale attorno al concetto di immagine operativa. Il missile da crociera confronta l'immagine del paesaggio in memoria con quella ripresa in volo, e le linee colorate segnano che cosa conta e che cosa no.[^4]
+
+**Lettura critica:** è qui che Farocki introduce il concetto di immagine operativa. Secondo il comunicato della mostra newyorkese del 2002, il termine compare già nelle prime didascalie della parte I.[^21] Le tre parti condividono immagini e motivi in contesti diversi: Farocki considera anche questo rapporto una forma di montaggio morbido (*soft montage*). Per Blumenthal-Barby è qui che Farocki risponde al sospetto di essere complice della logica militare che mostra.[^20]
+**Video:** [Eye/Machine I](https://www.youtube.com/watch?v=r4sDXhHqndk) · [Eye/Machine II](https://www.youtube.com/watch?v=DR3UOzCjRio) · [Eye/Machine III](https://www.youtube.com/watch?v=eRisum_xq_A) (copie caricate da utenti)
 
 ![Eye/Machine — veduta dell'installazione a doppia proiezione](immagini/harun-farocki/eye-machine.jpg)
 
 **Approfondimento:** [harunfarocki.de — Eye/Machine](http://www.harunfarocki.de/installations/2000s/2000/eye-machine.html)
 
+### War at a Distance (Erkennen und Verfolgen, 2003)
+**Descrizione:** saggio documentario di circa 58 minuti, con voce narrante di Margarita Broich, prodotto da Harun Farocki Filmproduktion con ZDF/3sat. Secondo Blumenthal-Barby è la versione a canale singolo basata su *Eye/Machine*.[^20] Parte dalla guerra del Golfo del 1991, quando le immagini trasmesse e quelle generate al computer diventano difficili da distinguere, e mostra l'immagine come anello di una catena di produzione e distruzione. Con materiali d'archivio e originali, lega strategia militare e produzione industriale e mostra come la tecnologia bellica passi nell'uso quotidiano.[^16] Procede per sei parti collegate, con animazione, agitprop, montaggio, materiale trovato, documentario ed elaborazione digitale.[^26]
+**Lettura critica:** uno dei film chiave sulle «immagini operative»: le immagini non servono più a mostrare ma a guidare un'azione.
+
+![War at a Distance (Erkennen und Verfolgen) — fotogramma, un'esplosione](immagini/harun-farocki/farocki-war-at-a-distance-1.jpg)
+
+![War at a Distance (Erkennen und Verfolgen) — fotogramma, un corridoio visto da una macchina, con la scritta «door»](immagini/harun-farocki/farocki-war-at-a-distance-2.jpg)
+
 ### Serious Games 1-4 (2009-2010)
-**Descrizione:** serie di quattro video, tre a due canali e uno a canale singolo, 44 minuti in tutto, sull'uso di simulazioni videoludiche nel reclutamento, nell'addestramento militare e nella terapia dei veterani: *Watson is Down*, *Three Dead*, *Immersion*, *A Sun with No Shadow*. In *Watson is Down* quattro marines guidano un blindato in un Afghanistan simulato su dati reali, mentre l'istruttore piazza ordigni e nemici.[^5]
-**Lettura critica:** mostra come lo stesso dispositivo tecnico (il motore di simulazione) prepari alla guerra e curi il suo trauma, cortocircuitando addestramento e cura. Nell'ultima parte emerge un dettaglio: i giochi di addestramento hanno le ombre, quelli terapeutici, più economici, no.[^17]
+**Descrizione:** serie di quattro video, tre a due canali e uno a canale singolo, 44 minuti in tutto, sull'uso di simulazioni videoludiche nel reclutamento, nell'addestramento militare e nella terapia dei veterani.[^5] La numerazione non segue l'ordine di realizzazione: *Immersion* è del 2009, le altre parti del 2010.[^22]
+
+**Le quattro parti:**
+
+- *I: Watson is Down* (2010, 8 minuti): addestramento al computer. Nell'autunno 2009, alla base di Twentynine Palms in California, quattro marines guidano su laptop un carro in un Afghanistan ricostruito da dati geografici reali, mentre l'istruttore piazza ordigni e insorti.[^22]
+- *II: Three Dead* (2010, 8 minuti): addestramento dal vero. Nella stessa base, circa 300 comparse impersonano la popolazione afghana e irachena in una città di container, che sembra modellata su un'animazione al computer.[^22]
+- *III: Immersion* (2009, 20 minuti): terapia. In un workshop dell'Institute for Creative Technologies, centro di ricerca sulla realtà virtuale, una simulazione serve a curare veterani con disturbo post-traumatico.[^22]
+- *IV: A Sun without Shadow* (2010, 8 minuti): confronto. Le immagini che preparano alla guerra e quelle che la elaborano dopo si somigliano, ma il programma terapeutico costa meno e non ha ombre.[^22]
+
+**Lettura critica:** mostra come lo stesso dispositivo tecnico (il motore di simulazione) prepari alla guerra e curi il suo trauma, cortocircuitando addestramento e cura. Secondo il booklet di *WORLDBUILDING* il ciclo non mostra immagini della guerra reale, che riaffiora però come sintomo in *Immersion*, quando il trauma attraversa il paesaggio virtuale.[^17]
 **Video:** [Serious Games 1: Watson is Down (video)](https://www.youtube.com/watch?v=P1fa8jZ01rE) · [Serious Games 2: Three Dead (video)](https://www.youtube.com/watch?v=KH5MmRX1Cns) · [Serious Games 3: Immersion (video)](https://www.youtube.com/watch?v=XrXAd6p4EaM)
 
 ![Serious Games 1: Watson is Down — fotogramma](immagini/harun-farocki/serious-games-watson-is-down.jpg)
 
 ### Parallel I-IV (2012-2014)
-**Descrizione:** videoinstallazione in quattro parti, due a due canali e due a un canale, di 16, 9, 7 e 11 minuti: l'ultima opera completata da Farocki. Segue l'evoluzione della grafica dei videogiochi in trent'anni, dalle prime forme simboliche al realismo; la seconda e la terza parte saggiano i limiti dei mondi di gioco, la quarta i protagonisti, che esplorano senza maestri né genitori.[^6][^7] I giochi citati nella stesura precedente (*Mystery House*, *Pitfall*, *King's Quest*) non risultano dalle fonti lette [verificare sul video].
-**Lettura critica:** nei film c'è il vento che soffia e quello prodotto da una macchina, mentre «le immagini al computer non hanno due tipi di vento», dice Farocki: la grafica non distingue tra natura e artificio.[^7]
+**Descrizione:** videoinstallazione in quattro parti, due a due canali e due a un canale: l'ultima opera completata da Farocki. Segue l'evoluzione della grafica dei videogiochi in trent'anni.[^6][^7]
+
+**Le quattro parti:**
+
+- *Parallel I* (2012, 16 minuti): storia degli stili della grafica, dalle linee orizzontali e verticali dei primi giochi al fotorealismo,[^23] con tappe come *Mystery House* (1980), *Pitfall* (1982) e *King's Quest* (1984).[^24]
+- *Parallel II* (2014, 9 minuti): i confini dei mondi di gioco, spesso dischi sospesi nell'universo con proscenio e fondale, come un teatro.[^23] Farocki li accosta alle concezioni del mondo precedenti alla cultura ellenistica.
+- *Parallel III* (2014, 7 minuti): l'illusione di realtà nel gioco;[^24] gli oggetti non esistono davvero e ogni proprietà è costruita e assegnata a parte.[^23]
+- *Parallel IV* (2014, 11 minuti): gli eroi dei giochi, senza genitori né maestri, con una sola espressione e poche frasi intercambiabili. Farocki li chiama homunculi, esseri antropomorfi creati dagli esseri umani.[^23]
+
+**Lettura critica:** nei film c'è il vento che soffia e quello prodotto da una macchina, mentre «le immagini al computer non hanno due tipi di vento», dice Farocki: la grafica non distingue tra natura e artificio.[^7] Farocki afferma che all'era della riproduzione sta subentrando quella della costruzione di un mondo nuovo.[^25]
 **Video:** [Parallel I-IV, versione integrale (Internet Archive)](https://archive.org/details/parallel-i-iv-2014)
 
 ![Parallel I-IV — fotogramma](immagini/harun-farocki/parallel-i-iv.jpg)
@@ -71,30 +103,22 @@ Farocki ha sviluppato il concetto di **"immagine operativa"** (*operational imag
 
 **Approfondimento:** [Video Data Bank — Harun Farocki](https://vdb.org/node/9912)
 
-### War at a Distance (Erkennen und Verfolgen, 2003)
-**Descrizione:** saggio documentario di circa 58 minuti, con voce narrante di Margarita Broich, prodotto da Harun Farocki Filmproduktion con ZDF/3sat. Parte dalla guerra del Golfo del 1991, quando le immagini trasmesse e quelle generate al computer diventano difficili da distinguere, e mostra l'immagine come anello di una catena di produzione e distruzione. Con materiali d'archivio e originali, lega strategia militare e produzione industriale e mostra come la tecnologia bellica passi nell'uso quotidiano.[^16]
-**Lettura critica:** uno dei film chiave sulle «immagini operative»: le immagini non servono più a mostrare ma a guidare un'azione.
-
-![War at a Distance (Erkennen und Verfolgen) — fotogramma, un'esplosione](immagini/harun-farocki/farocki-war-at-a-distance-1.jpg)
-
-![War at a Distance (Erkennen und Verfolgen) — fotogramma, un corridoio visto da una macchina, con la scritta «door»](immagini/harun-farocki/farocki-war-at-a-distance-2.jpg)
-
 ## Approfondimenti
 Materiale teorico per la didattica, ricavato dalla scheda di riferimento originale (REF su Drive) e dai saggi che cita.
 
 ### Immagini operative: la genealogia
 - **Dal visivo all'invisuale.** Secondo Jussi Parikka le immagini operative incrinano la nozione stessa di immagine: non sono necessariamente rappresentative né pittoriche, passano dal primato della percezione umana alla misura, all'analisi di pattern, alla navigazione. Hanno una forza epistemica e intervengono nel mondo, direttamente o indirettamente.[^8]
 - **Una storia alternativa delle tecnologie visive.** Parikka fa risalire l'imaging operativo al telerilevamento ottocentesco: lo spettrometro di Joseph von Fraunhofer (anni 1810) è per lui un caso centrale, perché ciò che registra non è una «immagine» in senso tradizionale. Già nel suo primo secolo la fotografia era uno strumento di misura che analizzava il mondo, compreso quello extraterrestre (astronomia); l'incontro fra media e scienze ha poi guidato il passaggio al «digitale», all'analisi di dati e all'infrastruttura planetaria.
-- **Il termine in Farocki.** Appare nei primi anni Duemila nella trilogia *Eye/Machine I–III* (2001–03), su armi autonome, visione artificiale industriale e passaggio dalle rappresentazioni al primato delle operazioni. Il REF lega le immagini di Farocki a una storia di chimica, violenza, lavoro, sfruttamento e dati, non solo di cultura visiva; precedente di terreno in *Bilder der Welt und Inschrift des Krieges* (1988).[^4]
+- **Il termine in Farocki.** Appare nei primi anni Duemila nella trilogia *Eye/Machine I–III* (2000–03), su armi autonome, visione artificiale industriale e passaggio dalle rappresentazioni al primato delle operazioni. Il REF lega le immagini di Farocki a una storia di chimica, violenza, lavoro, sfruttamento e dati, non solo di cultura visiva; precedente di terreno in *Bilder der Welt und Inschrift des Krieges* (1988).[^4]
 - **Paglen.** Il REF segna il saggio [Trevor Paglen, «Operational Images» (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/), che parte dalla visione di *Eye/Machine III*: frecce animate che mostrano come un robot «vede» il paesaggio, la traiettoria di un missile da crociera, riquadri verdi che tracciano oggetti in movimento.
 
 ### Letture aggiunte il 2026-11-01
-- **La definizione di Farocki.** Nel saggio «Phantom Images» (*Public* 29, 2004, p. 17) le immagini operative sono descritte come immagini che non rappresentano un oggetto ma fanno parte di un'operazione.[^5]
-- **Il problema della complicità.** Martin Blumenthal-Barby («Cinematography of Devices», *German Studies Review* 38.2, 2015) chiede se Farocki, mostrando queste immagini senza commento, ne resti complice. La risposta sta nella forma: il loop smentisce il progresso vantato dall'industria e il museo le disattiva come strumenti. Sintesi in `risorse/immagini-operative-farocki.md` del repo privato.
+- **La definizione di Farocki.** Nel saggio «Phantom Images» (*Public* 29, 2004, p. 17) le immagini operative sono descritte come immagini che non rappresentano un oggetto ma fanno parte di un'operazione.[^20]
+- **Il problema della complicità.** Martin Blumenthal-Barby («Cinematography of Devices», *German Studies Review* 38.2, 2015) chiede se Farocki, mostrando queste immagini senza commento, ne resti complice. La risposta sta nella forma: il loop smentisce il progresso vantato dall'industria e il museo le disattiva come strumenti.[^20]
 - **Asimmetria delle immagini.** Maurizio Guerri legge *Serious Games* come genealogia del nostro modo di vedere la guerra e come «profanazione» nel senso di Agamben: le immagini operative producono un'asimmetria nei conflitti e nella loro percezione.[^9] *(Letto l'abstract.)*
 
 ### Guerra simulata: Theweleit
-Dal REF, citazione di Klaus Theweleit (usata da Farocki in *Erkennen und Verfolgen / War at a Distance*, 2003, dal minuto 25:59): le immagini computerizzate della guerra cancellano la differenza tra eventi simulati e reali e tra tempo storico e tempo simulato; diventa impossibile decidere se qualcosa accade, che cosa accade, e se accade mentre lo vediamo. Le persone morte in Iraq sotto le bombe con telecamera erano già trattate dalla macchina come persone simulate. Ne consegue l'abolizione dell'«immagine autentica» (con il suo cartellino di tempo e luogo) e degli occhi come organo che testimonia la storia. *(Numero di nota 19 nel REF: titolo e pagina del testo di Theweleit da rintracciare nel saggio di Parikka.)*
+Dal REF, citazione di Klaus Theweleit (usata da Farocki in *Erkennen und Verfolgen / War at a Distance*, 2003, dal minuto 25:59): le immagini computerizzate della guerra cancellano la differenza tra eventi simulati e reali e tra tempo storico e tempo simulato; diventa impossibile decidere se qualcosa accade, che cosa accade, e se accade mentre lo vediamo. Le persone morte in Iraq sotto le bombe con telecamera erano già trattate dalla macchina come persone simulate. Ne consegue l'abolizione dell'«immagine autentica» (con il suo cartellino di tempo e luogo) e degli occhi come organo che testimonia la storia. Il testo è *Neues und Altes vom brennenden Busch*, *Lettre International* 12, 1991.[^20]
 
 ### Spunti per la didattica
 - Confronto con Paglen e Steyerl (immagini operative) e con Claerbout sulla fiducia nell'immagine (*The Silence of the Lens*: scansione come logica dell'evitare).
@@ -104,7 +128,6 @@ Dal REF, citazione di Klaus Theweleit (usata da Farocki in *Erkennen und Verfolg
 Non letti in questa revisione:
 - Jussi Parikka, *Operational Images* (University of Minnesota Press), oltre la pagina iniziale
 - [Maurizio Guerri su *Serious Games*](https://www.jrfm.eu/index.php/ojs_jrfm/article/view/300), letto l'abstract
-- Klaus Theweleit: titolo e pagina del testo citato in *War at a Distance* restano da rintracciare
 
 ## Interviste e talk
 - «Nine Minutes in the Yard: A Conversation with Harun Farocki», di Rembert Hüser, in Thomas Elsaesser (a cura di), *Harun Farocki: Working on the Sight-Lines* (2004) — testo a stampa
@@ -167,3 +190,21 @@ Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione
 [^16]: *War at a Distance*, harunfarocki.de. [link](https://www.harunfarocki.de/films/2000s/2003/war-at-a-distance.html)
 
 [^17]: *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022.
+
+[^18]: *Eye/Machine*, testo di produzione, harunfarocki.de. [link](https://www.harunfarocki.de/installations/2000s/2000/eye-machine.html)
+
+[^19]: *Eye/Machine II*, Video Data Bank. [link](https://www.vdb.org/product/2464)
+
+[^20]: Martin Blumenthal-Barby, «"Cinematography of Devices": Harun Farocki's Eye/Machine Trilogy», *German Studies Review* 38.2, 2015, pp. 329-351. [link](http://muse.jhu.edu/journals/gsr/summary/v038/38.2.blumenthal-barby.html)
+
+[^21]: Greene Naftali, comunicato della mostra *Eye/Machine*, New York, 2002. [link](https://greenenaftaligallery.com/exhibitions/harun-farocki3)
+
+[^22]: *Serious Games I-IV*, harunfarocki.de: [I](https://www.harunfarocki.de/installations/2010s/2010/serious-games-i-watson-is-down.html), [II](https://www.harunfarocki.de/installations/2010s/2010/serious-games-ii-three-dead.html), [III](https://www.harunfarocki.de/installations/2000s/2009/serious-games-iii-immersion.html), [IV](https://www.harunfarocki.de/installations/2010s/2010/serious-games-iv-a-sun-without-shadow.html).
+
+[^23]: *Parallel I-IV*, testi di Farocki, harunfarocki.de: [I](https://www.harunfarocki.de/installations/2010s/2012/parallel.html), [II](https://www.harunfarocki.de/installations/2010s/2014/parallel-ii.html), [III](https://www.harunfarocki.de/installations/2010s/2014/parallel-iii.html), [IV](https://www.harunfarocki.de/installations/2010s/2014/parallel-iv.html).
+
+[^24]: Greene Naftali, comunicato della mostra di *Parallel I-IV*. [link](https://greenenaftaligallery.com/exhibitions/harun-farocki2)
+
+[^25]: Fondazione Sandretto Re Rebaudengo, *Harun Farocki. Parallel I-IV*. [link](https://fsrr.org/en/mostre-category/24430/)
+
+[^26]: International Film Festival Rotterdam, *Erkennen und Verfolgen*. [link](https://iffr.com/en/2004/films/erkennen-und-verfolgen)
