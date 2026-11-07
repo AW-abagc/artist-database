@@ -15,7 +15,7 @@ Farocki ha sviluppato il concetto di **"immagine operativa"** (*operational imag
 
 ### Immagini del mondo e iscrizione della guerra / Bilder der Welt und Inschrift des Krieges (1988)
 **Descrizione:** film-saggio di 75 minuti in 16 mm, presentato il 10 novembre 1988 alla Duisburger Filmwoche; alcune fonti lo datano al 1989. Ruota attorno alle fotografie aeree americane dello stabilimento IG Farben scattate nel 1944: mostrano il campo di Auschwitz accanto all'obiettivo da bombardare, ma chi le analizzava non lo vide, e la CIA lo riconobbe solo decenni dopo.[^3]
-**Lettura critica:** da questo punto cieco Farocki esamina come macchine, scienza e apparato militare stabiliscano ciò che si può vedere. Il film tratta già la sorveglianza nell'identificazione dei volti e nel controllo della catena di montaggio; una voce narrante e la musica guidano la visione, a differenza di *Eye/Machine*, che secondo il germanista Martin Blumenthal-Barby ne è un aggiornamento tematico in forma opposta.[^20] Riguarda Auschwitz: va presentato con cura.[^3]
+**Lettura critica:** da questo punto cieco Farocki esamina come macchine, scienza e apparato militare stabiliscano ciò che si può vedere. Il film tratta già la sorveglianza nell'identificazione dei volti e nel controllo della catena di montaggio; una voce narrante e la musica guidano la visione, a differenza di *Eye/Machine*, che secondo il germanista Martin Blumenthal-Barby ne è un aggiornamento tematico in forma opposta.[^20]
 
 ![Immagini del mondo e iscrizione della guerra — fotogramma: una mano copre il volto in una fotografia](immagini/harun-farocki/images-of-the-world.jpg)
 
@@ -39,7 +39,7 @@ Farocki ha sviluppato il concetto di **"immagine operativa"** (*operational imag
 
 ### War at a Distance (Erkennen und Verfolgen, 2003)
 **Descrizione:** saggio documentario di circa 58 minuti, con voce narrante di Margarita Broich, prodotto da Harun Farocki Filmproduktion con ZDF/3sat. Secondo Blumenthal-Barby è la versione a canale singolo basata su *Eye/Machine*.[^20] Parte dalla guerra del Golfo del 1991, quando le immagini trasmesse e quelle generate al computer diventano difficili da distinguere, e mostra l'immagine come anello di una catena di produzione e distruzione. Con materiali d'archivio e originali, lega strategia militare e produzione industriale e mostra come la tecnologia bellica passi nell'uso quotidiano.[^16] Procede per sei parti collegate, con animazione, agitprop, montaggio, materiale trovato, documentario ed elaborazione digitale.[^26]
-**Lettura critica:** uno dei film chiave sulle «immagini operative»: le immagini non servono più a mostrare ma a guidare un'azione.
+**Lettura critica:** il film tratta le «immagini operative», che non servono a mostrare ma a guidare un'azione.
 
 ![War at a Distance (Erkennen und Verfolgen) — fotogramma, un'esplosione](immagini/harun-farocki/farocki-war-at-a-distance-1.jpg)
 
@@ -98,36 +98,25 @@ Farocki ha sviluppato il concetto di **"immagine operativa"** (*operational imag
 
 **Approfondimento:** [Haus der Kunst — Harun Farocki, Counter-Music](https://hausderkunst.de/en/eintauchen/harun-farocki-counter-music)
 
-### Altre opere (elenco da approfondire)
-**Descrizione:** dal catalogo del Video Data Bank: *How to Live in the FRG* (1990), *The Appearance* (1996), *Still Life* (1997), *The Interview* (1997), *The Creators of Shopping Worlds* (2001). Titoli e anni sono quelli del catalogo, le descrizioni vanno ancora scritte.
+### Altre opere
+**Descrizione:** dal catalogo del Video Data Bank: *How to Live in the FRG* (1990), *The Appearance* (1996), *Still Life* (1997), *The Interview* (1997), *The Creators of Shopping Worlds* (2001).
 
 **Approfondimento:** [Video Data Bank — Harun Farocki](https://vdb.org/node/9912)
 
 ## Approfondimenti
-Materiale teorico per la didattica, ricavato dalla scheda di riferimento originale (REF su Drive) e dai saggi che cita.
-
 ### Immagini operative: la genealogia
 - **Dal visivo all'invisuale.** Secondo Jussi Parikka le immagini operative incrinano la nozione stessa di immagine: non sono necessariamente rappresentative né pittoriche, passano dal primato della percezione umana alla misura, all'analisi di pattern, alla navigazione. Hanno una forza epistemica e intervengono nel mondo, direttamente o indirettamente.[^8]
 - **Una storia alternativa delle tecnologie visive.** Parikka fa risalire l'imaging operativo al telerilevamento ottocentesco: lo spettrometro di Joseph von Fraunhofer (anni 1810) è per lui un caso centrale, perché ciò che registra non è una «immagine» in senso tradizionale. Già nel suo primo secolo la fotografia era uno strumento di misura che analizzava il mondo, compreso quello extraterrestre (astronomia); l'incontro fra media e scienze ha poi guidato il passaggio al «digitale», all'analisi di dati e all'infrastruttura planetaria.
-- **Il termine in Farocki.** Appare nei primi anni Duemila nella trilogia *Eye/Machine I–III* (2000–03), su armi autonome, visione artificiale industriale e passaggio dalle rappresentazioni al primato delle operazioni. Il REF lega le immagini di Farocki a una storia di chimica, violenza, lavoro, sfruttamento e dati, non solo di cultura visiva; precedente di terreno in *Bilder der Welt und Inschrift des Krieges* (1988).[^4]
-- **Paglen.** Il REF segna il saggio [Trevor Paglen, «Operational Images» (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/), che parte dalla visione di *Eye/Machine III*: frecce animate che mostrano come un robot «vede» il paesaggio, la traiettoria di un missile da crociera, riquadri verdi che tracciano oggetti in movimento.
+- **Il termine in Farocki.** Appare nei primi anni Duemila nella trilogia *Eye/Machine I–III* (2000–03), su armi autonome, visione artificiale industriale e passaggio dalle rappresentazioni al primato delle operazioni. Le immagini di Farocki si legano a una storia di chimica, violenza, lavoro, sfruttamento e dati, non solo di cultura visiva; un precedente è *Bilder der Welt und Inschrift des Krieges* (1988).[^4]
+- **Paglen.** Il saggio [Trevor Paglen, «Operational Images» (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/), che parte dalla visione di *Eye/Machine III*: frecce animate che mostrano come un robot «vede» il paesaggio, la traiettoria di un missile da crociera, riquadri verdi che tracciano oggetti in movimento.
 
-### Letture aggiunte il 2026-11-01
+### Letture critiche
 - **La definizione di Farocki.** Nel saggio «Phantom Images» (*Public* 29, 2004, p. 17) le immagini operative sono descritte come immagini che non rappresentano un oggetto ma fanno parte di un'operazione.[^20]
 - **Il problema della complicità.** Martin Blumenthal-Barby («Cinematography of Devices», *German Studies Review* 38.2, 2015) chiede se Farocki, mostrando queste immagini senza commento, ne resti complice. La risposta sta nella forma: il loop smentisce il progresso vantato dall'industria e il museo le disattiva come strumenti.[^20]
-- **Asimmetria delle immagini.** Maurizio Guerri legge *Serious Games* come genealogia del nostro modo di vedere la guerra e come «profanazione» nel senso di Agamben: le immagini operative producono un'asimmetria nei conflitti e nella loro percezione.[^9] *(Letto l'abstract.)*
+- **Asimmetria delle immagini.** Maurizio Guerri legge *Serious Games* come genealogia del modo di vedere la guerra e come «profanazione» nel senso di Agamben: le immagini operative producono un'asimmetria nei conflitti e nella loro percezione.[^9]
 
 ### Guerra simulata: Theweleit
-Dal REF, citazione di Klaus Theweleit (usata da Farocki in *Erkennen und Verfolgen / War at a Distance*, 2003, dal minuto 25:59): le immagini computerizzate della guerra cancellano la differenza tra eventi simulati e reali e tra tempo storico e tempo simulato; diventa impossibile decidere se qualcosa accade, che cosa accade, e se accade mentre lo vediamo. Le persone morte in Iraq sotto le bombe con telecamera erano già trattate dalla macchina come persone simulate. Ne consegue l'abolizione dell'«immagine autentica» (con il suo cartellino di tempo e luogo) e degli occhi come organo che testimonia la storia. Il testo è *Neues und Altes vom brennenden Busch*, *Lettre International* 12, 1991.[^20]
-
-### Spunti per la didattica
-- Confronto con Paglen e Steyerl (immagini operative) e con Claerbout sulla fiducia nell'immagine (*The Silence of the Lens*: scansione come logica dell'evitare).
-- *Parallel I–IV*: storia degli stili della grafica computerizzata, dalle prime forme simboliche al realismo; i mondi di gioco e i loro limiti (vedi la descrizione dell'opera).
-
-### Da leggere
-Non letti in questa revisione:
-- Jussi Parikka, *Operational Images* (University of Minnesota Press), oltre la pagina iniziale
-- [Maurizio Guerri su *Serious Games*](https://www.jrfm.eu/index.php/ojs_jrfm/article/view/300), letto l'abstract
+Citazione di Klaus Theweleit (usata da Farocki in *Erkennen und Verfolgen / War at a Distance*, 2003, dal minuto 25:59): le immagini computerizzate della guerra cancellano la differenza tra eventi simulati e reali e tra tempo storico e tempo simulato; diventa impossibile decidere se qualcosa accade, che cosa accade, e se accade mentre lo vediamo. Le persone morte in Iraq sotto le bombe con telecamera erano già trattate dalla macchina come persone simulate. Ne consegue l'abolizione dell'«immagine autentica» (con il suo cartellino di tempo e luogo) e degli occhi come organo che testimonia la storia. Il testo è *Neues und Altes vom brennenden Busch*, *Lettre International* 12, 1991.[^20]
 
 ## Interviste e talk
 - «Nine Minutes in the Yard: A Conversation with Harun Farocki», di Rembert Hüser, in Thomas Elsaesser (a cura di), *Harun Farocki: Working on the Sight-Lines* (2004) — testo a stampa
@@ -173,7 +162,7 @@ Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione
 
 [^8]: Jussi Parikka, *Operational Images: From the Visual to the Invisual*, University of Minnesota Press (aperta solo la pagina iniziale). [link](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)
 
-[^9]: Maurizio Guerri su *Serious Games*, *Journal for Religion, Film and Media*, 8.1, 2022 (letto l'abstract). [link](https://www.jrfm.eu/index.php/ojs_jrfm/article/view/300)
+[^9]: Maurizio Guerri su *Serious Games*, *Journal for Religion, Film and Media*, 8.1, 2022 (letto solo l'abstract). [link](https://www.jrfm.eu/index.php/ojs_jrfm/article/view/300)
 
 [^10]: filmportal, *Harun Farocki*. [link](https://www.filmportal.de/en/node/305283)
 
