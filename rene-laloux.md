@@ -21,8 +21,6 @@ Il suo collaboratore principale è Roland Topor, con cui realizza *Les Temps mor
 ### Les Maîtres du temps (1982)
 **Descrizione:** Lungometraggio realizzato con Jean Giraud (Mœbius).
 
-⚠️ Nessuna immagine trovata.
-
 ### Gandahar (1987)
 **Descrizione:** Ultimo lungometraggio, tratto dal romanzo *Les Hommes-machines contre Gandahar* (1969) di Jean-Pierre Andrevon. Negli Stati Uniti uscì in versione abbreviata e ridoppiata con il titolo *Light Years*.
 

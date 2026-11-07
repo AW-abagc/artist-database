@@ -47,8 +47,6 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 **Descrizione:** debutto della prima mostra personale istituzionale dell'artista, alla Triennale di Milano (20 luglio-26 agosto 2018, a cura di Edoardo Bonaspetti). Installazione in vinile/tubi al neon che raffigura una bambina malata al centro di una "veglia" di sedici enigmatiche figure adolescenti che la scrutano o si distraggono con azioni prive di senso.
 **Lettura critica:** malinconia esistenziale dell'infanzia in una zona liminale tra vita e morte — un tema che ritornerà costantemente in tutta l'opera successiva dell'artista.
 
-⚠️ Nessuna immagine trovata: non presente tra le opere con immagini dirette su Sadie Coles HQ; la Fondazione Nicola Trussardi documenta un'altra mostra (Teatro Gerolamo), non questa installazione del 2018 alla Triennale.
-
 ### The Parents' Room (2020-2021)
 **Corso:** `TAD-AVM`
 **Temi:** `sogno-e-inconscio`
@@ -72,7 +70,6 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 
 ### Krapfen (2025)
 **Descrizione:** video digitale a colori con suono, in loop, di 4 minuti e 44 secondi: un'opera musicale che unisce l'animazione americana dell'età dell'oro e l'opera italiana. Un ragazzino di genere ambiguo (interpretato da Violet Savage) è circondato da quattro capi di abbigliamento — guanti, sciarpa, pantaloni e maglione — che lo incalzano a mangiare un krapfen in una coreografia frenetica, su una partitura di Federico Chiari. L'ambientazione infantile ha un'atmosfera inquietante: il dolce diventa il dispositivo per evocare terrore e annientamento. Presentata alla Fondazione Sandretto Re Rebaudengo di Torino dal 15 aprile 2026 (le fonti indicano la chiusura il 26 luglio o il 2 agosto 2026) e già alla Renaissance Society di Chicago (2025). È la prima opera prodotta con il New Futures Production Fund, collaborazione tra la Fondazione e il New Museum di New York; prodotta con Lafayette Anticipations, New Museum, The Renaissance Society e The Vega Foundation, con il sostegno di Sadie Coles HQ e Galerie Buchholz.
-**Lettura critica:** da aggiungere: non ho trovato letture critiche indipendenti, solo i testi di galleria e istituzione.
 **Approfondimento:** [sadiecoles.com — Krapfen](https://www.sadiecoles.com/exhibitions/krapfen-2) · [Renaissance Society — Krapfen](https://renaissancesociety.org/exhibitions/560/diego-marcon-krapfen/)
 
 ![Krapfen — fotogramma](immagini/diego-marcon/krapfen-1.jpg)

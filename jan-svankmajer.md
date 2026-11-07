@@ -42,7 +42,7 @@ Giovanni Russo, in Bendazzi, aggiunge il manierismo praghese di Rodolfo II: i pr
 **Corso:** `TAD-DCV` `TAD-AVM`
 **Temi:** `corpo-post-umano` `tempo-lungo-e-durata`
 **Descrizione:** premiato nel 1983 ad Annecy e con l'Orso d'oro a Berlino ([Wikipedia](https://en.wikipedia.org/wiki/Jan_%C5%A0vankmajer)). I personaggi restano chiusi in cicli distruttivi (*Fantasmagoria*, PDF 30). Bendazzi data il film al 1983 e ricorda che l'animazione è di Vlasta Pospíšilová (PDF 1279-1281).
-**Lettura critica:** è l'opera che lo fa conoscere nell'Europa occidentale ([Britannica](https://www.britannica.com/biography/Jan-vankmajer)). Per la lezione sul corpo: l'argilla porta il segno di chi la modella.
+**Lettura critica:** è l'opera che lo fa conoscere nell'Europa occidentale ([Britannica](https://www.britannica.com/biography/Jan-vankmajer)). L'argilla porta il segno di chi la modella.
 
 ### Alice (1988)
 **Temi:** `sogno-e-inconscio`

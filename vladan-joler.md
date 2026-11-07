@@ -39,8 +39,6 @@ Joler definisce il proprio metodo come **"cartografia critica"** (o "contro-cart
 **Descrizione:** grande mappa accompagnata da un manuale illustrato (con note a piè di pagina) che intreccia ricerca sul data mining, filosofia, teoria dei media, sociologia e narrativa per rappresentare l'"estrattivismo" come logica unificante che collega colonialismo delle risorse naturali, estrazione di dati ed estrazione di lavoro cognitivo/affettivo umano. Animazione video di Živa Stanojević e Aleksandar Ilić.
 **Lettura critica:** condivide le fondamenta di ricerca con il libro di Kate Crawford *Atlas of AI* (Yale University Press, 2021) — due output distinti che nascono dalla stessa indagine sull'infrastruttura materiale dell'intelligenza artificiale.
 
-⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione.
-
 ### Calculating Empires: A Genealogy of Technology and Power, 1500-2025 (2023, con Kate Crawford)
 **Descrizione:** mappa dittica di grande formato (circa 24 metri secondo le fonti) accompagnata da due volumi manoscritti annotati, che ripercorre cinque secoli di intreccio tra sistemi tecnologici e potere imperiale/statale, dalla stampa e il telegrafo fino all'intelligenza artificiale contemporanea. Presentata in anteprima all'Osservatorio della Fondazione Prada, Milano (2023-24); in seguito al KW Institute for Contemporary Art di Berlino, al Rijksmuseum Twenthe e alla Kunsthalle Wien.
 **Lettura critica:** vincitrice del Grand Prize S+T+ARTS 2024 e del Leone d'Argento alla Biennale Architettura di Venezia 2025 — la scala storica di cinque secoli sposta il metodo della cartografia critica dall'analisi di un singolo sistema tecnico (l'Echo, Facebook) a una genealogia di lunghissimo periodo del potere tecnologico.

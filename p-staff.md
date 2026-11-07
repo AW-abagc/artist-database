@@ -3,8 +3,6 @@
 **Tag tecnica/formato:** `installazione` `video` `projection-mapping`
 **Tag tema:** `corpo-identita` `genere-queerness` `performance-audiovisiva` `video-mapping-e-proiezione`
 
-⚠️ **Nota di inquadramento**: P. Staff ha già una scheda nel database gemello `research-database`, incentrata su corpo trans/queer. Questa scheda privilegia la lettura mediale/percettiva della pratica (luce, retina, dispositivo installativo come tecnologia sul corpo dello spettatore) più adatta a un database su new media/video/installazione — la componente queer/trans resta comunque strutturale nella poetica e non va del tutto omessa.
-
 ## Biografia
 Nato nel 1987 a Bognor Regis, Regno Unito; laureato a Goldsmiths, University of London (2009). Vive tra Los Angeles e Londra. Persona transgender, pronomi they/them. Personali/istituzionali: *Weed Killer* (MOCA Los Angeles, 2017), *On Venus* (Serpentine Galleries, Londra, 2019), *The Foundation* (LUMA Westbau Zurigo e Dundee Contemporary Arts, 2019), *In Ekstase* (Kunsthalle Basel, 2023). Presente alla Biennale Arte 2022 ("Milk of Dreams"). Nel 2026 presente alla mostra collettiva **CANICULA** (Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia, 6 maggio-22 novembre 2026, cur. Alessandro Rabottini e Leonardo Bigazzi) — occasione della visita che ha originato questa scheda.
 

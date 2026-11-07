@@ -5,7 +5,7 @@
 **Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 
 ## Biografia
-Artista britannico, nato nel 1982, cresciuto a Stonesfield, un paese vicino a Oxford (madre insegnante d'arte, padre grafico). BA al Central Saint Martins; MA in Fine Art allo Slade School of Fine Art, University College London (2009). Ha insegnato come Fine Art Lecturer al Goldsmiths College di Londra (2012-2014) — **non vi si è laureato**, come indicato erroneamente in una versione precedente di questa scheda. Vive a Copenaghen; insegna anche alla Hochschule für bildende Künste di Amburgo. Retrospettiva alla Tate Britain (recensita dal Guardian nell'aprile 2025).
+Artista britannico, nato nel 1982, cresciuto a Stonesfield, un paese vicino a Oxford (madre insegnante d'arte, padre grafico). BA al Central Saint Martins; MA in Fine Art allo Slade School of Fine Art, University College London (2009). Ha insegnato come Fine Art Lecturer al Goldsmiths College di Londra (2012-2014) — **non vi si è laureato**. Vive a Copenaghen; insegna anche alla Hochschule für bildende Künste di Amburgo. Retrospettiva alla Tate Britain (recensita dal Guardian nell'aprile 2025).
 
 ## Poetica e ricerca
 Atkins lavora con avatar CGI ad altissima definizione — "surrogati" digitali — come stand-in di sé stesso, mappando il proprio volto sul modello tramite motion capture. Il suo lavoro esplora il divario tra la perfezione apparente dell'immagine digitale e la fragilità, la finitezza e la malinconia dell'esperienza umana: gli avatar cadono nella "valle perturbante", con pelle simile a cera e movimenti goffi, portati al massimo dettaglio tecnico solo per rivelarne il fallimento nel catturare la vita vera. Il processo creativo parte quasi sempre dalla scrittura — testo come "sceneggiatura" che dà una parvenza di interiorità a figure altrimenti vuote — e da un sound design viscerale (respiri, deglutizioni, singhiozzi) che contrasta con l'immagine, re-iniettando fisicità in ciò che la CGI ha svuotato. Ha pubblicato anche un libro di testi, *A Primer for Cadavers*.
@@ -88,10 +88,8 @@ Atkins lavora con avatar CGI ad altissima definizione — "surrogati" digitali �
 **Descrizione:** avatar motion-captured che esegue un brano al pianoforte.
 **Lettura critica:** l'emozione della performance musicale sopravvive anche quando il corpo che la produce è dichiaratamente assente.
 
-⚠️ Nessuna immagine trovata: le fonti individuate (Mimic Productions, Gladstone Gallery, Instagram/Facebook) non espongono immagini dirette scaricabili automaticamente.
-
 ## Approfondimenti
-Materiale per la didattica. Le prime due sezioni, aggiunte il 2026-11-01, sono state lette sulle fonti. Il resto viene dal documento di riferimento originale (REF su Drive), in gran parte compilato da AI: i link riportano parametri di tracciamento da chatbot e le frasi attribuite all'artista non hanno una fonte primaria indicata. Vanno quindi controllate prima di citarle in classe.
+Le frasi delle sezioni «Parole attribuite all'artista» e «Dall'intervista» non hanno una fonte primaria indicata e non sono state controllate.
 
 ### Parole dell'artista
 Dalla conversazione via email con Mitch Speed ([Art Basel](https://www.artbasel.com/news/ed-atkins-avatars-animations-experimental-writing)):
@@ -103,26 +101,19 @@ Dalla conversazione via email con Mitch Speed ([Art Basel](https://www.artbasel.
 ### Letture critiche
 - **Maschere mortuarie (Caldas).** Sulla mostra alla Tate Britain, Julieta Caldas legge gli avatar come maschere mortuarie, registrazioni di movimento umano chiuse in un presente che si ripete. L'opera interrompe di continuo la propria illusione; lo stesso Atkins scrive di volere che tutto ciò che fa si inceppi come un attore che ride in scena (*corpse*). Caldas critica però i testi di sala, che indicano già come reagire ([New Left Review, Sidecar, 2025](https://newleftreview.org/sidecar/posts/death-masks)).
 - **La svolta confessionale (Kurtz).** Michael Kurtz vede un passaggio dall'alienazione digitale a un modo confessionale, centrato su famiglia e amore, e lo lega allo «stile dell'immediatezza» di Anna Kornbluh. Trova i lavori più recenti solipsistici; salva *The Worm*, dove la figura digitale fredda e la telefonata calda mantengono una distanza ([e-flux, 2025](https://www.e-flux.com/criticism/666807/ed-atkins)).
-- **Da leggere.** [Hal Foster su *The Worm*, Artforum](https://www.artforum.com/features/hal-foster-on-ed-atkinss-the-worm-2021-250660/): non è stato possibile aprirlo da qui.
 
-### Parole attribuite all'artista *(origine AI, da verificare)*
+### Parole attribuite all'artista *(da verificare)*
 - Il volto: «Mappo il movimento del mio volto su quello del modello CGI: è il mio volto che si contorce, recitando dietro questa maschera immateriale.»
 - L'artificio: vuole un'arte «ferocemente artificiale, ma che ti dice di controllare il neo sulla spalla».
 - I temi: morte, cedimento del corpo, rimpianto, perdita e malinconia come motivi ricorrenti.
 - Tate Britain, sulla sua pratica: usa le proprie esperienze, sentimenti e corpo come modelli per intimità, amore e perdita ([Tate Britain](https://www.tate.org.uk/whats-on/tate-britain/ed-atkins)).
 
-### Dall'intervista «Something is Missing» *(sintesi AI del REF, da riascoltare)*
-Fonte da riascoltare: [Ed Atkins Interview: Something is Missing](https://www.youtube.com/watch?v=H1iwLbwxKys).
+### Dall'intervista «Something is Missing» *(da verificare sull'intervista)*
+Fonte: [Ed Atkins Interview: Something is Missing](https://www.youtube.com/watch?v=H1iwLbwxKys).
 - **Scrittura come sorgente.** Il processo parte quasi sempre dalla scrittura, un modo di «pensare attraverso il linguaggio»; in passato il ritmo della scrittura determinava la struttura dei video.
 - **Avatar «evidentemente falsi e senza vita».** Proprio l'artificialità palese gli permette di usarli; un volto reale sarebbe «troppo specifico», l'avatar consente temi universali.
 - **Rivelare l'artificio.** Vuole video che «parlino molto del modo in cui sono stati fatti», perché ci sia qualcosa di commovente nel mostrare la struttura dell'opera.
 - **Malinconia e perdita.** Titolo e temi: insufficienza, fallimento, il passaggio tra esperienza corporea e senso «intangibile e sentimentale» di perdita.
-
-### Per la didattica
-- *A Primer for Cadavers* (Fitzcarraldo Editions, 2016), raccolta di testi dell'artista: comprende *A Tumour* e usa la maschera mortuaria come motivo. Il REF lo indica come chiave per leggere l'avatar come «cadavere».
-- Discussione da Kurtz e Caldas: la sincerità degli ultimi lavori è un passo avanti o un modo di evitare la critica?
-- Video segnati nel REF: [Safe Conduct (Hirshhorn, 2017)](https://www.youtube.com/watch?v=eUgU0dziZG4); [Us Dead Talk Love](https://www.youtube.com/watch?v=yVMN0Y6rM-0); [Ed Atkins: Get Life / Love's Work](https://www.youtube.com/watch?v=Kty-OFt0hX4).
-- Confronto con Cheng e Claerbout sul rapporto tra superficie perfetta e vuoto: l'avatar come corpo che fallisce nel catturare la vita.
 
 ## Interviste e talk
 - [Fantastic Man — intervista](https://www.fantasticman.com/articles/ed-atkins/)

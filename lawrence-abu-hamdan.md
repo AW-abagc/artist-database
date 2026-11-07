@@ -21,7 +21,7 @@ Abu Hamdan lavora sul suono e sulla voce come prove forensi e come luogo di viol
 - _Nessuna ancora: da aggiungere._
 
 ## Fonti
-- Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (foto scattata dal docente, 9 agosto 2026)
+- Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (fotografia del 9 agosto 2026)
 - Sito ufficiale/portfolio: **non ancora cercato** — da fare.
 
 ## Mostre viste

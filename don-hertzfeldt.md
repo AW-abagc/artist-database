@@ -20,18 +20,14 @@ Lavora in modo indipendente e artigianale. La critica ha descritto la sua opera 
 ### World of Tomorrow e World of Tomorrow Episode Two
 **Descrizione:** Serie di cortometraggi in cui una bambina, Emily, viene portata in un viaggio nel suo lontano futuro e poi incontra un suo clone di riserva dal futuro ancora più lontano. Considerato dalla critica tra i migliori film d'animazione di sempre.
 
-⚠️ Nessuna immagine trovata.
-
 ### Rejected e Paper Trail
 **Descrizione:** *Rejected* è tra le sue opere più note; *Paper Trail* (2026) ha vinto il Premio speciale della giuria al Sundance e il Cristallo ad Annecy.
-
-⚠️ Nessuna immagine trovata.
 
 ### Rejected (2000) e World of Tomorrow (2015): candidature
 **Corso:** `TAD-DCV` `TAD-AVM`
 **Temi:** `tempo-lungo-e-durata` `corpo-post-umano`
 **Descrizione:** *Rejected* (2000) è stato candidato all'Oscar per il cortometraggio d'animazione, nella cerimonia del 2001. *World of Tomorrow* (2015) ha ottenuto una seconda candidatura e riprende le figure stilizzate tipiche di Hertzfeldt nella sua prima prova di animazione digitale ([Sundance](https://www.sundance.org/blogs/oscars-preview-hertzfeldts-stick-figures-return-in-world-of-tomorrow-3/); [Austin Chronicle](https://www.austinchronicle.com/screens/don-hertzfeldt-snags-oscar-nomination-12095660/)).
-**Lettura critica:** la figura stilizzata mostra quanto poco basti a un corpo per recitare: è una buona prova per la lezione sul corpo performante.
+**Lettura critica:** la figura stilizzata mostra quanto poco basti a un corpo per recitare.
 
 ## Fonti
 - [Wikipedia — Don Hertzfeldt](https://en.wikipedia.org/wiki/Don_Hertzfeldt)

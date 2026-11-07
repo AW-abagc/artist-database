@@ -51,7 +51,7 @@ Il progetto esplora le applicazioni, le esperienze e gli ambienti legati alla co
 - [YouTube — "Sturm&Drang Studio | Meriem Bennani"](https://www.youtube.com/watch?v=HCAnRGvSKSw)
 
 ## Crediti delle immagini
-Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", da un fotogramma YouTube e da STIRworld. Il sito ufficiale di Fondazione Prada blocca sistematicamente ogni tentativo di accesso automatico (HTTP 403), in tutte le tecniche provate in questa sessione.
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", da un fotogramma YouTube e da STIRworld.
 - [Fondazione Prada — pagina progetto "Sturm&Drang"](https://www.fondazioneprada.org/project/sturmdrang-ita/?lang=en)
 - [Fondazione Prada — pagina progetto "Sturm&Drang Studio"](https://www.fondazioneprada.org/project/sturmdrang-studio/?lang=en)
 - [STIRworld — "'Sturm & Drang' exhibition at Prada's Milan Osservatorio unpacks ins and outs of CGI"](https://www.stirworld.com/see-features-sturm-drang-exhibition-at-pradas-milan-osservatorio-unpacks-ins-and-outs-of-cgi)

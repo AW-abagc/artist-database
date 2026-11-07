@@ -20,8 +20,6 @@ Diventa celebre con i «trick film» e con l'uso innovativo degli effetti specia
 ### The Impossible Voyage (Le Voyage à travers l'impossible, 1904)
 **Descrizione:** Altra tra le sue opere più importanti.
 
-⚠️ Nessuna immagine trovata.
-
 ## Fonti
 - [Wikipedia — Georges Méliès](https://en.wikipedia.org/wiki/Georges_Méliès)
 - [Wikipedia — A Trip to the Moon](https://en.wikipedia.org/wiki/A_Trip_to_the_Moon)

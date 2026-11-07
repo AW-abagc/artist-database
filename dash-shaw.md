@@ -15,8 +15,6 @@ I suoi fumetti sono noti per la logica emotiva e lirica e per l'invenzione grafi
 ### My Entire High School Sinking into the Sea (2016)
 **Descrizione:** Lungometraggio d'animazione da lui diretto.
 
-⚠️ Nessuna immagine trovata.
-
 ### Cryptozoo (2021)
 **Descrizione:** Film d'animazione drammatico per adulti scritto e diretto da Shaw, con le voci di Lake Bell, Michael Cera, Angeliki Papoulia, Zoe Kazan, Peter Stormare e altri. Prima mondiale al Sundance il 29 gennaio 2021, uscita Magnolia Pictures il 20 agosto 2021.
 

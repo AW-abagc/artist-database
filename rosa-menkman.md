@@ -28,7 +28,7 @@ Menkman è la teorica che ha dato fondamento accademico ai "glitch studies" come
 
 ### Dear Mr. Compression (2010)
 **Descrizione:** video che personifica "Mr. Compression" come destinatario silenzioso di un tentativo di comunicazione da parte dell'artista, che si corrompe progressivamente in artefatti di compressione man mano che l'opera procede.
-**Lettura critica:** un'illustrazione diretta e didattica della tesi del "vernacolo dei formati file" — utile in aula per mostrare visivamente come ogni codec produca il proprio tipo specifico di errore.
+**Lettura critica:** illustra la tesi del "vernacolo dei formati file": ogni codec produce il proprio tipo specifico di errore.
 **Video:** [Dear Mr. Compression, documentazione integrale (Vimeo)](https://vimeo.com/11147006)
 
 ![Dear Mr. Compression — fotogramma](immagini/rosa-menkman/dear-mr-compression.jpg)
@@ -36,8 +36,6 @@ Menkman è la teorica che ha dato fondamento accademico ai "glitch studies" come
 ### A Vernacular of File Formats (2009-2010)
 **Descrizione:** libro d'artista e serie di immagini in cui una stessa fotografia-ritratto viene fatta passare attraverso molteplici codec di compressione, per esporre la grammatica di errore distintiva di ciascun formato.
 **Lettura critica:** una delle prime opere a proporre il file compresso non come degrado neutro dell'immagine originale ma come oggetto esteticamente e politicamente significativo di per sé; una stampa della serie è stata battuta all'asta Sotheby's "Glitch: Beyond Binary" (2023), segno del riconoscimento istituzionale successivo del lavoro.
-
-⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione: la pagina Sotheby's del lotto restituisce solo immagini generiche di altri lotti, non identificabili con sicurezza come questa specifica opera.
 
 ### Beyond Resolution (2020)
 **Descrizione:** libro autopubblicato tramite i.R.D. che raccoglie quattro anni di ricerca in forme miste (racconti brevi, un primer di ottica, testi in forma di manifesto), sviluppando la "risoluzione" come categoria politico-tecnica centrale del proprio lavoro.

@@ -62,7 +62,7 @@ Un secondo asse della sua ricerca è l'**archeologia computazionale**: non solo 
 **Descrizione:** installazione video ipnotica dominata da astrazioni CGI fluide e renderizzate — liquidi metallici, forme algoritmiche che si fondono e trasformano, superfici digitali perfette — accompagnate da una narrazione teorica sulla "logica" (ratio) come principio operativo del capitale.
 **Lettura critica:** esplora il **capitalismo computazionale**: la logica astratta (contratti smart, finanza algoritmica, ottimizzazione logistica) ha sostituito la politica come *ratio ultima* del potere; l'estetica CGI deliberatamente seducente e priva di attrito riflette la natura astratta, disincarnata e inumana di questo regime.
 
-⚠️ **Discrepanza da verificare**: non risulta nessuna opera dell'artista intitolata semplicemente "Ultima Ratio (2022)" con la descrizione sopra (astrazioni CGI di liquidi metallici). L'unica opera con un titolo simile reperibile è *Ultima Ratio Δ Mountain of the Sun* (2017, 13 min) — un film girato dal vivo sull'industria dell'hashish nella valle della Bekaa, Libano, molto diverso nel contenuto da quanto descritto qui. L'immagine sotto documenta questa opera del 2017 (in mostra insieme ad *After Scarcity* a Mercer Union, Toronto, 2019); la descrizione testuale sopra potrebbe riferirsi a un'opera diversa non ancora identificata, o essere un errore di una sessione di ricerca precedente — da chiarire prima di usare questa scheda in aula.
+⚠️ **Discrepanza da verificare**: non risulta nessuna opera dell'artista intitolata semplicemente "Ultima Ratio (2022)" con la descrizione sopra (astrazioni CGI di liquidi metallici). L'unica opera con un titolo simile reperibile è *Ultima Ratio Δ Mountain of the Sun* (2017, 13 min) — un film girato dal vivo sull'industria dell'hashish nella valle della Bekaa, Libano, molto diverso nel contenuto da quanto descritto qui. L'immagine sotto documenta questa opera del 2017 (in mostra insieme ad *After Scarcity* a Mercer Union, Toronto, 2019); la descrizione testuale sopra potrebbe riferirsi a un'opera diversa non ancora identificata, o essere un errore [verificare].
 
 ![Ultima Ratio Δ Mountain of the Sun — veduta dell'installazione, Mercer Union (foto Toni Hafkenscheid)](immagini/bahar-noorizadeh/ultima-ratio-mountain-of-the-sun-installation.jpg)
 
@@ -76,7 +76,6 @@ Un secondo asse della sua ricerca è l'**archeologia computazionale**: non solo 
 - [After Scarcity (Vimeo)](https://vimeo.com/296563987)
 - [The Red City of the Planet of Capitalism (Vimeo)](https://vimeo.com/540346330)
 - [The Red City of the Planet of Capitalism — testo, e-flux](https://www.e-flux.com/architecture/cascades/391412/the-red-city-of-the-planet-of-capitalism/)
-- Portfolio (PDF, ~37MB) — presente su Drive nella cartella ARTIST REFERENCES ("Bahar_Portfolio May.9.2023.pdf"), **non ancora archiviato nel repo**: supera il limite di download di questo strumento (10MB). Da scaricare manualmente e aggiungere a `contenuti/portfolio/bahar-noorizadeh-portfolio.pdf`.
 
 ## Crediti delle immagini
 Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali" — recuperate da fonti terze (dis.art, Otolith Group, transmediale, e-flux, Mercer Union) poiché il sito ufficiale [baharnoorizadeh.com](https://baharnoorizadeh.com/) è testuale, senza immagini incorporate.

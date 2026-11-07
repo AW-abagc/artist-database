@@ -16,8 +16,6 @@ In un'intervista a Vice/The Creators Project, lo stesso Sodeoka mette in discuss
 **Descrizione:** lavoro di web design e direzione artistica svolto come direttore creativo dell'e-zine pionieristica *Word*; conservato nella collezione permanente del SFMOMA come artefatto di design/net art.
 **Lettura critica:** uno dei primi esempi di web design trattato retrospettivamente come opera d'arte da un museo maggiore — anticipa di decenni il riconoscimento istituzionale del design di interfaccia come pratica artistica.
 
-⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione.
-
 ### C404: Prototype #38 (2002)
 **Descrizione:** applet Java/Flash commissionato dal Whitney Museum per la serie "Gate Page" del portale artport (2001-2006).
 **Lettura critica:** colloca Sodeoka tra i primi artisti net art a ricevere una commissione diretta da un museo maggiore statunitense per un'opera nativamente web-based.
@@ -43,8 +41,6 @@ In un'intervista a Vice/The Creators Project, lo stesso Sodeoka mette in discuss
 ### GIF Psychedelica (serie in corso)
 **Descrizione:** serie di loop GIF in corso, animazioni allucinatorie di colore e forma iper-sature, esposte online e in galleria.
 **Lettura critica:** discussa da Vice/The Creators Project come "eruzioni cromatiche di colore" ed "esplosioni pixelate" — il caso più puro del linguaggio visivo distintivo di Sodeoka, senza la mediazione del formato commerciale del video musicale.
-
-⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione, trattandosi di una serie in corso senza pagina dedicata univoca.
 
 ### 1.618? (2023, mostra personale, CALM & PUNK GALLERY, Tokyo)
 **Descrizione:** prima mostra personale in Giappone (1-17 dicembre 2023): brevi animazioni video che usano generazione di immagini tramite IA e simulazione fisica delle particelle, sui temi della sezione aurea, del meteo e del comportamento di sciame/insetto. Include edizioni limitate in collaborazione con la piattaforma Infinite Objects.

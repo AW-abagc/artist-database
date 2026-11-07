@@ -19,8 +19,6 @@ Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice conc
 **Descrizione:** testo/saggio, in seguito messo in scena come installazione a parete, post di blog e video-lezione di un'ora. Pubblicato per la prima volta su Rhizome (New Museum) il 17 dicembre 2013. Argomenta contro la dipendenza dell'afrofuturismo dai tropi alieni/spaziali, orientando l'immaginazione speculativa nera verso il "mondano", il presente materiale e politico. Ripubblicato/esposto dal Pérez Art Museum Miami (PAMM) come opera di collezione.
 **Lettura critica:** un testo teorico che ha avuto un impatto diretto sul discorso critico dell'afrofuturismo contemporaneo — non solo un manifesto artistico personale, ma un intervento di teoria culturale ampiamente citato e insegnato.
 
-⚠️ Nessuna immagine trovata per quest'opera in questa sessione: la pagina PAMM (che ne detiene l'installazione a parete in collezione) ha restituito errore del server a ogni tentativo, e l'archivio dell'artista non include immagini fisse per questo progetto testuale/video.
-
 ### Lessons I-CLXXX (2014-2018)
 **Corso:** `TAD-DCV` `TAD-AVM`
 **Temi:** `propaganda-e-media` `economia-della-bellezza-e-pubblicita`

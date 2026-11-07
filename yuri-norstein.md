@@ -20,8 +20,6 @@ Le sue opere più note sono realizzate in collaborazione con la moglie, l'artist
 ### Tale of Tales
 **Descrizione:** Cortometraggio realizzato insieme alla moglie Francheska Yarbusova.
 
-⚠️ Nessuna immagine trovata.
-
 ## Fonti
 - [Wikipedia — Yuri Norstein](https://en.wikipedia.org/wiki/Yuri_Norstein)
 - [Wikipedia — Hedgehog in the Fog](https://en.wikipedia.org/wiki/Hedgehog_in_the_Fog)

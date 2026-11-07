@@ -24,7 +24,7 @@ La pratica di WangShui si muove fra scultura, pittura, video e sistemi generativ
 **Lettura critica:** estende l'interesse di WangShui per l'identità tecnologicamente mediata in un mondo sociale interamente simulato costruito su game engine, usando la drammaturgia dell'intimità fabbricata del reality TV come dispositivo formale.
 
 ### Window of Tolerance (2023, Haus der Kunst, Monaco)
-**Descrizione:** prima personale istituzionale europea dell'artista. ⚠️ Le singole opere all'interno della mostra non sono state elencate con certezza in questa ricerca — da verificare direttamente sulla pagina della Haus der Kunst.
+**Descrizione:** prima personale istituzionale europea dell'artista. ⚠️ Le singole opere all'interno della mostra non sono elencate con certezza [verificare].
 
 ## Interviste e talk
 - [PIN-UP Magazine — "Artist WangShui on A.I. Solutions and Post-Human Consciousness"](https://www.pinupmagazine.org/articles/wangshui-interview)

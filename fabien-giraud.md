@@ -19,7 +19,7 @@ Giraud lavora su scale temporali estreme e su processi di apprendimento macchina
 - _Nessuna ancora: da aggiungere._
 
 ## Fonti
-- Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (foto scattata dal docente, 9 agosto 2026)
+- Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (fotografia del 9 agosto 2026)
 - Sito ufficiale/portfolio: **non ancora cercato** — da fare.
 
 ## Mostre viste

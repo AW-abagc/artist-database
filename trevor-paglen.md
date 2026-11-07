@@ -16,8 +16,6 @@ Paglen indaga i temi della segretezza, del militarismo e della politica della vi
 **Descrizione:** installazione audio interattiva che guida i partecipanti attraverso stati ipnotici, in cabine sensoriali private con sensori per il battito cardiaco e un menu di percorsi audioguidati (misticismo apofatico, deframmentazione neurologica, ipnosi ericksoniana). Caratteristica insolita per un'opera d'arte: non usa alcuna immagine.
 **Lettura critica:** scommette che il linguaggio parlato, usato con precisione, possa funzionare come "codice eseguibile" per generare un mondo interiore — le immagini evocate ipnoticamente dall'inconscio del partecipante possono essere più immersive e toccanti di qualunque immagine mostrata direttamente. (Testo di sala, mostra "Strange Rules", Palazzo Diedo, Venezia, visitata 9 agosto 2026.)
 
-⚠️ Nessuna immagine per coerenza con l'opera stessa, che non ne usa alcuna.
-
 ### The Last Pictures (2012–)
 **Descrizione:** un disco di 100 immagini micro-incise, racchiuso in un guscio dorato, lanciato in orbita geostazionaria a bordo di un satellite per le telecomunicazioni — un archivio speculativo per spettatori futuri, ispirato alle pitture rupestri, ai segnali di avvertimento delle scorie nucleari e ai Golden Records di Carl Sagan.
 **Lettura critica:** riflette sulla durata (le orbite geostazionarie possono restare stabili per miliardi di anni) e su cosa scegliere di comunicare a un futuro remoto e sconosciuto.
@@ -69,8 +67,6 @@ Paglen indaga i temi della segretezza, del militarismo e della politica della vi
 **Approfondimento:** [Galerie — Orbital Reflector](https://galeriemagazine.com/trevor-paglen-orbital-reflector/); [Sky & Telescope](https://skyandtelescope.org/astronomy-news/spacecraft-and-space-missions/spacex-orbiting-sculpture/); [Artnet](https://news.artnet.com/art-world/trevor-paglen-orbital-reflector-lost-space-1533073)
 
 ## Approfondimenti
-Materiale per la didattica, aggiunto il 2026-11-01. I saggi con link sono stati letti sulla fonte, salvo dove è indicato il contrario.
-
 ### Parole dell'artista
 - **«Operational Images» (2014).** Il saggio parte dalla prima visione di *Eye/Machine III* di Farocki al Pacific Film Archive: frecce animate e riquadri verdi di cui non capisce il senso. La tesi: le immagini ormai fanno cose nel mondo, guidano missili, seguono oggetti, e la funzione ha superato la visibilità. Le immagini operative sono sempre più invisibili, perché le macchine raramente ne producono una versione leggibile per le persone: da qui il compito degli artisti di continuare a esporle.[^4]
 - **«Invisible Images» (2016).** La cultura visiva si è staccata dall'occhio umano: la gran parte delle immagini è fatta da macchine per altre macchine, e un file digitale può essere elaborato senza essere mai mostrato. Lettori di targhe, telecamere nei negozi, foto sui social usate per addestrare il riconoscimento facciale. Le macchine lavorano per astrazioni matematiche, quindi concetti classici come rappresentazione e ambiguità descrivono male ciò che accade. La sintesi è una frase: «We no longer look at images—images look at us».[^5]
@@ -80,14 +76,6 @@ Materiale per la didattica, aggiunto il 2026-11-01. I saggi con link sono stati 
 - **Il limite della mostra (Burke).** Recensendo *A Study of Invisible Images*, Sarah Burke sostiene che le opere attenuano la minaccia: personificare le macchine nasconde le persone e le aziende che le costruiscono e ne traggono profitto, e il romanticismo delle immagini smorza il disagio delle spiegazioni tecniche. La domanda su chi usa questi sistemi, e perché, resta senza risposta.[^6]
 - **Il libro del 2026 (Hromack).** *How to See Like a Machine: Images After AI* (Verso, 2026) raccoglie saggi scritti in circa quindici anni. Sarah Hromack ne riconosce l'autorevolezza, ma nota che i saggi a volte si perdono nei dettagli e che alcuni esempi sono datati.[^7]
 - **Il legame con Farocki.** Vedi la scheda di Farocki per la genealogia dell'immagine operativa e per il problema della complicità, che vale anche per Paglen: mostrare un'immagine non fatta per essere vista la disattiva o la rende bella?
-
-### Per la didattica
-- Discussione: Paglen rende belle le immagini di cui parla? Mettere a confronto Burke con *Sight Machine*.
-- Confronto con Zach Blas: l'opacità come tattica contro la cattura biometrica e lo scetticismo di Paglen sulle contromisure visive.
-- Far leggere i primi paragrafi di *Invisible Images* e cercare in classe un esempio di immagine mai vista da nessuno.
-
-### Da leggere
-Non letti in questa revisione: Julian Stallabrass, «Negative Dialectics in the Google Era: A Conversation with Trevor Paglen», *October* 138, 2011, pp. 3-14; il testo integrale di [Excavating AI](https://www.excavating.ai/) con Kate Crawford.
 
 ## Interviste e talk
 - **Video:** [Louisiana Channel — Trevor Paglen Interview: Moving Through the Night Sky](https://vimeo.com/288119571)
@@ -103,7 +91,7 @@ Non letti in questa revisione: Julian Stallabrass, «Negative Dialectics in the 
 - [MacArthur Foundation — Trevor Paglen](https://www.macfound.org/fellows/class-of-2017/trevor-paglen)
 - [Pace Gallery — pagina artista](https://www.pacegallery.com/artists/trevor-paglen/)
 - [Trevor Paglen — "Operational Images" (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/)
-- Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (foto scattata dal docente, 9 agosto 2026)
+- Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (fotografia del 9 agosto 2026)
 
 ## Mostre viste
 - *Strange Rules*, Palazzo Diedo, Venezia (2026) — visto da @danMa-hub
@@ -119,9 +107,9 @@ Immagine per tre delle quattro opere, inclusa sotto la relativa descrizione in "
 
 [^1]: Biografia di Trevor Paglen, *paglen.studio*. [link](https://paglen.studio/bio/)
 
-[^2]: «Trevor Paglen», *Ocula*, scheda dell'artista. Non riletta in questa revisione. [link](https://ocula.com/artists/trevor-paglen/)
+[^2]: «Trevor Paglen», *Ocula*, scheda dell'artista. Non riletta. [link](https://ocula.com/artists/trevor-paglen/)
 
-[^3]: «Trevor Paglen», MacArthur Foundation, Fellows 2017. Non riletta in questa revisione. [link](https://www.macfound.org/fellows/class-of-2017/trevor-paglen)
+[^3]: «Trevor Paglen», MacArthur Foundation, Fellows 2017. Non riletta. [link](https://www.macfound.org/fellows/class-of-2017/trevor-paglen)
 
 [^4]: Trevor Paglen, «Operational Images», *e-flux journal*, 59, 2014. [link](https://www.e-flux.com/journal/59/61130/operational-images/)
 

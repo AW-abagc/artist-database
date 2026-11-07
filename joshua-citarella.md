@@ -26,7 +26,7 @@ Citarella studia la frammentazione algoritmica di internet in comunità di nicch
 - _Nessuna ancora: da aggiungere._
 
 ## Fonti
-- Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (foto scattata dal docente, 9 agosto 2026)
+- Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (fotografia del 9 agosto 2026)
 - [joshuacitarella.com — sito ufficiale](https://www.joshuacitarella.com)
 - [New Models — "The Online Marketplace of Ideas w/ Joshua Citarella"](https://newmodels.substack.com/p/the-online-marketplace-of-ideas-w)
 

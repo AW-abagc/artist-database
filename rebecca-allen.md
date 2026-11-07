@@ -76,10 +76,8 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 **Approfondimento:** [rebeccaallen.com — Figures Crawling](https://www.rebeccaallen.com/projects/figures-crawling), [MEET — Figures Crawling](https://www.meetcenter.it/en/figures-crawling-rebecca-allen/)
 
 ## Approfondimenti
-Materiale per la didattica, aggiunto il 2026-11-01. Le voci con link sono state lette sulla fonte.
-
 ### Parole dell'artista
-- **Umanità e femminilità.** Nel pannello della retrospettiva al MEET: «Man mano che la tecnologia permeava le nostre vite, volevo infondere più umanità nella macchina (e più femminilità)» (foto del docente, 12 settembre 2026).
+- **Umanità e femminilità.** Nel pannello della retrospettiva al MEET: «Man mano che la tecnologia permeava le nostre vite, volevo infondere più umanità nella macchina (e più femminilità)» (fotografia del 12 settembre 2026).
 - **Un mondo tecnico e maschile.** Allen descrive il computing degli anni Settanta come un mondo molto tecnico e molto maschile, e spiega di aver cercato di portare la forma femminile nella computer grafica, di infiltrarsi nella tecnologia per umanizzare il computer.[^4]
 - **Sola nei laboratori.** Spesso era l'unica donna e l'unica artista. La tecnologia, dice, è ancora inventata soprattutto da uomini bianchi, e le artiste e gli artisti andrebbero coinvolti fin dall'inizio.[^1]
 - **Contro la VR come sola testa.** A lungo la realtà virtuale non le è piaciuta, perché privilegia la mente ed esclude il corpo.[^4]
@@ -88,11 +86,6 @@ Materiale per la didattica, aggiunto il 2026-11-01. Le voci con link sono state 
 - **Oltre la parola «pioniera» (Quaranta).** Nel discorso per il DAM Digital Art Award, Domenico Quaranta critica l'etichetta: conta meno la novità che il fatto che l'opera resti viva. Le ricerche di Allen seguono necessità artistiche interne, non le mode tecnologiche, e gli strumenti non esistevano: ricerca e invenzione facevano parte dell'opera.[^2]
 - **La vita artificiale.** Allen arriva alla vita artificiale attraverso il lavoro con Craig Reynolds, con cui realizza *BEHAVE* (1987). *Emergence* comprende un motore 3D e un linguaggio di scripting che definisce il carattere di forme astratte, poi lasciate comportarsi in modo imprevedibile; un joystick a ritorno di forza trasmette l'energia del mondo virtuale.[^1]
 - **La mostra del 2026.** Il percorso del MEET divide il lavoro in quattro fasi: corpo femminile (anni Settanta), cultura pop e MTV (anni Ottanta), vita artificiale (anni Novanta), realtà virtuale e rapporto tra mente e corpo.
-
-### Per la didattica
-- *Girl Lifts Skirt* e *Swimmer* accanto a Gaboury, *Image Objects* (`risorse/` del repo privato): il modello di Catmull viene dallo stesso mondo in cui le donne compaiono soprattutto come volti da digitalizzare. Chi è il corpo di riferimento della computer grafica?
-- Da *The Bush Soul* a Ian Cheng: creature con comportamenti propri, venti anni prima di *BOB*.
-- *Musique Non-Stop*: portare la computer art su MTV senza rinunciare alla libertà artistica, come osserva Quaranta.
 
 ## Interviste e talk
 - [Serpentine Galleries — «Rebecca Allen on Kraftwerk, Video Games & Artificial Life»](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/)

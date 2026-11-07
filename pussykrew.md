@@ -27,8 +27,6 @@ Il lavoro di Pussykrew esplora lo spazio fra reame digitale e fisico, mescolando
 **Descrizione:** video musicale per Sevdaliza, co-diretto da Pussykrew insieme alle registe Lisette Donkersloot e Atlynn Vrolijk.
 **Lettura critica:** prosegue la collaborazione pluriennale con Sevdaliza, confermando il duo come riferimento visivo per l'artista in un momento chiave della sua carriera musicale.
 
-⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione: alcune fonti (IMVDb) attribuiscono la regia di "The Formula" a Emmanuel Adjei, in apparente contrasto con l'attribuzione a Pussykrew riportata in questa scheda — da verificare prima di aggiungere un'immagine.
-
 ### Future Memories (2015, Seoul)
 **Corso:** `M3D`
 **Temi:** `corpo-post-umano`
@@ -44,8 +42,6 @@ Il lavoro di Pussykrew esplora lo spazio fra reame digitale e fisico, mescolando
 **Temi:** `economia-della-bellezza-e-pubblicita`
 **Descrizione:** progetto commerciale/artistico per adidas: busti di atleti realizzati con tecnologia di stampa 3D Futurecraft 4D.
 **Lettura critica:** applicazione della pratica scultorea del duo — fotogrammetria/scansione 3D più stampa 3D — a un contesto di branding sportivo di alto profilo.
-
-⚠️ Nessuna immagine dell'opera specifica trovata in questa sessione (fonti bloccate o non pertinenti).
 
 ### Serpent of Self (2021, Rewire Festival)
 **Corso:** `AW` `TAD-DCV`

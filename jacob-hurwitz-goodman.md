@@ -15,15 +15,11 @@ Dal suo sito: film, video musicali e documentari su tecnologia, economia, politi
 ### The Seasteaders
 **Descrizione:** Documentario prodotto con DIS.art.
 
-⚠️ Nessuna immagine trovata.
-
 ### Syzygy
 **Descrizione:** Lavoro prodotto con DIS.art.
 
-⚠️ Nessuna immagine trovata.
-
 ### Panera's Basilisk, Dust, Spite, Beijing
-**Descrizione:** Quattro video, secondo il docente provenienti da dis.art. Non ho trovato descrizioni online.
+**Descrizione:** Quattro video provenienti da dis.art [verificare].
 
 ![Beijing — immagine 1](immagini/jacob-hurwitz-goodman/hurwitz-goodman-beijing-1.jpg)
 

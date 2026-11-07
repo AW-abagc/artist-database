@@ -81,8 +81,6 @@ La stessa attenzione al lavoro distingue la sua posizione nel mondo dell'arte. W
 **Descrizione:** fiaba animata con una *Field Guide* di accompagnamento, su come reale e virtuale si fondono nei modelli di IA. Deriva dalla ricerca di dottorato ed è pensata per la diffusione su LinkedIn. Commissionata dal National Videogame Museum con l'Open Data Institute e il Leverhulme Centre for the Future of Intelligence di Cambridge.[^15]
 
 ## Approfondimenti
-Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state lette sulla fonte, salvo dove è indicato il contrario.
-
 ### Parole dell'artista
 - **Il lavoro dietro l'immagine.** Molti, dice Warburton, non si rendono conto di quante decisioni entrino in un film in CG. Il periodo più prolifico, tra il 2012 e il 2016, è stato anche il più faticoso; dal 2017 lavora con un tocco più leggero.[^2]
 - **Come nasce un saggio.** Paragona il suo processo a quello di un comico che prepara un numero, «ma senza le risate», e descrive il video-saggio spaziale come un incrocio tra un tutorial di software e il treno fantasma.[^16]
@@ -94,19 +92,7 @@ Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state l
 - **Grafica e visione, due gemelli.** Nel testo di *RGBFAQ*, pubblicato nel reader *im/possible images* curato da Rosa Menkman (2021), la grafica computerizzata nasce con Edward Zajac ai Bell Labs nel 1963 e si separa dalla visione artificiale; oggi le due si ritrovano nei dati sintetici. Esempio dal testo: nel 2018 uno studio canadese produce 86.000 bagni in 3D per addestrare un robot delle pulizie. Levitt legge lo stesso ritorno come «doppio apparato dell'immagine computazionale».[^19][^17]
 - **Spam e artigianato (Creative Applications).** La recensione di *Spectacle, Speculation, Spam* mette a fuoco la tensione tra il lucido ma vuoto e il carico di teoria ma grezzo: da qui la proposta di guardare all'animazione sperimentale con il software.[^10]
 - **Wonder-panic e pharmakon (Battista).** Anna Battista, sul suo blog *Irenebrination*, collega il *wonderpanic* di *The Wizard of AI* all'idea di Bernard Stiegler della tecnologia come rimedio e veleno. Segnala anche un punto delicato: per alcune parti Warburton ha dato a Midjourney le proprie opere, contribuendo così ad addestrarlo.[^18]
-
-### Per la didattica
-- Leggere *RGBFAQ* insieme a un esercizio tecnico: esportare i render pass di una scena e guardarli come «immagine esplosa».
-- Discutere *Spectacle, Speculation, Spam*: è giusto chiedere agli artisti di saper usare gli strumenti che criticano? Confronto con Hito Steyerl, che Warburton critica nel saggio.
-- *Primitives* accanto a *Poor Magic* di Rafman: lo stesso tipo di software di simulazione di folle, con due risposte diverse.
-- *The Wizard of AI* apre una domanda di metodo: usare i modelli per criticarli significa anche nutrirli?
 - Warburton ha un contributo nel *3D Additivist Cookbook*: *3D Print Simulator* (2015), una texture che simula le stampe 3D.[^20]
-
-### Da leggere
-Non letti in questa revisione:
-- [Filmmaker Magazine — «Glitches in the Matrix: Adventures in the CGI Wilderness»](https://filmmakermagazine.com/tag/homo-economicus) (il sito rifiuta la lettura automatica)
-- [Somerset House — mostra *24/7*](https://www.somersethouse.org.uk/node/1044) (pagina non raggiungibile), con gli autoritratti scansiti dei sonnellini in uno studio di effetti visivi a Pechino, citati da arebyte
-- Il saggio di dottorato alla Birkbeck, di cui il sito non dà ancora i riferimenti
 
 ## Interviste e talk
 - [arebyte — testo di Katrina Sluis su *RGBFAQ*](https://aos.arebyte.com/contents/katrina-sluis-alan-warburton/) (testo breve, non un'intervista)

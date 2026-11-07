@@ -3,7 +3,7 @@
 **Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo`
 **Tag tema:** `genere-queerness` `game-culture` `performance-audiovisiva` `performance-nei-mondi-virtuali`
 **Tag corso:** `TAD-DCV` `TAD-AVM`
-**Stato:** rivista il 2026-11-01 sul sito dell'artista e sui testi citati · anno e luogo di nascita e formazione vengono solo da Wikipedia [verificare] · *The Game: The Game* contiene situazioni sessuali e violenza sessuale: va presentato con cura
+**Stato:** rivista il 2026-11-01 sul sito dell'artista e sui testi citati · anno e luogo di nascita e formazione vengono solo da Wikipedia [verificare] · *The Game: The Game* contiene situazioni sessuali e violenza sessuale
 
 ## Biografia
 Artista femminista dei media, nata nel 1986 a Reading, in Pennsylvania, secondo Wikipedia [verificare].[^9] Lavora tra documentario, interventi nei media, performance virtuale, net art, video e videogioco. Dopo nove anni alla Carnegie Mellon[^9] è ora Catherine B. Heller Collegiate Professor of Art alla University of Michigan e dirige il programma MFA della Stamps School of Art and Design.[^1] United States Artist Fellowship 2023, sezione Media; Creative Capital Award per *Mother, Player*. *The Game: The Game* ha vinto l'Impact Award a IndieCade ed è nella Net Art Anthology di Rhizome.[^9]
@@ -54,8 +54,6 @@ Matt Turner segue il percorso in tre tempi: la critica di come i giochi di ruolo
 **Descrizione:** documentario presentato allo Slamdance Film Festival, distribuito da Breaking Glass Pictures.[^9] Dati da controllare sul film [verificare].
 
 ## Approfondimenti
-Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state lette sulla fonte, salvo dove è indicato il contrario.
-
 ### Parole dell'artista
 - **Ottimismo critico.** Washko si dice «un'ottimista critica» riguardo allo spazio dei videogiochi, citata da Turner.[^3]
 - **Ponti tra comunità.** Su *BANGED* parla di costruire ponti tra comunità che non si parlano. Di Roosh dice che è ideologicamente il suo esatto opposto.[^5]
@@ -65,18 +63,6 @@ Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state l
 - **Civiltà come metodo (Turner).** Per Matt Turner la civiltà e la curiosità di Washko non sono ingenuità ma un metodo etnografico: mira a capire i motivi, non a condannare in fretta, anche se raramente fa cambiare idea. Segnala anche le tensioni etiche: Washko ha tenuto per sé testimonianze di donne per proteggerle.[^3]
 - **Dal forum al bar (Katzman e Washko).** Celine Wong Katzman e Washko mostrano come le idee misogine dei forum passino negli spazi pubblici. Il gioco non fa la morale a chi sceglie di tornare a casa con uno dei corteggiatori, e un finale permette di bruciare la casa dell'aggressore.[^6] Essendo scritto dall'artista con una curatrice, è una lettura interna.
 - **Spazio pubblico virtuale (Steinhauer).** Jillian Steinhauer racconta l'inizio del Council: la protesta contro il linguaggio sessista e conversazioni che spesso andavano male.[^2]
-
-### Per la didattica
-- Discussione: è un intervento o una molestia al contrario? Che differenza c'è tra disturbare un gioco e discuterci dentro?
-- *Weaponizing Courtship* accanto a *Serious Games* di Farocki: il linguaggio militare dentro il videogioco.
-- *The Game: The Game* come esempio di genere rovesciato: che cosa cambia nel cambiare chi gioca e chi viene giocato?
-
-### Da leggere
-Non letti in questa revisione:
-- [Rhizome — Net Art Anthology, *The Game: The Game*](https://anthology.rhizome.org/the-game-the-game) e [Rhizome — Artist Profile (2017)](https://rhizome.org/editorial/2017/jul/17/artist-profile-angela-washko/) (i siti rifiutano la lettura automatica)
-- [Fotomuseum Winterthur — SITUATIONS/Strike](https://www.fotomuseum.ch/en/explore/situations/157382) (idem)
-- L'essay di Washko per Creative Time sui risultati del Council e *Tightrope Routines* per *Field Journal*, citati dai repertori e non recuperati
-- *Disturbing Romance: The Participatory Art of Dating Simulators*, saggio segnalato dalla [University of Michigan](https://stamps.umich.edu/news/angela-washko-the-game-the-game-subject-of-critical-essay)
 
 ## Interviste e talk
 - [We Make Money Not Art — «The feminist and the manosphere», intervista di Régine Debatty (2020)](https://we-make-money-not-art.com/the-feminist-and-the-manosphere-an-interview-with-angela-washko/)

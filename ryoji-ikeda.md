@@ -67,8 +67,6 @@ Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepi
 **Descrizione:** trilogia audiovisiva immersiva a tre schermi (data-verse 1, 2, 3), commissionata da Audemars Piguet Contemporary, che usa dati di NASA, CERN e Progetto Genoma Umano. Prima mondiale della trilogia completa nell'ambito della grande retrospettiva "Ryoji Ikeda" a 180 Studios, 180 The Strand, Londra (2021) — la più grande mostra mai dedicata al suo lavoro, 12 opere incluse. Debutto statunitense della trilogia completa allo High Museum of Art di Atlanta (7 marzo-10 agosto 2025).
 **Lettura critica:** la copertura critica è divisa — *Wallpaper* la definisce "un percorso a ostacoli sensoriale", mentre la recensione di *ARTS ATL* (più scettica) la intitola "grafica abbagliante, nessuna profondità" (*"data-verse at the High: dazzling graphics, no depth"*) — un utile esempio, come per Refik Anadol, di dibattito critico aperto sull'arte dei dati su larga scala.
 
-⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione: il sito ufficiale dell'artista elenca un'opera "X-verse" (2018) distinta dalla trilogia "data-verse" (2019-2023) qui descritta — da non confondere.
-
 ## Interviste e talk
 - **Video:** [Ryoji Ikeda: a hypnotic audio-visual explosion (NOWNESS, YouTube)](https://www.youtube.com/watch?v=cywFvcRR-QI)
 - **Video:** [Ryoji Ikeda — code-verse (YouTube, caricamento non ufficiale)](https://www.youtube.com/watch?v=Ip4qW6g9p9Q) — dalle tracce di lezione; opera e anno [verificare]

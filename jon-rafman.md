@@ -76,8 +76,6 @@ Nei video dal 2017 i corpi digitali diventano materiale da simulazione: corpi se
 ![Punctured Sky — immagine promozionale, IFFR](immagini/jon-rafman/punctured-sky-1.jpg)
 
 ## Approfondimenti
-Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state lette sulla fonte, salvo dove è indicato il contrario.
-
 ### Parole dell'artista
 - **Il primo internet e la concentrazione.** Rafman ricorda il primo web come eccitante e idealista, e il piacere di scoprire mondi come Street View e *Second Life*. Oggi la rete è dominata da poche grandi aziende, «più kafkiana di Kafka». L'IA è per lui uno strumento potente come la macchina fotografica o la stampa, ma anche spaventoso, perché chi la sviluppa non ne conosce gli effetti a lungo termine.[^9]
 - **Sentirsi in trappola.** La mancanza di vie chiare per il cambiamento, dice, trasforma l'energia che un tempo andava nella rivolta o nella critica in un'arte strana e a volte inquietante.[^8]
@@ -87,19 +85,6 @@ Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state l
 - **La fine del post-internet (Twerdy).** Saelan Twerdy legge Rafman come sintomo di un esaurimento. Da *Kool-Aid Man* e *Nine Eyes* si passa a *Still Life (Betamale)*, *Mainsqueeze* ed *Erysichthon*, che scavano negli angoli devianti del deep web. In *You Are Standing in an Open Field* la resina sulle stampe è una barriera materiale alla trascendenza. La domanda finale è secca: che cosa motiva un'arte che non crede più al proprio potere critico?.[^3]
 - **Due recensioni opposte (Townsend e Williams).** Su *Proof of Concept*, Eileen Havant Townsend legge i video come esplorazione di un subconscio digitale collettivo, nella linea del Sublime da Friedrich a Herzog; Pat Williams trova l'allestimento esile, senza una vera posizione estetica o morale sull'IA, e critica la fattura di *Dream Journal 2016-2019*. Entrambi salvano *Short Story 1*.[^11]
 - **Archivio e crisi (Šimunović).** Luja Šimunović esamina tre video come risposta poetica alla soggettività mediata dal digitale: mettendo in crisi dicotomie fissate, aprirebbero nuove temporalità e soggettività, in un orizzonte utopico.[^12]
-
-### Per la didattica
-- Da *Kool-Aid Man* a *Disasters Under the Sun*: come cambia il rapporto con l'avatar quando si passa dal gioco di ruolo al manichino simulato?
-- *Poor Magic* accanto a *Primitives* di Warburton: la simulazione di folle usata per il massacro e usata contro il massacro.
-- Riprendere la domanda di Twerdy: che cosa può ancora fare un'arte che mostra soltanto il proprio disagio?
-
-### Da leggere
-Non letti in questa revisione:
-- [Artforum — Rafman sulla mostra al Contemporary Art Museum St. Louis](https://www.artforum.com/columns/jon-rafman-discusses-his-show-at-the-contemporary-art-museum-st-louis-220838/), fonte originale della frase sull'intrappolamento (accesso automatico bloccato)
-- [Document Journal — «Aggregators of Anxiety: Cambridge Analytica and Jon Rafman» (2018)](https://documentjournal.com/2018/04/aggregators-of-anxiety-cambridge-analytica-and-jon-rafman) (sito non raggiungibile)
-- [Esse — testo su *Kool-Aid Man in Second Life*](https://www.erudit.org/en/culture/esse045/esse02064/78607ac.pdf) (controllo anti-bot)
-- [Caesura — Bret Schneider, «Notes on Dream Journal»](https://caesuramag.org/events/jon-rafman-dream-journal)
-- [Purple — intervista di Nicholas O'Brien (2014)](https://purple.fr/article/jon-rafman), testo completo riservato agli abbonati
 
 ## Interviste e talk
 - [Louisiana Channel — «Jon Rafman: We Can't Escape» (2025)](https://channel.louisiana.dk/video/jon-rafman-we-cant-escape)

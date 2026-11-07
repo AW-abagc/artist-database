@@ -22,8 +22,6 @@ D'Isa affronta l'intelligenza artificiale generativa da una posizione insolita n
 **Descrizione:** serie di immagini generate spingendo deliberatamente i modelli text-to-image verso l'errore di sistema, tramite prompt costruiti per provocare risposte anomale o fallimentari del software.
 **Lettura critica:** capovolge la logica dominante dell'uso "produttivo" dell'AI generativa, facendo del glitch e del malfunzionamento — non dell'immagine "riuscita" — il centro della ricerca estetica.
 
-⚠️ Nessuna immagine trovata: progetto in corso, poco documentato con immagini pubbliche.
-
 ### Latent Rooms (2026, personale, Rifugio Digitale, Firenze)
 **Descrizione:** mostra personale che raccoglie brevi video generati attraverso diversi modelli di AI generativa, montati e assemblati dall'artista come forma di poesia visiva nata da un processo dialogico con l'intelligenza artificiale.
 **Lettura critica:** l'esposizione presso Rifugio Digitale — spazio fiorentino specificamente dedicato all'arte digitale — consolida la posizione di D'Isa come una delle voci italiane più strutturate, sul piano sia teorico sia pratico, nel dibattito su AI e produzione visiva.

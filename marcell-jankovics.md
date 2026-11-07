@@ -20,12 +20,8 @@ Attinge a folklore e letteratura ungheresi: le sue opere più note si basano su 
 ### Sisyphus (1974)
 **Descrizione:** Cortometraggio candidato all'Oscar.
 
-⚠️ Nessuna immagine trovata.
-
 ### The Struggle (A küzdelem, 1977)
 **Descrizione:** Cortometraggio, Palma d'Oro a Cannes 1977.
-
-⚠️ Nessuna immagine trovata.
 
 ### Son of the White Mare (Fehérlófia, 1981)
 **Descrizione:** Lungometraggio ispirato al mito popolare ungherese: una dea cavalla dà alla luce tre fratelli che scendono nel mondo sotterraneo per salvare tre principesse da tre draghi e riconquistare il regno perduto degli antenati. Spesso citato tra i migliori film d'animazione di sempre.

@@ -15,12 +15,8 @@ Il suo metodo è il collage: unisce materiali trovati e girati, mescolando etnog
 ### É Noite na América (It Is Night in America)
 **Descrizione:** Primo lungometraggio, girato intorno allo zoo di Brasília; premiato al FIDOCS e a Entrevues Belfort.
 
-⚠️ Nessuna immagine trovata.
-
 ### Apiyemiyekî? (2019/2020)
 **Descrizione:** Film di circa 28 minuti, titolo inglese *13 Ways of Looking at a Blackbird*; premio al Punto de Vista. Le fonti divergono sull'anno.
-
-⚠️ Nessuna immagine trovata.
 
 ### The Age of Stone (A idade da pedra)
 **Descrizione:** Film del 2013 (titolo portoghese *A idade da pedra*) di 29 minuti, coproduzione Francia-Brasile, in portoghese, girato in 16mm e trasferito in HD. Ambientato nel sertão arido dell'altopiano centrale brasiliano, immagina una struttura monumentale e rilegge le origini di Brasília; l'alba iniziale richiama *A Idade da Terra* (1980) di Glauber Rocha. Alcune fonti traducono il titolo come *The Stone Age*.

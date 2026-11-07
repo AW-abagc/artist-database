@@ -25,13 +25,9 @@ La pratica di Papamargariti attraversa immagine in movimento, materiale stampato
 **Descrizione:** installazione immersiva multischermo (27 maggio-7 luglio 2017; ripresentata alla Galleria Umberto Di Marino, Napoli, nella mostra "Every Breath You Take", dicembre 2018-febbraio 2019, a cura di Alberta Romano) — una versione a tre canali adattata del video "Always a Body, Always a Thing" più un'opera a pavimento a quattro schermi; la galleria trasformata in una "grotta di proiezione" buia. Affronta simbiosi e trasformazione tra corpi umani, IA/macchina, animale e sintetico — amorfismo, liquidità, specie invasive, plasticizzazione, biomimetica, malformazione corporea reale negli anfibi, e l'ontologia dei dispositivi di tracciamento.
 **Lettura critica:** una delle opere più esplicite dell'artista sul tema della simbiosi tra corpo biologico e dispositivo tecnologico, con riferimenti diretti a casi reali documentati (malformazioni anfibie) invece che a scenari puramente speculativi.
 
-⚠️ Nessuna immagine trovata: l'unica immagine reperita su TRANSFER Gallery era un piccolo screenshot dell'interfaccia web, non un'immagine dell'opera — scartata come non rappresentativa.
-
 ### But for now all I can promise is that things will become weirder (2018, 6ª Biennale di Atene)
 **Descrizione:** video HD a canale singolo, 12:22 minuti, presentato alla 6ª Biennale di Atene (ANTI, 2018). Combina sequenze animate al computer, testo, suono e frammenti filmati; si apre con un narratore che spiega come "ingannare" un contapassi tramite la danza; esplora l'accumulo intorpidente e la sovrapposizione di informazioni, immagini ed eventi online, e la gerarchia sfumata tra dato digitale ed esperienza corporea fisica.
 **Lettura critica:** letta, nel testo della mostra "RE-FIGURE-GROUND", come narrazione digitale che interroga storia e presente per ipotizzare futuri alternativi e non binari.
-
-⚠️ Nessuna immagine trovata per questa opera specifica.
 
 ### Always a Body, Always a Thing (2022, con componente AR)
 **Descrizione:** opera video con componente AR, commissionata da PCAI (Polygreen Culture & Art Initiative) per la collettiva "Sheltered Gardens", Atene (2022). Esplora trasformazione e fluidità morfologica/ontologica attraverso casi reali di animali acquatici (pesci, rane) che ingeriscono e mutano a causa della plastica, insieme a masse amorfe che appaiono in contesti naturali; riflette sulla plastica come materiale che nasce dalla natura e vi ritorna come rifiuto non biodegradabile che ha "assorbito" elementi di vita e tempo.

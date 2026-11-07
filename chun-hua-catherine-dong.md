@@ -30,12 +30,8 @@ Dong lavora in performance, fotografia, video e installazioni digitali, esploran
 ### The Wind that Cut Through the Sky (2019)
 **Descrizione:** non ancora documentata nel dettaglio in questa scheda.
 
-⚠️ Nessuna immagine: titolo non trovato nel portfolio del sito ufficiale attuale — da verificare se il titolo è corretto o l'opera è stata rimossa dal sito.
-
 ### Husband and Wife (2020)
 **Descrizione:** non ancora documentata nel dettaglio in questa scheda.
-
-⚠️ Nessuna immagine: titolo non trovato nel portfolio del sito ufficiale attuale (esistono lavori correlati come *Absent Husband* e *Husbands and I*, ma non un'opera con questo titolo esatto) — da verificare.
 
 ### Meet Me Halfway (2021)
 **Descrizione:** non ancora documentata nel dettaglio in questa scheda.

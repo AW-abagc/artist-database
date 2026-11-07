@@ -3,7 +3,7 @@
 **Tag tecnica/formato:** `installazione`
 **Tag tema:** `intelligenza-artificiale-critica` `colonialismo-decolonialita`
 
-⚠️ **Nota di inquadramento**: Attia non è un artista "new media" — la sua pratica trentennale è scultorea/fotografica/installativa, incentrata sul concetto di "repair" (riparazione) e sul trauma coloniale, ortogonale al nucleo del database. Questa scheda è inclusa **in modo mirato** per un'unica opera, *Whisper of Traces* (2026), che offre un caso di studio utile e raro: una critica esplicita e articolata dell'intelligenza artificiale realizzata **senza usare media digitali** — schermi, codice o interfacce — utile in un modulo sul "posizionamento critico rispetto all'AI" proprio per contrasto con gli artisti "nativi digitali" del database (Ian Cheng, Lawrence Lek, Hito Steyerl). Non trattare come profilo generale dell'artista.
+**Nota di inquadramento:** Attia non è un artista "new media": la sua pratica trentennale è scultorea/fotografica/installativa, incentrata sul concetto di "repair" (riparazione) e sul trauma coloniale. La scheda riguarda un'unica opera, *Whisper of Traces* (2026): una critica esplicita e articolata dell'intelligenza artificiale realizzata **senza usare media digitali** (schermi, codice o interfacce).
 **Stato:** scheda mirata solo su Whisper of Traces, non è un profilo generale dell'artista · informazioni ricavate da risultati di ricerca, da riverificare
 
 ## Biografia

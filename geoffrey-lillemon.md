@@ -40,15 +40,11 @@ Lillemon porta uno stile di pittura e disegno "classico romantico" dentro la tec
 **Descrizione:** opera video/CGI realizzata in collaborazione con il collettivo Stööki.
 **Lettura critica:** rappresenta la linea più sperimentale e meno commerciale della produzione dell'artista, in dialogo con altri collettivi della scena digitale internazionale.
 
-⚠️ Nessuna immagine trovata.
-
 ### Space Cowboy, serie NFT (con Highsnobiety / SuperRare)
 **Corso:** `TAD-DCV`
 **Temi:** `finanza-blockchain-dao`
 **Descrizione:** serie di opere digitali in edizione NFT, realizzata in collaborazione con Highsnobiety e distribuita sulla piattaforma SuperRare.
 **Lettura critica:** *Highsnobiety* la presenta come una risposta "assurdista" alla cultura dello scroll infinito dei social media — un'estensione della sua pratica CGI/surreale nel formato dell'edizione digitale limitata.
-
-⚠️ Nessuna immagine trovata.
 
 ## Interviste e talk
 - _Nessuna ancora: da aggiungere._

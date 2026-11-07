@@ -15,8 +15,6 @@ Costruisce film con materiali d'archivio e animazione digitale, narrati in diale
 ### Wuhan Punk (2020)
 **Descrizione:** Video di 12 minuti con materiali d'archivio e animazione digitale, narrato in dialetto di Wuhan, sulla scomparsa di Mai Dian, cantante del gruppo punk Si Dou Le; include un'intervista del 2010 con Mai Dian, parte del primo video dell'artista. Commissionato dal Film and Video Umbrella nel 2020 per il programma online BEYOND. Mostrato all'Hubei Museum of Art (2020), a Somerset House (2021) e alla John Hansard Gallery (2025); Yuan ha ricevuto per il lavoro il K11 Art 11 Prize (2020).
 
-⚠️ Nessuna immagine trovata.
-
 ### Altri lavori
 **Descrizione:** *No Door, One Window, Only Light* (2023, mostra antologica al MACA Art Center, Cina), *Two Improvisations: A Punk Musical* (2026, esea contemporary, Manchester).
 

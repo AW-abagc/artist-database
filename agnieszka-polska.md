@@ -32,8 +32,6 @@ Polska lavora principalmente con video, animazione digitale e installazioni audi
 
 ### Altre opere (elenco esteso, da approfondire)
 
-Elenco costruito con ricerca aggiuntiva rispetto alla scheda Drive originale, per dare un panorama più ampio della produzione dell'artista — prima e dopo il periodo coperto dal materiale iniziale. Descrizioni brevi, da sviluppare.
-
 - **Garden** (2010) — tra le prime opere dell'artista.
 - **Sensitization to Colour** (2010) — lavoro dei primi anni, ancora da documentare nel dettaglio.
 - **Watery Rhymes** (2014) — video.
@@ -65,4 +63,4 @@ Esposizioni/proiezioni recenti (2023-2024): MUDAM Lussemburgo (2023), 24ª Bienn
 - Portfolio/sito ufficiale personale: **non individuato** — da cercare.
 
 ## Crediti delle immagini
-![Immagine non identificata, da verificare con l'artista/docente — possibile riferimento o opera non ancora catalogata](immagini/agnieszka-polska/opera-non-identificata-01.png)
+![Immagine non identificata, da verificare — possibile riferimento o opera non ancora catalogata](immagini/agnieszka-polska/opera-non-identificata-01.png)

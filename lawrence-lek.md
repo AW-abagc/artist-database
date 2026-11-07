@@ -106,12 +106,10 @@ Metodologicamente, Lek rifiuta una distinzione netta tra "reale" e "virtuale": i
 **Approfondimento:** [lawrencelek.com — Guanyin (Confessions of a Former Carebot)](https://www.lawrencelek.com/works/guanyin-confessions-of-a-former-carebot)
 
 ## Approfondimenti
-Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state lette sulla fonte, salvo dove è indicato il contrario.
-
 ### Parole dell'artista
 - **Saggi tridimensionali.** Lek presenta i propri mondi di gioco come saggi in tre dimensioni, ispirati ai film-saggio di Chris Marker e Harun Farocki, e parla di «simulation as institutional critique».[^4]
 - **World-building.** Prende il termine dalla fantascienza e dal game design, a partire dall'interesse per il lato filosofico dell'architettura: ogni società ha una propria espressione spaziale, e i suoi ambienti sono fatti per essere abitati, non solo guardati. *AIDOL* è interamente renderizzato in un motore da videogioco.[^10]
-- **Collage a più dimensioni.** Nella dichiarazione riportata nel REF su Drive, il worldbuilding è un collage di elementi materiali e virtuali; le narrazioni nascono dalla geopolitica della tecnologia, dal conflitto tra colonialismo e capitalismo e dagli effetti psicologici di un mondo guidato dai dati. *(Fonte online da rintracciare.)*
+- **Collage a più dimensioni.** In una dichiarazione dell'artista il worldbuilding è un collage di elementi materiali e virtuali; le narrazioni nascono dalla geopolitica della tecnologia, dal conflitto tra colonialismo e capitalismo e dagli effetti psicologici di un mondo guidato dai dati. *(Fonte online da rintracciare.)*
 
 ### Letture critiche e concetti
 - **Interiorizzare e ribaltare (Zhang).** Gary Zhexi Zhang legge *Sinofuturism* come un montaggio che assorbe la narrazione tecno-orientalista e insieme la rovescia con ironia: la Cina diventa un'intelligenza postumana distribuita, e il sinofuturismo una teoria del complotto che coincide con la globalizzazione. Rispetto all'Afrofuturismo, per Zhang è meno un movimento di emancipazione che un'estetica geopolitica, come il *Gulf futurism*.[^11]
@@ -121,18 +119,7 @@ Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state l
 - **Racconto e pubblicità (Turner).** Su *AIDOL*, Matt Turner nota che il confine tra narrazione e video promozionale contribuisce alla domanda su che cosa sia la creatività quando interviene una macchina.[^13]
 
 ### NOX: temperamenti e diagnosi
-Dal testo dell'artista riportato nel REF: la Farsight sviluppa quattro famiglie di veicoli con caratteri diversi, un'auto sanguigna per il piacere, una melanconica per le consegne, una flemmatica per i dirigenti, una collerica di pattuglia. Quando un'auto si comporta in modo indesiderato viene convocata a NOX per cinque giorni di riabilitazione con Guanyin. L'uso artistico dei sensori da parte di Enigma-76 è diagnosticato come «eccesso di autonomia» e curato con cancellazioni crescenti della memoria; le *Crawlers*, auto dismesse, sono libere finché non si scaricano.
-
-### Per la didattica
-- Vedere *Sinofuturism* e leggere Zhang e de Seta: dove finisce l'ironia e dove comincia la ripetizione dello stereotipo?
-- *Unreal Estate* accanto a *Serious Games* di Farocki: il mondo simulato come saggio e come addestramento. Lek stesso cita Farocki.
-- Spunto di confronto *(non da una fonte)*: Lek scrive un mondo e lo racconta, Cheng imposta regole e lascia correre la simulazione.
-
-### Da leggere
-Non letti in questa revisione:
-- [Trascrizione del talk a Berkeley (2020)](https://bcnm.berkeley.edu/news-research/4217/atc-transcript-now-online-lawrence-lek)
-- [ArtReview — «Between Code and Consciousness», conversazione con Mark Rappolt](https://artreview.com/artreview-talk-between-code-and-consciousness-lawrence-lek-in-conversation)
-- [Hammer Museum — *NOX High-Rise* (2025), con un testo del curatore Pablo José Ramírez](https://hammer.ucla.edu/exhibitions/2025/lawrence-lek-nox-high-rise) (pagina non raggiungibile da qui)
+Da un testo dell'artista: la Farsight sviluppa quattro famiglie di veicoli con caratteri diversi, un'auto sanguigna per il piacere, una melanconica per le consegne, una flemmatica per i dirigenti, una collerica di pattuglia. Quando un'auto si comporta in modo indesiderato viene convocata a NOX per cinque giorni di riabilitazione con Guanyin. L'uso artistico dei sensori da parte di Enigma-76 è diagnosticato come «eccesso di autonomia» e curato con cancellazioni crescenti della memoria; le *Crawlers*, auto dismesse, sono libere finché non si scaricano.
 
 ## Interviste e talk
 - Conversazione con l'artista e il professor Iyad Rahwan su *NOX*: vedi il video sotto l'opera.
@@ -164,23 +151,23 @@ Immagine per ciascuna delle nove opere, inclusa sotto la relativa descrizione in
 - [Wikipedia — Lawrence Lek](https://en.wikipedia.org/wiki/Lawrence_Lek)
 - [Ocula — biografia](https://ocula.com/artists/lawrence-lek/)
 
-[^1]: «Lawrence Lek», *Wikipedia*. Non riletta in questa revisione. [link](https://en.wikipedia.org/wiki/Lawrence_Lek)
+[^1]: «Lawrence Lek», *Wikipedia*. Non riletta. [link](https://en.wikipedia.org/wiki/Lawrence_Lek)
 
-[^2]: «Lawrence Lek», *Ocula*, scheda dell'artista. Non riletta in questa revisione. [link](https://ocula.com/artists/lawrence-lek/)
+[^2]: «Lawrence Lek», *Ocula*, scheda dell'artista. Non riletta. [link](https://ocula.com/artists/lawrence-lek/)
 
 [^3]: Gabriele de Seta, «Sinofuturism as Inverse Orientalism: China's Future and the Denial of Coevalness», *SFRA Review*, 50, 2-3, 2020. [link](https://sfrareview.org/?p=1241)
 
 [^4]: Nora N. Khan, «Simulation as Institutional Critique: Lawrence Lek's "Unreal Estate"», *Rhizome*, 27 agosto 2015. [link](https://rhizome.org/editorial/2015/aug/27/lawrence-lek-simulation/)
 
-[^5]: «Unreal Estate (The Royal Academy is Yours)», *LUX*. Non riletta in questa revisione. [link](https://lux.org.uk/work/unreal-estate-the-royal-academy-is-yours/)
+[^5]: «Unreal Estate (The Royal Academy is Yours)», *LUX*. Non riletta. [link](https://lux.org.uk/work/unreal-estate-the-royal-academy-is-yours/)
 
-[^6]: «NOX», LAS Art Foundation, Berlino. Non riletta in questa revisione. [link](https://www.las-art.foundation/programme/nox)
+[^6]: «NOX», LAS Art Foundation, Berlino. Non riletta. [link](https://www.las-art.foundation/programme/nox)
 
-[^7]: Su *NOX* alla LAS Art Foundation, *Wallpaper\**. Non riletta in questa revisione. [link](https://www.wallpaper.com/art/exhibitions-shows/lawrence-lek-nox-las-art-foundation-berlin)
+[^7]: Su *NOX* alla LAS Art Foundation, *Wallpaper\**. Non riletta. [link](https://www.wallpaper.com/art/exhibitions-shows/lawrence-lek-nox-las-art-foundation-berlin)
 
-[^8]: «Lawrence Lek wins Frieze London 2024 Artist Award», *Frieze*. Non riletta in questa revisione. [link](https://www.frieze.com/video/lawrence-lek-wins-frieze-london-2024-artist-award)
+[^8]: «Lawrence Lek wins Frieze London 2024 Artist Award», *Frieze*. Non riletta. [link](https://www.frieze.com/video/lawrence-lek-wins-frieze-london-2024-artist-award)
 
-[^9]: Comunicato stampa di *Guanyin: Confessions of a Former Carebot*, Sadie Coles HQ. Non riletta in questa revisione. [link](https://www.sadiecoles.com/exhibitions/1201-lawrence-lek-frieze-artist-award-guanyin-confessions-of-a-former/press_release_text/)
+[^9]: Comunicato stampa di *Guanyin: Confessions of a Former Carebot*, Sadie Coles HQ. Non riletta. [link](https://www.sadiecoles.com/exhibitions/1201-lawrence-lek-frieze-artist-award-guanyin-confessions-of-a-former/press_release_text/)
 
 [^10]: Jynann Ong, «Lawrence Lek talks simulation art and his interest in the ambiguity between two paradoxes», *It's Nice That*, 12 gennaio 2021. [link](https://www.itsnicethat.com/features/lawrence-lek-in-conversation-digital-art-120121)
 

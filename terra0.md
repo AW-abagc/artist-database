@@ -24,7 +24,7 @@ terra0 esplora dal 2015 come gli ecosistemi naturali possano diventare agenti ec
 
 ## Fonti
 - [autonomousforest.org](https://autonomousforest.org/)
-- Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (foto scattata dal docente, 9 agosto 2026)
+- Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (fotografia del 9 agosto 2026)
 
 ## Mostre viste
 - *Strange Rules*, Palazzo Diedo, Venezia (2026) — visto da @danMa-hub

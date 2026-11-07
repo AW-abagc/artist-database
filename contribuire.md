@@ -35,7 +35,7 @@ Ogni scheda va taggata per permettere una navigazione per aree di interesse (uti
 
 Ogni scheda ha due parti:
 
-1. **Intestazione**: materiale organizzato, curato, pronto per essere mostrato agli studenti.
+1. **Intestazione**: materiale organizzato e curato.
 2. **Appunti**: materiale grezzo/non ancora organizzato, raccolto man mano (link, frammenti, cose da verificare). Si sposta nell'intestazione quando viene rifinito.
 
 ```md
@@ -60,7 +60,7 @@ Descrizione — breve o approfondita a seconda dei casi — della ricerca dell'a
 (ripetere per ogni opera rilevante)
 
 ## Approfondimenti
-(opzionale, per gli artisti con materiale ampio: base teorica per la didattica, dopo le opere)
+(opzionale, per gli artisti con materiale ampio: base teorica, dopo le opere)
 
 ### Parole dell'artista
 - Citazioni brevi o parafrasi da interviste, talk, saggi, con il link alla fonte.
@@ -68,11 +68,8 @@ Descrizione — breve o approfondita a seconda dei casi — della ricerca dell'a
 ### Letture critiche e concetti
 - Testi critici, concetti teorici, riferimenti filosofici, ognuno con la fonte che ha fatto il collegamento.
 
-### Per la didattica
-- Spunti di confronto con altri artisti, domande, esercizi.
-
 ## Interviste e talk
-- [Titolo, sede o testata (anno)](https://...) — intervista, talk o risorsa online utile per capire l'artista, da mostrare o leggere
+- [Titolo, sede o testata (anno)](https://...) — intervista, talk o risorsa online utile per capire l'artista
 
 ## Fonti
 - [Sito ufficiale dell'artista](https://...) — sempre la prima fonte, quando esiste
@@ -94,6 +91,10 @@ Descrizione — breve o approfondita a seconda dei casi — della ricerca dell'a
 ```
 
 Nessuna regola rigida oltre a questa: l'importante è iniziare a raccogliere il materiale in modo ordinato, distinguendo sempre ciò che è rifinito da ciò che è ancora grezzo.
+
+## Regola: testo neutrale
+
+Le schede descrivono artisti e opere in forma impersonale e il più possibile oggettiva. Non contengono indicazioni didattiche (come presentare un'opera, che cosa mostrare, domande, esercizi, avvertenze per l'aula), prima persona, inviti al lettore, giudizi senza fonte o note di lavorazione. Gli avvisi sui contenuti si limitano a dire che cosa un'opera contiene. Restano i segnali previsti da questa guida: `[verificare]` e l'indicazione delle fonti lette solo in parte.
 
 ## Regola fondamentale: niente contenuto senza fonte
 
@@ -122,7 +123,7 @@ Nato nel 1981 a Montréal.[^1] Rafman ha definito «romantici» i primi lavori.[
 - Le definizioni stanno alla fine del file, dopo «Crediti delle immagini», separate da una riga vuota. Il sito numera le note da solo, nell'ordine in cui compaiono.
 - Formato della nota: autore, «titolo», testata, data, poi `[link](url)`. Se la fonte è stata letta solo in parte si dice: «letto solo l'abstract».
 - Si cita solo ciò che è stato aperto davvero. Senza una fonte letta la frase resta segnata con `[verificare]`, o si toglie.
-- Non serve una nota su ogni frase, né sulle domande e gli spunti per la didattica. Le righe `**Video:**` e `**Approfondimento:**` restano come sono.
+- Non serve una nota su ogni frase. Le righe `**Video:**` e `**Approfondimento:**` restano come sono.
 - `## Fonti` resta: elenca le fonti principali della scheda.
 
 ## Regola fondamentale: verifica sostanziale, non opportunistica
@@ -135,7 +136,7 @@ Ogni scheda va sottoposta a un controllo puntuale di **tutte** le affermazioni f
 
 ## Regola: referenze video e interviste per ogni scheda
 
-Oltre alle immagini, ogni scheda dovrebbe raccogliere link a **video delle opere** (idealmente opere complete, in alternativa ampi estratti) e a **interviste/contenuti con informazioni significative sull'artista** — materiale pensato per essere mostrato direttamente in classe agli studenti, non solo letto. In pratica:
+Oltre alle immagini, ogni scheda dovrebbe raccogliere link a **video delle opere** (idealmente opere complete, in alternativa ampi estratti) e a **interviste/contenuti con informazioni significative sull'artista** — materiale da vedere, non solo da leggere. In pratica:
 
 - Cercare per ogni opera principale il video integrale (canale ufficiale dell'artista, Vimeo, museo, galleria) prima di accontentarsi di un trailer o di un estratto breve.
 - I link vanno verificati (aprire/controllare che siano quelli giusti, non indovinati) e da fonti affidabili — stessa regola del sourcing generale.

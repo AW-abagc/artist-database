@@ -45,8 +45,6 @@ Perry usa schermo verde/blu (chroma-key), avatar 3D, asset e motori di videogioc
 **Descrizione:** animazione di un'immagine fortemente processata e ingrandita della pelle della stessa Perry, ampliata alla scala di Times Square per il programma di arte pubblica "Midnight Moment" (Times Square Arts), proiettata su oltre 70 cartelloni digitali ogni notte a mezzanotte per tutto febbraio 2021.
 **Lettura critica:** porta il gesto intimo dell'ingrandimento della propria pelle nel più grande schermo pubblicitario pubblico degli Stati Uniti — un cortocircuito diretto tra corpo privato e spettacolo commerciale di massa.
 
-⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione.
-
 ### couch and fern, GLITTER AND THE LION'S MANE (2020-2023)
 **Descrizione:** installazione con un divano capovolto e uno schermo video incassato (riprese da un'auto in movimento), una poltrona da barbiere ricoperta di funghi criniera di leone, e un audio con una conversazione tra Perry e la psicoterapeuta Bola Shonubi sulla vita della nonna di Perry come mezzadra nel Sud degli Stati Uniti sotto le leggi Jim Crow, e sulla ricerca di quella terra da parte della stessa Perry. Mostrata nella personale "Sondra Perry: ██████████" da Bridget Donahue, New York (2023); acquisita dall'Art Institute of Chicago nel novembre 2024.
 **Lettura critica:** l'opera più recente sposta il registro dal corpo e dalla pelle alla memoria di terra e generazione — invecchiamento, trauma generazionale nero e guarigione, con un impianto meno tecnologico in superficie ma continuo nella ricerca sulla memoria familiare avviata già in *Lineage*.

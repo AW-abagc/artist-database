@@ -25,8 +25,6 @@ Il suo lavoro si muove spesso nella tensione tra arte e tecnologia, tra realtà 
 ### Altre opere
 **Descrizione:** Serie *VideoSculptures* (*White Noise*, 2018), *Wake Me Up at 4:20 AM* (2019, avatar, identità e YouTuber), serie *Memento* (2018, lastre di alluminio offset con immagini di folla da giornali), *White Cloud* (2024, documentario di 19 minuti sulle miniere in Mongolia Interna).
 
-⚠️ Nessuna immagine trovata.
-
 ## Fonti
 - [Harlan Levey Projects — The Sky Is on Fire](https://hl-projects.com/artworks/831-emmanuel-van-der-auwera-the-sky-is-on-fire-2019)
 - [La Libre — Les décombres d'un désastre](https://www.lalibre.be/culture/arts/2019/10/02/les-decombres-dun-desastre-3IPGFJENCZDEPAEN77FXG2IIKI/)

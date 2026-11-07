@@ -15,7 +15,7 @@ Il lavoro di Anadol è però anche al centro di una controversia critica di alto
 ## Opere principali
 ### Melting Memories (2018)
 **Descrizione:** scultura/dipinto di dati che esplora come il cervello richiami i ricordi, usando dati EEG. Anadol ha condotto esperimenti al Neuroscape Laboratory della UC San Francisco, analizzando i canali delle onde beta e theta associati all'attivazione della memoria a breve e lungo termine (in particolare episodica). Realizzata come parete LED personalizzata di 16x20 piedi affiancata da una superficie scultorea in schiuma rigida fresata a controllo numerico; mostrata alla galleria Pilevneli di Istanbul (2018).
-**Lettura critica:** una delle opere più esplicitamente ancorate a un protocollo scientifico verificabile (i dati EEG raccolti in laboratorio), utile per discutere in classe la differenza tra dati scientifici reali e la loro resa estetica.
+**Lettura critica:** l'opera è ancorata a un protocollo scientifico verificabile (i dati EEG raccolti in laboratorio) e pone la differenza tra dati scientifici reali e la loro resa estetica.
 
 ![Melting Memories](immagini/refik-anadol/melting-memories.jpg)
 

@@ -3,7 +3,7 @@
 **Tag tecnica/formato:** `video` `installazione`
 **Tag tema:** `memoria-archivio`
 
-⚠️ **Nota di inquadramento**: duo di documentaristi italiani, pratica ancorata al cinema del reale e al montaggio d'archivio più che al new media/3D/IA — fit più debole rispetto al nucleo del database, incluso perché l'opera per CANICULA (2026) è pensata come installazione multicanale per lo spazio espositivo, non per la sala cinematografica.
+**Nota di inquadramento:** duo di documentaristi italiani, pratica ancorata al cinema del reale e al montaggio d'archivio più che al new media/3D/IA; l'opera per CANICULA (2026) è pensata come installazione multicanale per lo spazio espositivo, non per la sala cinematografica.
 
 ## Biografia
 Massimo D'Anolfi nato nel 1974 a Pescara; Martina Parenti nata nel 1972 a Milano. Duo di documentaristi italiani attivi in collaborazione stabile dal 2003, curano personalmente ripresa, suono, montaggio e produzione dei propri film. *Spira Mirabilis* (2016) è stato in concorso per il Leone d'Oro alla 73ª Mostra del Cinema di Venezia. Nel 2026 presenti alla mostra collettiva **CANICULA** (Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia, 6 maggio-22 novembre 2026, cur. Alessandro Rabottini e Leonardo Bigazzi), terzo capitolo della "Trilogy of Uncertainties" (dopo *Penumbra* 2022 e *Nebula* 2024) — occasione della visita che ha originato questa scheda.

@@ -22,8 +22,6 @@ Lavora tra poesia, performance, musica, immagine e scrittura (tra i suoi libri, 
 ### Pretty Canary (2025)
 **Descrizione:** Mostra al Turun taidemuseo, Finlandia, dal 6 giugno al 14 settembre 2025.
 
-⚠️ Nessuna immagine trovata.
-
 ## Fonti
 - [Wikipedia — Juliana Huxtable](https://en.wikipedia.org/wiki/Juliana_Huxtable)
 - [Studio Museum in Harlem — Juliana Huxtable](https://www.studiomuseum.org/artists/juliana-huxtable)

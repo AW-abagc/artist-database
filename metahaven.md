@@ -17,8 +17,6 @@ Il metodo di Metahaven consiste nel trattare il graphic design come strumento di
 **Descrizione:** serie di saggi pubblicati su *e-flux journal* (parte I, n. 37, settembre 2012; parte II, n. 38, ottobre 2012; parte III "All Tomorrow's Clouds", n. 50, dicembre 2013), che apre con la frase "Siamo i prigionieri volontari del cloud; siamo sorvegliati da governi che non abbiamo eletto." Affronta la "super-giurisdizione" statunitense esercitata attraverso leggi come il Patriot Act, applicata globalmente tramite la proprietà americana dell'infrastruttura cloud, in un formato che unisce prosa da "policy paper amplificato" a diagrammi in stile infografica sull'architettura di internet.
 **Lettura critica:** un testo che anticipa di anni il dibattito mainstream sulla sovranità dei dati, scritto da uno studio di design piuttosto che da accademici — un caso paradigmatico di teoria critica prodotta con gli strumenti visivi del design stesso.
 
-⚠️ Nessuna immagine trovata per questa serie di saggi in questa sessione: e-flux journal non restituisce immagini associate all'articolo al fetch diretto.
-
 ### Black Transparency: The Right to Know in the Age of Mass Surveillance (mostra 2013-14, libro 2015)
 **Corso:** `TAD-DCV`
 **Temi:** `propaganda-e-media`
@@ -31,7 +29,7 @@ Il metodo di Metahaven consiste nel trattare il graphic design come strumento di
 **Corso:** `TAD-DCV` `TAD-AVM`
 **Temi:** `propaganda-e-media` `infrastruttura-e-rete`
 **Descrizione:** documentario a lungometraggio, installazione multicanale e progetto web episodico, commissionato nel 2014 da Lighthouse e The Space. Diretto da Metahaven con la direzione della fotografia di Remko Schnorr e colonna sonora originale del musicista elettronico Kuedo. Un documentario ibrido e non lineare costruito in brevi segmenti ("shard") calibrati sui tempi di attenzione da internet piuttosto che sulla durata cinematografica; affronta la disinformazione attorno all'abbattimento del volo MH17 e la guerra di framing tra RT e CNN, con interviste a Benjamin H. Bratton, Maryam Monalisa Gharavi e Peter Pomerantsev. Presentato in anteprima all'IFFR (International Film Festival Rotterdam) 2016; mostrato anche a ICA Londra e HKW Berlino.
-**Lettura critica:** l'opera più rilevante per un corso di animazione/immagine in movimento digitale — mette in scena, nella propria stessa forma frammentata "a shard", la tesi che intende argomentare sulla propaganda dell'era dei social media.
+**Lettura critica:** mette in scena, nella propria stessa forma frammentata "a shard", la tesi che intende argomentare sulla propaganda dell'era dei social media.
 **Video:** [The Sprawl, interfaccia ufficiale a episodi (sprawl.space)](http://sprawl.space/shards/shard-14/) · [The Sprawl, playlist completa (YouTube)](https://www.youtube.com/playlist?list=PLzOamWyeo-sYBnjVoDd1JxmAUvrSV3dPg)
 
 ![The Sprawl (Propaganda About Propaganda) — HD video still. Courtesy Lighthouse e The Space](immagini/metahaven/the-sprawl.webp)

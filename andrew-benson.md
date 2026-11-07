@@ -10,7 +10,7 @@ Artista statunitense, noto anche con lo pseudonimo/handle **pixlpa**. Consegue u
 ⚠️ Non confermati: alcuni strumenti/app chiamati "Cross Cut" o "Cathode" talvolta attribuiti a questo artista — nessuna fonte trovata a conferma; il suo contributo effettivo e documentato allo sviluppo di strumenti è la serie Jitter Recipes e lo strumento browser "Motion Brush". Nessuna conferma di un ruolo formale come curatore dei Vimeo Staff Picks.
 
 ## Poetica e ricerca
-La pratica di Benson è descritta costantemente attorno a feedback video, software personalizzato in tempo reale e un approccio "pittorico" al digitale: "Le sue animazioni e i lavori video sperimentali attingono a un approccio pittorico al materiale e al colore che è inconfondibilmente digitale, e incorporano una batteria di processi software personalizzati e dispositivi elettronici" (Le Random). Nella pagina Vimeo dell'opera "To Be RGB For You", accosta il lavoro a una citazione della critica d'arte Rosalind Krauss (1976) sul feedback video, che descrive "la spirale di feedback del video" come produttrice di "una sorta di caduta senza peso nello spazio sospeso del narcisismo" — un riferimento diretto al celebre saggio di Krauss "Video: The Aesthetics of Narcissism" (*October*, vol. 1, primavera 1976), un solido ancoraggio teorico per un'unità didattica sull'estetica del feedback video. Il blog Prosthetic Knowledge, punto di riferimento per la net art e l'arte tecnologica sperimentale, ha presentato più volte le sue demo WebGL glitch/feedback, collocandolo nella scena dell'arte generativa/glitch basata su browser. Vice/Creators Project gli ha dedicato due profili. Il suo lavoro per lo show dal vivo di Aphex Twin viene discusso nel contesto della pratica visiva di Weirdcore da *Dazed* e *It's Nice That*. *Frieze* ha incluso il suo lavoro "Gubble" in un programma video curato per Frieze New York (2019) — un punto di validazione curatoriale/critica istituzionale.
+La pratica di Benson è descritta costantemente attorno a feedback video, software personalizzato in tempo reale e un approccio "pittorico" al digitale: "Le sue animazioni e i lavori video sperimentali attingono a un approccio pittorico al materiale e al colore che è inconfondibilmente digitale, e incorporano una batteria di processi software personalizzati e dispositivi elettronici" (Le Random). Nella pagina Vimeo dell'opera "To Be RGB For You", accosta il lavoro a una citazione della critica d'arte Rosalind Krauss (1976) sul feedback video, che descrive "la spirale di feedback del video" come produttrice di "una sorta di caduta senza peso nello spazio sospeso del narcisismo" — un riferimento diretto al celebre saggio di Krauss "Video: The Aesthetics of Narcissism" (*October*, vol. 1, primavera 1976). Il blog Prosthetic Knowledge, punto di riferimento per la net art e l'arte tecnologica sperimentale, ha presentato più volte le sue demo WebGL glitch/feedback, collocandolo nella scena dell'arte generativa/glitch basata su browser. Vice/Creators Project gli ha dedicato due profili. Il suo lavoro per lo show dal vivo di Aphex Twin viene discusso nel contesto della pratica visiva di Weirdcore da *Dazed* e *It's Nice That*. *Frieze* ha incluso il suo lavoro "Gubble" in un programma video curato per Frieze New York (2019) — un punto di validazione curatoriale/critica istituzionale.
 
 ## Opere principali
 ### Jitter Recipes, serie di tutorial (in corso, per Cycling '74)
@@ -23,7 +23,7 @@ La pratica di Benson è descritta costantemente attorno a feedback video, softwa
 
 ### Deserted (2016)
 **Descrizione:** video di 9:51 minuti, meditazione digitale sull'idea del deserto ed evocazione autobiografica della propria infanzia vicino al deserto del Mojave in California — reimmagina la texture arida del clima (feldspato, sabbia, creosoto, cieli profondi) con strati di feedback senza input, pittura digitale, effetti di colore malfunzionanti e distorsione dell'immagine guidata dalla camera. Girato in un unico lungo piano sequenza usando software video personalizzato in tempo reale.
-**Lettura critica:** inquadra il feedback video/glitch come medium del paesaggio e della memoria — direttamente utile per un'unità didattica su compressione digitale/feedback/astrazione.
+**Lettura critica:** inquadra il feedback video/glitch come medium del paesaggio e della memoria.
 **Video:** [Deserted, film integrale (Vimeo)](https://vimeo.com/179940829)
 
 ![Deserted — fotogramma](immagini/andrew-benson/deserted-still.jpg)
@@ -40,7 +40,7 @@ La pratica di Benson è descritta costantemente attorno a feedback video, softwa
 
 ### Totally Normal (2015/2016, per Adult Swim)
 **Descrizione:** cortometraggio digitale diretto da Benson, "che presenta una visione strana del nostro futuro tecnologico", proiettato nell'episodio "NEWNOW" della serie *Off the Air* di Adult Swim, con musica di Zach Schimpf.
-**Lettura critica:** mostra il passaggio dalla pratica sperimentale/da galleria glitch alla televisione via broadcast/animazione per adulti — un esempio utile del percorso professionale reale possibile per artisti di questo ambito.
+**Lettura critica:** mostra il passaggio dalla pratica sperimentale/da galleria glitch alla televisione via broadcast/animazione per adulti.
 
 ![Totally Normal — fotogramma](immagini/andrew-benson/totally-normal-still.jpg)
 

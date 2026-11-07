@@ -75,8 +75,8 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 - *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Rahel Aima)
 
 ## Crediti delle immagini
-Immagine per ciascuna delle quattro opere principali, inclusa sotto la relativa descrizione in "Opere principali", da e-flux e atpdiary.com (per le due opere aggiunte in questa sessione).
-- Seconda immagine di *Party on the CAPS*: veduta d'installazione riconosciuta da Daniele Maffeis; sede, anno e autore della foto [verificare].
+Immagine per ciascuna delle quattro opere principali, inclusa sotto la relativa descrizione in "Opere principali", da e-flux e atpdiary.com.
+- Seconda immagine di *Party on the CAPS*: veduta d'installazione; sede, anno e autore della foto [verificare].
 - [Wikipedia — Meriem Bennani](https://en.wikipedia.org/wiki/Meriem_Bennani)
 - [Whitney Museum — profilo artista](https://whitney.org/artists/18525)
 - [Art21 — profilo artista](https://art21.org/artist/meriem-bennani/)

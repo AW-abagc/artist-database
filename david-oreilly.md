@@ -36,8 +36,6 @@ Il tratto distintivo di O'Reilly è un'estetica 3D deliberatamente "low-poly" e 
 **Descrizione:** singolo episodio della serie *Adventure Time* (stagione 5, episodio 15, andato in onda il 1° aprile 2013), interamente animato in CGI 3D nello stile proprio di O'Reilly, che lo scrive, storyboarda e dirige. Pendleton Ward, creatore della serie, lo contatta per la prima volta attorno al 2010; la collaborazione si realizza circa tre anni dopo, una volta che O'Reilly si è trasferito a Los Angeles.
 **Lettura critica:** un caso raro di innesto diretto dell'estetica d'autore low-poly dentro una produzione televisiva mainstream per bambini, senza addolcirne il linguaggio visivo.
 
-⚠️ Nessuna immagine trovata: Rhizome (fonte con screenshot documentato) e Adventure Time Wiki bloccano l'accesso automatizzato; da recuperare manualmente.
-
 ### Mountain (2014, videogioco/app, Double Fine Productions)
 **Corso:** `AW`
 **Temi:** `vita-artificiale-e-simulazione`

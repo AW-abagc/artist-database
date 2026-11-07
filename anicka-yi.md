@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `installazione` `intelligenza-artificiale-generativa`
 **Tag tema:** `ecologia-ambiente` `genere-queerness` `colonialismo-decolonialita`
-**Stato:** da verificare prima di citarla in classe: la citazione del 2026 sull'IA a rinforzo (fonte secondaria) · da approfondire: The Flavor Genome (2016)
+**Stato:** da verificare: la citazione del 2026 sull'IA a rinforzo (fonte secondaria) · da approfondire: The Flavor Genome (2016)
 
 ## Biografia
 Nata nel 1971 a Seoul, Corea del Sud. La famiglia emigra quando ha circa due anni, vivendo prima in Alabama, poi in Florida, poi nella California meridionale; la madre lavora in un'azienda biomedica, il padre, ingegnere, diventa pastore protestante. Frequenta l'Hunter College di New York e la University of California, Los Angeles, senza però una formazione artistica accademica formale — inizia a fare arte solo attorno ai trent'anni, dopo aver lavorato a Londra come stylist di moda e copywriter pubblicitaria; il primo lavoro artistico documentato risale al 2008, con il collettivo "Circular File". Vive e lavora a New York, con studio a Brooklyn. Riconoscimenti: Louis Comfort Tiffany Foundation Award (2011); Hugo Boss Prize 2016 (Guggenheim, 100.000 dollari), la cui giuria elogia il suo "peculiare abbraccio del disagio nei suoi esperimenti con tecnologia, scienza e i mondi vegetale e animale". Nel 2021-22 realizza la Hyundai Commission per la Turbine Hall della Tate Modern, il suo progetto più ambizioso fino a quel momento. Rappresentata da Gladstone Gallery, 47 Canal ed Esther Schipper; dal marzo 2026 entra anche nella scuderia di Pace Gallery (prima personale da Pace prevista nel 2027).

@@ -45,8 +45,6 @@ Blas indaga i presupposti ideologici e le implicazioni biopolitiche incorporate 
 **Approfondimento:** [zachblas.info — The Doors](https://zachblas.info/works/the-doors/)
 
 ## Approfondimenti
-Materiale per la didattica, aggiunto il 2026-11-01. I due testi di Blas sono stati letti sulla fonte.
-
 ### Parole dell'artista
 - **Opacità informatica.** Per Blas la sorveglianza digitale, rivelata dai programmi NSA nel 2013, ha sostituito il panottico di Foucault: il potere rende le persone visibili come dati aggregati, identificabili e classificabili. Seguendo Philip Agre chiama questa logica «cattura»: si misura ogni persona su modelli predefiniti, costruiti da esseri umani e quindi non neutri. L'opacità non è sparire, ma non emettere la luce che questi sistemi leggono: una pratica collettiva di evasione, come la protesta in maschera, la cifratura, l'arte (*Informatic Opacity*, Journal of Aesthetics and Protest 9;[^3] ripubblicato nel *Posthuman Glossary*, Bloomsbury, 2018).
 - **Glissant, tatticamente.** Da Édouard Glissant viene il diritto all'opacità, che per lui è una posizione etica e ontologica contro la classificazione. Blas nota che Glissant non lo intende come tattica e sostiene che oggi debba diventarlo, perché la cattura minaccia l'opacità stessa.
@@ -56,15 +54,7 @@ Materiale per la didattica, aggiunto il 2026-11-01. I due testi di Blas sono sta
 
 ### Letture critiche e concetti
 - **Altri esempi citati da Blas.** Le sciarpe WikiLeaks di Metahaven, il trucco CV Dazzle di Adam Harvey, le maschere di Jemima Wyman per le Pussy Riot.
-- **Correzione: *Biometric Mirror*.** La scheda attribuiva a Blas quest'opera, descritta nel documento di origine AI. Il sito e la biografia dell'artista non la riportano: è un progetto del 2018 della University of Melbourne, guidato da Niels Wouters con la Science Gallery Melbourne e l'artista Lucy McRae.[^7] Il collegamento con la frenologia e con Zuboff veniva dallo stesso documento.
-
-### Per la didattica
-- Confronto con Adam Harvey (scheda nel database): maschera collettiva e trucco individuale.
-- Confronto con Paglen: Blas propone tattiche di opacità, Paglen dubita delle contromisure visive perché finiscono nei dati di addestramento.
-- Domanda per la classe: chi può permettersi di essere opaco? È il paradosso indicato da Blas.
-
-### Da leggere
-Non letti in questa revisione: [Lila Lee-Morrison, *Portraits of Automated Facial Recognition* (2019), estratto](https://zachblas.info/wp-content/uploads/2019/12/lila-lee-morrison_portraits-of-automated-facial-recognition_2019.pdf); [*Towards Computational Body Horror*](https://zachblas.info/wp-content/uploads/2023/07/Towards-Computational-Body-Horror.pdf).
+- **Attribuzione errata: *Biometric Mirror*.** Il sito e la biografia dell'artista non riportano quest'opera: è un progetto del 2018 della University of Melbourne, guidato da Niels Wouters con la Science Gallery Melbourne e l'artista Lucy McRae.[^7] Il collegamento con la frenologia e con Zuboff veniva dallo stesso documento.
 
 ## Interviste e talk
 - **Video:** [Art, AI and Control Societies — talk, Walker Art Center (YouTube)](https://www.youtube.com/watch?v=FwT0hYyIe20)

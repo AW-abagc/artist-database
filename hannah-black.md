@@ -22,8 +22,6 @@ Il lavoro intreccia scrittura e immagine in movimento; tra le sue opere performa
 ### Mostre personali
 **Descrizione:** *Not You*, Arcadia Missa, Londra (2015); *Small Room*, mumok, Vienna e *Soc or Barb*, Bodega, New York (2017); mostra al Kunstverein Braunschweig con il video saggio *Dede, Eberhard, Phantom* (2019); *Ruin/Rien*, Arcadia Missa (2020); Chisenhale Gallery, Londra, come prima personale in un'istituzione britannica.
 
-⚠️ Nessuna immagine trovata.
-
 ## Fonti
 - [Sharjah Art Foundation — Hannah Black](https://www.sharjahart.org/en/people/details/black-hannah)
 - [Tate — Hannah Black](https://www.tate.org.uk/art/artists/hannah-black-26738)

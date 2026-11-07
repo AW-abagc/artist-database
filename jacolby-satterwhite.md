@@ -23,8 +23,6 @@ Michael Bullock descrive i suoi film come popolati da «paesaggi onirici celesti
 **Lettura critica:** la serie fonda il metodo di Satterwhite. Alicia Eler parla di un «alveare virtuale materno»: l'avatar dell'artista compare quasi ovunque, in mondi sempre più vasti, sui disegni notturni della madre ispirati alle televendite.[^9]
 **Video:** [Reifying Desire Three, film integrale (Vimeo)](https://vimeo.com/44403442)
 
-⚠️ Nessuna immagine trovata con attribuzione certa (le immagini disponibili sulla pagina galleria non erano etichettate per opera specifica).
-
 ### Country Ball 1989-2012 (2012)
 **Descrizione:** video a canale singolo di circa 13 minuti che ricrea in CGI i filmati di famiglia in VHS di una festa della mamma del 1989,[^4] in onore di Patricia Satterwhite e delle sue sorelle, con riprese in green screen della performance dell'artista, in un paesaggio ispirato al *Giardino delle delizie* di Bosch e alla cultura ballroom. Acquisizione del MoMA nel 2012 [verificare].
 **Lettura critica:** filmato di famiglia e mondo costruito stanno sullo stesso piano. Reid ne fa un esempio del rapporto con la madre come collaborazione, non come ispirazione.[^4]
@@ -64,8 +62,6 @@ Michael Bullock descrive i suoi film come popolati da «paesaggi onirici celesti
 **Approfondimento:** [metmuseum.org — A Metta Prayer](https://www.metmuseum.org/exhibitions/jacolby-satterwhite)
 
 ## Approfondimenti
-Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state lette sulla fonte, salvo dove è indicato il contrario.
-
 ### Parole dell'artista
 - **Non un tributo.** Sul lavoro con la madre: «non è un tributo, è terapia»; non vuole farne un omaggio sentimentale.[^4]
 - **Dalla cassetta al 3D.** Spiega di aver preso una forma di espressione a bassa fedeltà, la musica folk registrata in casa negli anni Novanta, per portarla al concept album e alla realtà virtuale. Le canzoni scelte parlano di resurrezione, rinnovamento e seconde possibilità, ma non vuole che la storia di lei si sovrapponga alla sua.[^6]
@@ -77,20 +73,6 @@ Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state l
 - **Autoritratto irrisolto (Szremski).** Ania Szremski accosta la mostra a *Maxinquaye* di Tricky e agli scritti di Ian Penman, e segnala i limiti del proprio sguardo: il corpo nero e queer porta significati che lei, spettatrice bianca, cisgender ed eterosessuale, può non cogliere.[^10]
 - **Mercato e giovani artisti (Eler).** Alicia Eler nota che la mostra da OHWOW, subito dopo la Biennale del Whitney, ha l'aria di una mini-retrospettiva, spinta dal mercato.[^9]
 - **La danza come guarigione (Godwin).** Alice Godwin tiene insieme videogiochi, afrofuturismo, teoria queer e tradizioni spirituali dell'Africa occidentale.[^3]
-
-### Per la didattica
-- *Country Ball* e il filmato di famiglia: che cosa cambia quando un ricordo privato entra in un motore 3D?
-- La madre come coautrice: come si citano nei crediti di un'opera le persone il cui materiale viene rielaborato?
-- *A Metta Prayer* e *Serious Games* di Farocki: due usi opposti della logica del videogioco.
-- Attenzione in aula: i video contengono nudo e sessualità esplicita; salute mentale e violenza razziale vanno presentate con cura.
-
-### Da leggere
-Non letti in questa revisione:
-- Eva Díaz, recensione su *Artforum* (2013): la citazione viene da una pagina di Artforum, il titolo probabile è «Grey Lines at Recess Activities» (*Artforum*, dicembre) [verificare]
-- [Document Journal — sull'eredità artistica della madre (2019)](https://www.documentjournal.com/2019/12/jacolby-satterwhites-unwavering-mission-to-honor-his-mothers-artistic-legacy/) (sito non raggiungibile)
-- [ARTnews — Satterwhite a Pioneer Works](https://www.artnews.com/art-news/artists/jacolby-satterwhite-pioneer-works-13329) (accesso automatico bloccato)
-- *A Family Portrait*, *Guernica*, 15 gennaio 2013, citato da Wikipedia
-- [Guida alla mostra del Contemporary Art Museum St. Louis (2022)](https://camstl.org/wp-content/uploads/2022/08/Jacolby-Satterwhite-Gallery-Guide.pdf)
 
 ## Interviste e talk
 - [Art21 — «The Incredulity of Jacolby Satterwhite»](https://www.youtube.com/watch?v=8WljeAovjtc)

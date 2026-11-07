@@ -4,13 +4,13 @@
 **Tag tema:** `intelligenza-artificiale-critica` `temporalita-non-lineare`
 **Tag corso:** `AW`
 **Sito ufficiale:** [iancheng.com](https://iancheng.com/)
-**Stato:** biografia e opere riviste il 2026-11-01 · pagine delle opere, video e interviste aggiunti il 2026-11-03 da risultati di ricerca, senza aprire i link (da controllare) · alcune voci degli Approfondimenti restano di origine AI e sono segnalate · tre immagini provengono dalla scheda originale, senza una fonte tracciata
+**Stato:** biografia e opere riviste il 2026-11-01 · pagine delle opere, video e interviste aggiunti il 2026-11-03 da risultati di ricerca, senza aprire i link (da controllare) · alcune voci degli Approfondimenti restano da verificare e sono segnalate · tre immagini provengono dalla scheda originale, senza una fonte tracciata
 
 ## Biografia
 Nato nel 1984 a Los Angeles, vive e lavora a New York.[^1][^2] Laurea, con doppio corso in scienze cognitive e art practice, alla UC Berkeley (2006); un anno a Industrial Light & Magic, la società di effetti visivi di George Lucas; MFA alla Columbia University (2009); dal 2010 al 2012 ha lavorato nello studio dell'artista **Pierre Huyghe** ed è stato co-direttore di Badlands Unlimited, casa editrice indipendente di Paul Chan. Personali alla Fondazione Sandretto Re Rebaudengo (2015), al Migros Museum (2016), al MoMA PS1 e al Carnegie Museum of Art (2017),[^3] alle Serpentine Galleries (2018), a Luma Arles e The Shed (2021), al Leeum di Seul e alla Light Art Space di Berlino (2022); collettive al MoMA, al Whitney, al Hirshhorn, alla Tate Modern, al Louisiana Museum e alla Biennale di Venezia 2019.
 
 ## Poetica e ricerca
-Cheng rifiuta i media statici a favore di **"simulazioni dal vivo"**: mondi digitali autonomi che girano in tempo reale su game engine, popolati da agenti IA il cui comportamento è emergente e non pre-sceneggiato. La sua pratica è più vicina al giardinaggio che alla narrazione: imposta condizioni iniziali e pulsioni degli agenti, poi cede il controllo, osservando cosa "diventa" il mondo. Cheng parla di «un videogioco che gioca da solo».[^9] L'immagine del giardinaggio viene dal REF *(origine AI, da verificare)*.
+Cheng rifiuta i media statici a favore di **"simulazioni dal vivo"**: mondi digitali autonomi che girano in tempo reale su game engine, popolati da agenti IA il cui comportamento è emergente e non pre-sceneggiato. La sua pratica è più vicina al giardinaggio che alla narrazione: imposta condizioni iniziali e pulsioni degli agenti, poi cede il controllo, osservando cosa "diventa" il mondo. Cheng parla di «un videogioco che gioca da solo».[^9] L'immagine del giardinaggio non ha una fonte diretta *(da verificare)*.
 
 Cheng chiama questa pratica **"Worlding"**: portare i mondi virtuali a vivere nella loro imprevedibilità continua, una metafora per una vita vissuta al servizio di una particolare vitalità, con la capacità di creare complessità e il coraggio di convivere con l'indeterminatezza che la complessità comporta.[^3] Il libro descrive quattro «maschere» dell'artista, il Regista, il Cartonista, l'Hacker e l'Emissario, e si appoggia ai giochi infiniti di James Carse.[^3]
 
@@ -24,7 +24,7 @@ Cheng chiama questa pratica **"Worlding"**: portare i mondi virtuali a vivere ne
 **Descrizione:** video per il brano *Brats* dei Liars, dall'album *WIXIW* (Mute). Nato dall'esperienza di Cheng in una società di effetti visivi, porta Bugs Bunny ed Elmer Fudd dentro il software di animazione: gli scheletri si scontrano, gli arti si deformano, i personaggi sopravvivono alle esplosioni. Cheng dice di aver usato il racconto del cacciatore e del coniglio come formato per far crescere un «giardino» di movimenti.[^5]
 **Lettura critica:** uno dei primi lavori in cui Cheng spinge su difetti e imprevisti del software, prima di passare alle simulazioni in cui i personaggi vengono messi in moto e lasciati agire.[^22]
 
-**Pagina dell'opera:** pagina non trovata su iancheng.com; il video è su [Vimeo, con i crediti di regia di Cheng](https://vimeo.com/45095858)
+**Pagina dell'opera:** il video è su [Vimeo, con i crediti di regia di Cheng](https://vimeo.com/45095858)
 
 **Video:** [Liars, *Brats*, video ufficiale (YouTube)](https://www.youtube.com/watch?v=uL9jtjJ3zv0)
 
@@ -32,7 +32,7 @@ Cheng chiama questa pratica **"Worlding"**: portare i mondi virtuali a vivere ne
 **Descrizione:** simulazione dal vivo, di durata infinita, mostrata da Off Vendome a Düsseldorf nel 2013. Un programma genera un vortice di disordine in cui persone, animali e oggetti fluttuano in uno spazio astratto e si scontrano per caso.[^6] La versione *Entropy Wrangler Cloud*, per Oculus Rift e Kinect, debutta alla sezione Frame di Frieze London nel 2013: chi la indossa si guarda intorno e lancia oggetti con il gesto delle mani.[^7]
 **Lettura critica:** Cheng lo considera il primo tentativo di un racconto animato senza fine.[^8] Pilar Corrias lo presenta prima di tutto come software, il «genotipo» dell'opera.
 
-**Pagina dell'opera:** pagina non trovata su iancheng.com; [Pilar Corrias, viewing room](https://pilarcorrias.viewingrooms.com/artworks/5235-ian-cheng-entropy-wrangler-2013/) · dal REF: [Rhizome, la versione per Oculus Rift](https://rhizome.org/editorial/2013/dec/23/prosthetic-knowledge-picks-oculus-rift/)
+**Pagina dell'opera:** pagina non trovata su iancheng.com; [Pilar Corrias, viewing room](https://pilarcorrias.viewingrooms.com/artworks/5235-ian-cheng-entropy-wrangler-2013/) · [Rhizome, la versione per Oculus Rift](https://rhizome.org/editorial/2013/dec/23/prosthetic-knowledge-picks-oculus-rift/)
 
 **Video:** [*Entropy Wrangler Cloud (Chang & Eng)*, estratto dalla simulazione (Vimeo)](https://vimeo.com/77129257)
 
@@ -49,9 +49,9 @@ Cheng chiama questa pratica **"Worlding"**: portare i mondi virtuali a vivere ne
 **Descrizione:** tre "simulazioni dal vivo" collegate, di durata infinita, con agenti che hanno pulsioni e un comportamento non sceneggiato; Cheng le chiama «un videogioco che gioca da solo».[^9] In ognuna un agente, l'**Emissario**, ha una missione in un mondo indifferente. *Squat of Gods*: comunità antica in un paesaggio vulcanico, destinata alla distruzione dall'eruzione; l'Emissario è la giovane *Young Ancient*. *Forks at Perfection*: il vulcano è diventato un lago di cratere, un'IA studia la scomparsa dell'umanità e l'Emissario è Shiba, un cane della razza giapponese. *Sunsets the Self*: il lago è diventato un atollo senziente, l'Emissario è *AI Puddle*.[^10][^8]
 **Lettura critica:** Cheng ha dichiarato di essersi ispirato direttamente a *Il crollo della mente bicamerale e l'origine della coscienza* (1976) di Julian Jaynes — la teoria secondo cui gli umani antichi non prendevano decisioni coscienti e riflesse, interpretando invece i propri pensieri come voci esterne ("comandi divini"): *"Non so se sia vero, ma di sicuro è strano, e ha catturato la mia immaginazione al punto da farmi realizzare queste opere chiamate Emissaries"*.[^11] La trilogia segue l'evoluzione cognitiva attraverso tre epoche lontane: nascita, frammentazione e dissoluzione della coscienza.
 
-**Pagina dell'opera:** [iancheng.com/emissaries](https://iancheng.com/emissaries) · dal REF: [Cantor Arts Center, *Emissary Sunsets the Self*](https://museum.stanford.edu/exhibitions/ian-cheng-emissary-sunsets-self)
+**Pagina dell'opera:** [iancheng.com/emissaries](https://iancheng.com/emissaries) · [Cantor Arts Center, *Emissary Sunsets the Self*](https://museum.stanford.edu/exhibitions/ian-cheng-emissary-sunsets-self)
 
-**Video (dal REF):** [*A Portal to Infinity*, intervista sulla trilogia (Louisiana Channel)](https://www.youtube.com/watch?v=TO6Luilc4Bo) · [*SI Visions: Ian Cheng on the Society of Mind*](https://www.youtube.com/watch?v=kg1k8BmTqNg)
+**Video:** [*A Portal to Infinity*, intervista sulla trilogia (Louisiana Channel)](https://www.youtube.com/watch?v=TO6Luilc4Bo) · [*SI Visions: Ian Cheng on the Society of Mind*](https://www.youtube.com/watch?v=kg1k8BmTqNg)
 
 **Video:** [*Emissary in the Squat of Gods* (YouTube)](https://www.youtube.com/watch?v=YbOBFvM81zQ) · [*Emissary Forks At Perfection*, registrazione v0.93 (Vimeo)](https://vimeo.com/214884118) · [*Emissary Sunsets The Self*, estratto v0.9 (Vimeo)](https://vimeo.com/214739002)
 
@@ -81,27 +81,27 @@ Cheng chiama questa pratica **"Worlding"**: portare i mondi virtuali a vivere ne
 
 ### Life After BOB: The Chalice Study (2021)
 **Descrizione:** serie anime costruita nel motore Unity, presentata dal vivo in tempo reale, debutta a Luma Arles nell'aprile 2021. Nel primo episodio, *The Chalice Study*, il neuroingegnere Dr. Wong installa un'IA sperimentale, BOB, nella figlia Chalice di dieci anni; BOB si fa carico delle sue difficoltà e Chalice viene messa ai margini. La durata è di 48 minuti per la galleria, 50 per altre fonti. L'interfaccia *World Watching* permette di esplorare i dettagli del mondo con i propri tempi, e chi modifica il wiki collegato cambia per sempre quei dettagli sullo schermo.[^16]
-**Lettura critica:** tragedia sul controllo genitoriale e sul "soluzionismo" della Silicon Valley — suggerisce che l'identità coincida proprio con ciò che l'ottimizzazione vorrebbe eliminare: trauma, caos, irrazionalità *(origine AI, da verificare)*.
+**Lettura critica:** tragedia sul controllo genitoriale e sul "soluzionismo" della Silicon Valley — suggerisce che l'identità coincida proprio con ciò che l'ottimizzazione vorrebbe eliminare: trauma, caos, irrazionalità *(da verificare)*.
 
 ![Life After BOB: The Chalice Study, still dal film/interfaccia Worldwatching](immagini/ian-cheng/life-after-bob-01.png)
 
-**Pagina dell'opera:** [iancheng.com/LAB](https://iancheng.com/LAB) · dal REF: [lifeafterbob.io](https://lifeafterbob.io/) · [cartella stampa](https://iancheng.com/viewer/lab-presskit)
+**Pagina dell'opera:** [iancheng.com/LAB](https://iancheng.com/LAB) · [lifeafterbob.io](https://lifeafterbob.io/) · [cartella stampa](https://iancheng.com/viewer/lab-presskit)
 
-**Video (dal REF):** [*Life after BOB: The Chalice Study with Ian Cheng*, talk](https://www.youtube.com/watch?v=JfhdgNazHRo)
+**Video:** [*Life after BOB: The Chalice Study with Ian Cheng*, talk](https://www.youtube.com/watch?v=JfhdgNazHRo)
 
 **Video:** [*Life After BOB*, trailer (The Shed)](https://www.youtube.com/watch?v=AMg4JQIGjns) · [*Ian Cheng: Life After BOB*](https://www.youtube.com/watch?v=3cSTidBYhQE)
 
 ## Approfondimenti
-Materiale teorico e critico per la didattica, ricavato dai due documenti di riferimento originali su Drive («Ian Cheng REF» e «Ian Cheng», in «new refs»). **Attenzione sull'origine:** il secondo documento è un testo lungo di analisi in italiano, con tutta evidenza prodotto da un'AI e senza fonti di prima mano. Le voci tratte da lì sono marcate *(origine AI, da verificare)*: servono come traccia per la lezione, non come lettura critica consolidata. Le voci con link vanno invece a fonti dirette.
+Le voci segnate *(da verificare)* non hanno fonti di prima mano. Le voci con link rimandano a fonti dirette.
 
 ### Parole dell'artista
 - **Cartoni nell'era dei big data (Artforum).** Cheng descrive *Thousand Islands Thousand Laws* (2013–): una simulazione animata in cui un pistolero da videogioco, uno stormo di aironi e un'isola di piante si mescolano e mutano continuamente, non solo nella forma e nel comportamento ma nello **status** (protagonisti, comparse, oggetti di scena). La camera si muove come in un documentario naturalistico, incerta su cosa sia davvero interessante nell'inquadratura; impara a concentrarsi sulle piccole perturbazioni in cui le linee di influenza diventano visibili e lo status viene rimescolato: un «chi» diventa un «cosa», la figura diventa sfondo, il rumore informazione. «L'unica veduta stabile è quella del cambiamento stesso.» Il testo continua chiedendosi che cosa siano i cartoni nell'era dei big data: modelli artificiali per giocare con complessità che i nostri modelli mentali (riflessi, emozioni, abitudini, memoria, linguaggio) non riescono a cogliere da soli, capaci di «stirare e comprimere» catene causali e di riformulare il rapporto parte/tutto in uno zoom nauseante alla *Powers of Ten*. Premessa dichiarata del suo lavoro recente: fare cartoni per **mutare la coscienza** [verificare]. Il testo è «On Cartooning», *Artforum*, vol. 52, n. 10, estate 2014;[^17] la frase finale non si legge nell'estratto aperto.
-- **Worlding contro world-building.** La distinzione è di Cheng (vedi Poetica e ricerca, con le sue definizioni). La lettura «progetto dall'alto contro condizioni iniziali e agenti lasciati agire» è una sintesi, non una formula sua. Vandenbroeck non ne parla. La tabella «artista come architetto / artista come giardiniere» che si trova nel REF è una sintesi AI *(origine AI, da verificare)*.
+- **Worlding contro world-building.** La distinzione è di Cheng (vedi Poetica e ricerca, con le sue definizioni). La lettura «progetto dall'alto contro condizioni iniziali e agenti lasciati agire» è una sintesi, non una formula sua. Vandenbroeck non ne parla.
 
 ### Emissaries (2015–2017): letture
-- **Jaynes come dispositivo.** Cheng stesso lo dichiara:[^11] la mente bicamerale di Julian Jaynes (1976), secondo cui gli umani antichi avrebbero vissuto le decisioni come voci divine, è per lui «strana» e immaginativa più che vera. L'Emissario è l'unico agente con una missione lineare in un mondo non narrativo: la tensione nasce dal conflitto tra un agente narrativo e un ecosistema indifferente. *(La lettura dell'Emissario come «lotta di un agente narrativo contro un mondo non-narrativo» è del REF AI: da verificare.)*
-- **Le tre simulazioni come tappe della coscienza** *(origine AI, da verificare)*: *Squat of Gods* come mente bicamerale pura, *Forks at Perfection* come frammentazione, *Sunsets the Self* come dissoluzione. Il REF sbagliava però i paesaggi: l'atollo è del terzo episodio, non del secondo, e l'Emissaria del primo è una ragazza (vedi la descrizione dell'opera).
-- **«Palestra neurologica».** Lo spettatore che cerca invano una trama è costretto a riconoscere pattern, accettare il caos e allenarsi a lasciare il controllo *(formula del REF AI; il termine «neurological gym» va controllato su una fonte diretta)*.
+- **Jaynes come dispositivo.** Cheng stesso lo dichiara:[^11] la mente bicamerale di Julian Jaynes (1976), secondo cui gli umani antichi avrebbero vissuto le decisioni come voci divine, è per lui «strana» e immaginativa più che vera. L'Emissario è l'unico agente con una missione lineare in un mondo non narrativo: la tensione nasce dal conflitto tra un agente narrativo e un ecosistema indifferente. *(La lettura dell'Emissario come «lotta di un agente narrativo contro un mondo non-narrativo» non ha una fonte diretta: da verificare.)*
+- **Le tre simulazioni come tappe della coscienza** *(da verificare)*: *Squat of Gods* come mente bicamerale pura, *Forks at Perfection* come frammentazione, *Sunsets the Self* come dissoluzione.
+- **«Palestra neurologica».** Lo spettatore che cerca invano una trama è costretto a riconoscere pattern, accettare il caos e allenarsi a lasciare il controllo *(da verificare: il termine «neurological gym» non ha una fonte diretta)*.
 
 ### BOB e «Minimum Viable Sentience»
 Sintesi controllata il 2026-11-01 sul testo integrale,[^15] scritto per la mostra *Uncanny Valley* al de Young Museum (2020). Solo l'ultima voce resta da verificare.
@@ -110,46 +110,24 @@ Sintesi controllata il 2026-11-01 sul testo integrale,[^15] scritto per la mostr
 - **Esempio della mela e bias.** Una mela bitorzoluta che si rivela velenosa crea una credenza da un solo caso: il giorno dopo BOB attacca un frutto bitorzoluto che rotola, e preferisce morire di fame piuttosto che rischiare. Cheng lo chiama il prezzo di un agente pieno di pregiudizi.[^15]
 - **Parenting collettivo.** Con la BOB Shrine App il pubblico invia «offerte» con una didascalia (per esempio «il fungo è buono»), che alimenta un «angelo» in competizione con i demoni; se l'angelo sbaglia, la regola è trattata come una bugia e quel santuario perde fiducia. Chi insiste può comportarsi da genitore invadente e plasmare la personalità di BOB.[^15]
 - **Senzienza e coscienza.** La coscienza sarebbe un «meta-demone»: la ricerca volontaria di esperienze anomale per testare le proprie credenze. BOB, conclude Cheng, non è (ancora) senziente ma «conta i suoi turbamenti» e apprende da pochi esempi, a differenza del deep learning.[^15]
-- **Scatola trasparente.** BOB viene letto come l'opposto delle IA commerciali «black box», perché il «sacco di credenze» è visualizzato su uno schermo secondario *(origine AI, da verificare)*.
+- **Scatola trasparente.** BOB viene letto come l'opposto delle IA commerciali «black box», perché il «sacco di credenze» è visualizzato su uno schermo secondario *(da verificare)*.
 
 ### Life After BOB (2021): lettura
-Dati verificati sulla sinossi ufficiale:[^18] in *The Chalice Study*, il neuroingegnere Dr. Wong installa un'IA sperimentale (BOB) nel sistema nervoso della figlia Chalice, di dieci anni, per guidarla in un mondo instabile; BOB affronta sempre più conflitti al posto di lei, mentre Chalice si rifugia nell'evasione, e la domanda diventa che cosa resti da fare al suo «sé umano classico». Il REF aggiunge, *(origine AI, da verificare)*:
+Dalla sinossi ufficiale:[^18] in *The Chalice Study*, il neuroingegnere Dr. Wong installa un'IA sperimentale (BOB) nel sistema nervoso della figlia Chalice, di dieci anni, per guidarla in un mondo instabile; BOB affronta sempre più conflitti al posto di lei, mentre Chalice si rifugia nell'evasione, e la domanda diventa che cosa resti da fare al suo «sé umano classico». Letture ulteriori *(da verificare)*:
 - le **due forme** dell'opera: il film di 50 minuti, montato da innumerevoli run della simulazione, e *Worldwatching*, l'interfaccia in cui si può mettere in pausa, uscire dalla camera narrativa e vedere i dati interni dei personaggi (pulsioni, obiettivi, «sceneggiatura»);
-- la lettura come **tragedia della genitorialità**: l'amore del padre indistinguibile dal controllo deterministico, e una critica al «soluzionismo»: se tristezza e trauma sono «bug», eliminarli elimina anche il sé. Trama dettagliata (Z.E.U.S., *Life Script*, biforcazione in Chalice e Chali): da controllare sulle fonti ufficiali prima di raccontarla in classe.
+- la lettura come **tragedia della genitorialità**: l'amore del padre indistinguibile dal controllo deterministico, e una critica al «soluzionismo»: se tristezza e trauma sono «bug», eliminarli elimina anche il sé. Trama dettagliata (Z.E.U.S., *Life Script*, biforcazione in Chalice e Chali): da controllare sulle fonti ufficiali.
 
-### Letture critiche (aggiunte il 2026-11-01)
+### Letture critiche
 - **Empatia o spettacolo della violenza (Wu).** Danielle Wu, su *Emissaries* al MoMA PS1, sostiene che le simulazioni sembrano aprire nuove possibilità di empatia, ma riproducono in gran parte una violenza familiare: nel terzo capitolo i suricati programmati per temere la differenza rendono l'opera attuale, eppure la camera dall'alto lascia chi guarda al sicuro e senza responsabilità. L'iniziale speranza alla Haraway, senza marcatori di razza e genere, non regge. Per Wu l'opera non scalfisce l'abitudine a guardare la violenza sugli schermi.[^19]
 - **Il preset (Clayton).** Jace Clayton ricorda la formazione di Cheng tra scienze cognitive, un anno a Industrial Light & Magic e arti visive a Columbia. In *This Papaya Tastes Perfect* (2011), una rissa ricostruita in motion capture senza correggere gli errori, i corpi lampeggiano di nero: è un preset del software, o è un preset il nostro impulso a leggere la razza anche nei corpi astratti?.[^20]
 
 - **Una storia aperta (Lau).** Charlene K. Lau, sulla trilogia al MoMA PS1, nota che il racconto dipende in parte dalla tecnologia, e che non è chiaro che cosa controlli l'artista e quanta agency abbia il motore di gioco. Poiché l'opera si trasforma di continuo, chiede che cosa sia davvero l'opera; l'incertezza del lavoro diventa quella sul futuro dell'umanità.[^10]
 
-### Da leggere
-Non letti in questa revisione:
-- [Ed Halter su 4Columns](https://www.oldsite.pilarcorrias.com/wp-content/uploads/2015/03/Ian-Cheng-4Columns.pdf)
-- [e-flux su *Emissary Forks at Perfection*](https://www.e-flux.com/criticism/237962/ian-cheng-s-emissary-forks-at-perfection)
-- [Arielle Bier su *frieze* (2015)](https://frieze.com/article/ian-cheng)
-- [«On Cartooning», *Artforum*, estate 2014](https://www.artforum.com/features/ian-cheng-220473/), testo integrale
-- *Emissaries Guide to Worlding* (Koenig Books, 2018), con l'intervista di Obrist, e la sua [edizione riveduta](https://backstory.london/products/9781068765735) (cosmogenesis, settembre 2026, con una nuova prefazione)
-- [*WORLDING: A Guide for Creators in Changing Times*](https://backstory.london/products/9781068765728) (cosmogenesis, settembre 2026), libro distinto, con una prefazione di Venkatesh Rao e i dialoghi *Worlding Raga*
-
-### Per la didattica
-- **Dalla trilogia a BOB a Life After BOB** come tre scale della stessa domanda: ecosistema (*Emissaries*), individuo (*BOB*), biografia e narrazione (*Life After BOB*). Lettura offerta dal REF AI; l'ordine e le date si verificano sulla scheda.
-- Il game engine come strumento d'autore: che cosa significa lasciare agli agenti il controllo, e cosa resta del montaggio.
-- Discussione dalla critica di Wu: chi guarda una simulazione è testimone, giocatore o spettatore? Confronto con *Serious Games* di Farocki.
-- Da Rebecca Allen a Cheng: *The Bush Soul* (1997-99) come precedente di *BOB*.
-- Per un confronto con altri artisti della scheda: Claerbout (durata registrata contro durata calcolata) e Lek (mondi simulati come ambienti narrativi).
-- Risorse video dal REF: [Louisiana Channel, «A Portal to Infinity»](https://www.youtube.com/watch?v=TO6Luilc4Bo); [«Life after BOB: The Chalice Study with Ian Cheng» (artist talk)](https://www.youtube.com/watch?v=JfhdgNazHRo); [«In Dialogue: The Guggenheim Collection — Ian Cheng»](https://www.youtube.com/watch?v=55huQdixX0g). Gallerie di riferimento: [Gladstone](https://www.gladstonegallery.com/artists/ian-cheng), [Pilar Corrias](https://www.pilarcorrias.com/artists/39-ian-cheng/).
-
 ## Interviste e talk
-Prima quelle già nei REF del docente, poi le altre.
-
-**Dai REF**
 - **Video:** [Ian Cheng Interview: A Portal to Infinity (Louisiana Channel)](https://www.youtube.com/watch?v=TO6Luilc4Bo)
 - **Video:** [SI Visions: Ian Cheng on the Society of Mind](https://www.youtube.com/watch?v=kg1k8BmTqNg)
 - **Video:** [Life after BOB: The Chalice Study with Ian Cheng, talk](https://www.youtube.com/watch?v=JfhdgNazHRo)
 - [In Dialogue: The Guggenheim Collection — Ian Cheng](https://www.youtube.com/shorts/55huQdixX0g) (video breve)
-
-**Altre, non ancora viste**
 - **Video:** [Ian Cheng in conversation with Nora Khan and Ben Vickers (Serpentine)](https://www.youtube.com/watch?v=DV9HWjyJeno)
 - **Video:** [CMOA Forum 79: Ian Cheng (Carnegie Museum of Art)](https://vimeo.com/237783234)
 - [ArtNews — intervista su BOB](https://www.artnews.com/art-news/artists/ian-cheng-gladstone-bob-artificial-intelligence-11825/)

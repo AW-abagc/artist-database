@@ -15,12 +15,8 @@ Il suo primo lungometraggio, girato nella città natale, vince il premio per il 
 ### Kaili Blues (2015)
 **Descrizione:** Primo lungometraggio, girato a Kaili.
 
-⚠️ Nessuna immagine trovata.
-
 ### Long Day's Journey Into Night (2018)
 **Descrizione:** Secondo lungometraggio, coproduzione Cina-Francia, presentato a Cannes nella sezione Un Certain Regard.
-
-⚠️ Nessuna immagine trovata.
 
 ### A Short Story (2022)
 **Descrizione:** Cortometraggio di circa 14-15 minuti, in concorso per la Palma d'Oro del cortometraggio a Cannes 2022. Una favola dal punto di vista di un gatto: un gatto nero con impermeabile, interpellato da uno spaventapasseri, parte alla ricerca di una risposta.
@@ -29,8 +25,6 @@ Il suo primo lungometraggio, girato nella città natale, vince il premio per il 
 
 ### Resurrection (2025)
 **Descrizione:** Lungometraggio più recente.
-
-⚠️ Nessuna immagine trovata.
 
 ## Fonti
 - [IFFR — Bi Gan](https://iffr.com/en/persons/bi-gan)

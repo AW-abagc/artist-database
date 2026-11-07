@@ -123,11 +123,11 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 **Lettura critica:** oppone la "logica dell'incontro" della fotografia (autenticazione reciproca tra obiettivo e mondo) alla "logica dell'evitamento" dello scanning, orientato alla sicurezza e all'individuazione di minacce — una critica alla "radicale conservatività" del 3D fotorealistico.[^19]
 
 ## Approfondimenti
-Materiale teorico e critico per la didattica, ricavato dalla scheda di riferimento originale (REF su Drive: trascrizioni di interviste e talk, estratti del saggio). Le parole dell'artista vengono da trascrizioni di video: vanno verificate sul video prima di citarle per esteso.
+Le parole dell'artista vengono da trascrizioni di video, non controllate sul video.
 
 ### Indicizzalità e fiducia nell'immagine
 - **Indicizzalità (Peirce).** Charles S. Peirce chiama «indice» il segno che rinvia al proprio oggetto per una connessione reale (come l'impronta o la fotografia), distinguendolo dal segno iconico (per somiglianza) e da quello simbolico (per convenzione). È il fondamento della fiducia nell'immagine fotografica, che Claerbout vede incrinarsi con l'immagine digitale.[^13]
-- **Barthes: punctum e studium.** Riferimento segnato nel REF come pista di lettura, da collegare alla fotografia come «là e allora» (vedi *Vietnam, 1967*).[^22]
+- **Barthes: punctum e studium.** Riferimento come pista di lettura, collegato alla fotografia come «là e allora» (vedi *Vietnam, 1967*).[^22]
 - **Rottura epocale («Dark Optics», e-flux, 2019).** Claerbout paragona il momento attuale agli anni Trenta dell'Ottocento: con la fotografia, per la prima volta, un evento esterno veniva registrato per via chimica e la camera diventava una copia meccanica del funzionamento dell'occhio, con uno shock per chi produceva immagini. Oggi, dice, la transizione non dovrebbe farsi notare: con la scomparsa della lente torna in primo piano la *rappresentazione*. La lente funzionava per «autenticazione reciproca» tra dispositivo e mondo, e su quel sistema di fiducia, durato circa 160 anni, si sono fondate prove, politica e informazione; la «materia digitale» incrina già certezze sensoriali che davamo per scontate.[^14] Dice di averlo capito con *Oil Workers*: lavorato con l'acqua, ma il risultato era petrolio.
 
 ### «Scolpire nella durata» (sculpting in duration)
@@ -138,34 +138,23 @@ Dalla conversazione con Sara Dolfi Agostini su *Oil Workers*:[^15]
 - **Contro la gratificazione istantanea.** «Il tempo è denaro»: è facile cliccare altrove quando un'animazione non piace, e questo rende le immagini «zuccherine», fatte per la ricompensa immediata. Lo paragona alla reazione dei pittori all'arrivo industriale della fotografia.[^15]
 - **Il virtuale «non arriva mai».** Per descrivere l'immagine digitale usa la metafora di un aereo che decolla, mentre il capitano annuncia che l'aeroporto di partenza e quello di destinazione non esistono più: si resta a mezz'aria, abbastanza lontani dall'originale analogico.[^15]
 
-### Opere: letture e dichiarazioni dal REF
-- ***Bordeaux Piece* (2004).** L'artista spiega di non aver tentato di reinterpretare la finzione cinematografica: lo «sfondo» strutturato dalla luce passa lentamente in primo piano e cancella la storia, al contrario di quanto accade nel cinema («è la luce che organizza tutto»). La storia può interessare la prima volta, forse la seconda, poi diventa una tela deludente, un motivo che dà ritmo: il vero tema è dare forma alla durata con la luce naturale. L'attore Josse De Pauw ha collaborato alla sceneggiatura. *(Nel REF la dichiarazione è senza fonte indicata: da ricollegare a un'intervista.)*[^22]
-- ***Vietnam, 1967, near Duc Pho* (2001).** Non è fotografia classica ma video, medium temporale che «accade» sempre: ciò che si vede non è il momento drammatico dello schianto ma movimenti molto lenti (solarizzazione, nuvole) mentre l'aereo smembrato resta sospeso. L'immagine mette in questione lo statuto ontologico dell'immagine e produce una riflessione reciproca tra fotografia e film. Secondo Barthes (*Rhétorique de l'image*) la fotografia è «là e allora», il film un presente permanente «qui e ora»; anche ridotti a dati, continuiamo a percepire secondo tradizioni pittoriche distinte. Claerbout parla di tensione tra sguardo *focalizzato* (la tragedia dell'aereo) e sguardo *panoramico* (che dà profondità di senso) e spera che lo spettatore resti abbastanza a lungo perché il panoramico prenda il sopravvento. *(Il commento sul REF è un testo critico senza fonte indicata, probabilmente da un catalogo: da rintracciare.)*[^22]
+### Opere: letture e dichiarazioni
+- ***Bordeaux Piece* (2004).** L'artista spiega di non aver tentato di reinterpretare la finzione cinematografica: lo «sfondo» strutturato dalla luce passa lentamente in primo piano e cancella la storia, al contrario di quanto accade nel cinema («è la luce che organizza tutto»). La storia può interessare la prima volta, forse la seconda, poi diventa una tela deludente, un motivo che dà ritmo: il vero tema è dare forma alla durata con la luce naturale. L'attore Josse De Pauw ha collaborato alla sceneggiatura. *(Dichiarazione senza fonte indicata.)*[^22]
+- ***Vietnam, 1967, near Duc Pho* (2001).** Non è fotografia classica ma video, medium temporale che «accade» sempre: ciò che si vede non è il momento drammatico dello schianto ma movimenti molto lenti (solarizzazione, nuvole) mentre l'aereo smembrato resta sospeso. L'immagine mette in questione lo statuto ontologico dell'immagine e produce una riflessione reciproca tra fotografia e film. Secondo Barthes (*Rhétorique de l'image*) la fotografia è «là e allora», il film un presente permanente «qui e ora»; anche ridotti a dati, continuiamo a percepire secondo tradizioni pittoriche distinte. Claerbout parla di tensione tra sguardo *focalizzato* (la tragedia dell'aereo) e sguardo *panoramico* (che dà profondità di senso) e spera che lo spettatore resti abbastanza a lungo perché il panoramico prenda il sopravvento. *(Testo critico senza fonte indicata.)*[^22]
 - ***Oil Workers* (2013).** Figure «zombie» svuotate e ridotte al gesto superficiale: il lavoratore moderno e il lavoratore migrante, presenti nello spazio ma invisibili nel contenuto (vedi la descrizione dell'opera).[^15]
 
 ### «The Silence of the Lens» (e-flux Journal #73, 2016): passi chiave
-Sintesi dai passi segnati nel REF, tutti ritrovati nel saggio il 2026-11-01.
+Sintesi dei passi principali del saggio.
 - **Il conservatorismo radicale del 3D.** Claerbout si dichiara sbalordito: tante scienze convergono in un bastione di conservatorismo pittorico «realistico». Il nuovo modo di fare immagini richiede padronanza di pittura, cinema e scultura, «e una laurea in informatica»; nel suo studio, dove poche persone fanno «tutto», la quantità di decisioni salta all'occhio.[^19]
 - **Ogni dettaglio è premeditato.** Un prato richiede scelte: stagione, area geografica, erba selvatica o tagliata e, se tagliata, da chi. Nella fotografia con lente un'immagine nasce senza decidere queste cose, grazie a una tradizione di **autenticazione reciproca** tra chi sta dietro la camera e ciò che sta davanti all'obiettivo. Nel 3D ogni immagine diventa un accumulo di decisioni e responsabilità, appoggiato a codici di memoria e moralità, potenzialmente «barocca».[^19]
 - **Giocare a Dio, osservare a memoria.** Non siamo più in un mondo di contingenza, creato dalla collaborazione tra lente e mondo, ma creatori di tutto fino all'ultimo dettaglio. La fabbricazione totale implica «osservare a memoria»: nostalgia e senso di perdita di una percezione ingenua e spontanea. Analogia con Freud: la fotografia con lente è il paziente guarito, che assorbe serenamente la luce; il 3D pittorico è una persona diventata cieca che ripercorre compulsivamente il passato.[^19]
 - **Scansione contro incontro.** La scansione registra solo ciò che potremmo colpire o che potrebbe colpirci al buio: riduce il mondo a una «collezione di ostacoli». È logica dell'*evitare*, mentre la fotografia segue la logica dell'*incontrare*; è orientata alla sicurezza (si scansiona per cercare minacce). A differenza della fotografia, una scansione definisce uno spazio personale attorno a «me»: lo scanner è l'individuo spaventato che ha sensori intorno a sé.[^19]
 - **Cultura dell'immagine e «schizofrenia generalizzata».** Claerbout riprende Baudrillard (fine dell'interiorità e dell'intimità, sovraesposizione e trasparenza del mondo). L'episodio dell'amica con l'iPad: punto di vista, meteo, stagione e ora sono indicati dall'indirizzo IP, e gli algoritmi possono «indovinare» il momento ideale per fotografare un'alba; nella foto «non c'era nulla di lei, oltre alla coincidenza della tecnologia con sé stessa». Il delirio non è la foto ma il credere di averne prodotto lo sguardo: l'ideologia proietta sul sé confini che non esistono.[^19]
 
-### Letture critiche (aggiunte il 2026-11-01)
+### Letture critiche
 - **Salvare le immagini (Blythe).** Claerbout racconta a Finn Blythe di aver avuto difficoltà con l'immagine in movimento e di essere stato attratto dalla fissità delle fotografie nascoste nei libri, a cui voleva dare una seconda vita. Da lì vengono i primi lavori, come *Ruurlo, Borculoscheweg, 1910* (1997) e *Retrospection* (2000). In *Wildfire* il meccanismo si rovescia: tutto si muove, tranne le fiamme.[^16]
 - **Mondi senza umani (Oscar).** Sara Oscar legge *Olympia* e *The pure necessity* (entrambi 2016) nel quadro dell'Antropocene e chiede che cosa serva per rappresentare il mondo senza di noi, in dialogo con Claire Colebrook e Joanna Zylinska.[^17]
 - **Durata di *Bordeaux Piece*.** Il sito dell'artista dà 13 ore e 43 minuti e 70 ripetizioni: vale questo dato. Wikipedia arrotonda a 14 ore, un testo della galleria Nichido parla di 64 film da circa 12 minuti,[^18] forse una versione diversa.
-
-### Da leggere
-Non letti in questa revisione:
-- *The Silence of the Lens* (Hannibal Books, 2022), con la conversazione con Jonathan Pouthier
-- [Sara Oscar](https://uts.academia.edu/SOscar), testo completo: letto solo l'abstract
-- La fonte delle dichiarazioni su *Bordeaux Piece* e del commento su *Vietnam, 1967* riportati dal REF
-
-### Spunti per la didattica
-- Confronto tra *The Silence of the Lens* e l'uso di scansioni 3D e fotogrammetria (M3D): chi decide cosa entra nel modello, e con quale responsabilità.
-- *Bordeaux Piece* e *Olympia* come due modi di «scolpire la durata»: tempo registrato (luce naturale) e tempo calcolato (simulazione in tempo reale).
-- Esercizio di visione prolungata: che cosa cambia tra il minuto 1 e il minuto 10 davanti a un'immagine quasi ferma.
 
 ## Interviste e talk
 - **Video:** [David Claerbout Interview: Virtual Image Making (Louisiana Channel)](https://www.youtube.com/watch?v=WKuoFD-LjeA)
@@ -230,4 +219,4 @@ Immagine per ciascuna delle otto opere visive, inclusa sotto la relativa descriz
 
 [^21]: Hirshhorn Museum, *David Claerbout: Travel* (non riaperta nel 2026: il sito chiede una verifica). [link](https://hirshhorn.si.edu/explore/david-claerbout-travel)
 
-[^22]: REF su Drive: commento o dichiarazione senza fonte indicata, da rintracciare.
+[^22]: Commento o dichiarazione senza fonte indicata, da rintracciare.

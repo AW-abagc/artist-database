@@ -17,7 +17,7 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 **Corso:** `TAD-DCV` `TAD-AVM` `M3D`
 **Temi:** `riconoscimento-facciale-biometria` `immagini-operative`
 **Descrizione:** video di circa 14 minuti costruito come falso tutorial didattico, che elenca "lezioni" assurde e sarcastiche per sfuggire alla visibilità in condizioni di sorveglianza digitale pervasiva (imaging satellitare, visibilità in funzione della risoluzione, mimetismo, diventare più piccoli di un pixel). Girato in gran parte su un ex sito militare statunitense nel deserto californiano di Ridgecrest, coperto di bersagli di calibrazione fotogrammetrica usati per testare la risoluzione delle camere aeree/satellitari — un vero e proprio terreno di taratura militare dell'immagine. Acquisita dal MoMA.
-**Lettura critica:** opera-chiave sulla politica della visibilità/invisibilità, sulla risoluzione come categoria di potere e sullo sguardo militarizzato — ampiamente insegnata nei corsi di teoria dei media proprio per il taglio didattico-parodico che rende esplicito, mentre lo mette in scena, il proprio impianto teorico.
+**Lettura critica:** l'opera tratta la politica della visibilità/invisibilità, la risoluzione come categoria di potere e lo sguardo militarizzato; il taglio didattico-parodico rende esplicito, mentre lo mette in scena, il proprio impianto teorico.
 **Video:** [How Not to Be Seen, video integrale (YouTube)](https://www.youtube.com/watch?v=LE3RlrVEyuo)
 
 ![How Not to Be Seen — fotogramma](immagini/hito-steyerl/how-not-to-be-seen.jpg)
@@ -38,15 +38,11 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 **Descrizione:** documentario di 30 minuti realizzato per documenta 12 (Kassel): Steyerl torna a Tokyo, dove in gioventù aveva lavorato brevemente come modella di bondage giapponese (kinbaku/shibari) sotto lo pseudonimo "Andrea", per rintracciare una fotografia di bondage del 1987 che la ritrae.
 **Lettura critica:** usa la ricerca stessa come dispositivo per riflettere su bondage, autorappresentazione, cultura popolare e consenso nella circolazione delle immagini.
 
-⚠️ Nessuna immagine trovata.
-
 ### Is the Museum a Battlefield? (2013)
 **Corso:** `TAD-DCV` `TAD-AVM`
 **Temi:** `guerra-e-militare` `lecture-performance`
 **Descrizione:** video HD a due canali, 40 minuti, nato come lecture-performance alla 13ª Biennale di Istanbul. Parte da un bossolo vuoto ritrovato da Steyerl vicino a una fossa comune a Van, in Turchia (dove Andrea Wolf potrebbe essere morta), per risalire ai legami finanziari tra produttori di armi e sponsorizzazione di musei e biennali.
 **Lettura critica:** rende esplicito, con rigore quasi investigativo, il modo in cui il sistema dell'arte è materialmente intrecciato con l'industria bellica — non una metafora, ma una filiera di finanziamento tracciabile.
-
-⚠️ Nessuna immagine trovata.
 
 ### Factory of the Sun (2015)
 **Corso:** `M3D` `TAD-AVM`
@@ -63,8 +59,6 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 **Temi:** `corpo-post-umano`
 **Descrizione:** installazione video multipla, il cui titolo riprende le cinque parole più usate nei testi delle canzoni pop in lingua inglese degli anni 2010 secondo un'analisi di Billboard. Due ambienti in cartongesso e alluminio, ciascuno con un video in loop: uno mostra filmati reperiti online di robot umanoidi maltrattati nei test di laboratorio; l'altro, più piccolo, mostra riprese di Cizre, città curda al confine turco-siriano devastata dagli scontri tra Stato turco e PKK. Presentata a Skulptur Projekte Münster (2017).
 **Lettura critica:** accosta violenza sui corpi robotici e violenza sui corpi umani reali in una stessa griglia di visibilità mediatica, chiedendo allo spettatore di riconoscere l'equivalenza — o l'incommensurabilità — tra le due immagini.
-
-⚠️ Nessuna immagine trovata.
 
 ### Liquidity Inc. (2014)
 **Corso:** `TAD-DCV`

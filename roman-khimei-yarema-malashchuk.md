@@ -3,7 +3,7 @@
 **Tag tecnica/formato:** `video` `installazione`
 **Tag tema:** `memoria-archivio`
 
-⚠️ **Nota di inquadramento**: duo ucraino con pratica al confine fra documentario e finzione — fit più debole rispetto al nucleo new media/3D/IA del database, incluso per coerenza con l'asse video/immagine in movimento e per la rilevanza tematica/politica dell'opera presentata a CANICULA.
+**Nota di inquadramento:** duo ucraino con pratica al confine fra documentario e finzione.
 
 ## Biografia
 Entrambi nati a Kolomyya, Ucraina; diplomati come direttori della fotografia all'Institute of Screen Arts di Kyiv. Coppia artistica attiva dal 2013, con base a Kyiv; membri del collettivo teatrale Prykarpattian Theater. Iniziano a collaborare dopo la Rivoluzione di Maidan (2014), documentando la trasformazione sociale ucraina. Premio principale PinchukArtCentre Prize (2020), VISIO Young Talent Acquisition Prize (2021), Tallinn Black Nights IFF 2024 e Ukrainian Film Critics Award (per *Additional Scenes*). Nel 2026 il Museo Nacional Thyssen-Bornemisza dedica loro la personale *Pedagogies of War*, e sono presenti alla mostra collettiva **CANICULA** (Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia, 6 maggio-22 novembre 2026, cur. Alessandro Rabottini e Leonardo Bigazzi) — occasione della visita che ha originato questa scheda.
