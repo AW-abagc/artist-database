@@ -92,9 +92,9 @@ Descrizione — breve o approfondita a seconda dei casi — della ricerca dell'a
 
 Nessuna regola rigida oltre a questa: l'importante è iniziare a raccogliere il materiale in modo ordinato, distinguendo sempre ciò che è rifinito da ciò che è ancora grezzo.
 
-## Regola: testo neutrale
+## Regola definitiva: testo neutrale
 
-Le schede descrivono artisti e opere in forma impersonale e il più possibile oggettiva. Non contengono indicazioni didattiche (come presentare un'opera, che cosa mostrare, domande, esercizi, avvertenze per l'aula), prima persona, inviti al lettore, giudizi senza fonte o note di lavorazione. Gli avvisi sui contenuti si limitano a dire che cosa un'opera contiene. Restano i segnali previsti da questa guida: `[verificare]` e l'indicazione delle fonti lette solo in parte.
+Vale per ogni testo generato in questo repo, nuovo o modificato. Le schede descrivono artisti e opere in forma impersonale e il più possibile oggettiva. Non contengono indicazioni didattiche (come presentare un'opera, che cosa mostrare, domande, esercizi, avvertenze per l'aula), prima persona, inviti al lettore, giudizi senza fonte o note di lavorazione. Gli avvisi sui contenuti si limitano a dire che cosa un'opera contiene. Restano i segnali previsti da questa guida: `[verificare]` e l'indicazione delle fonti lette solo in parte.
 
 ## Regola fondamentale: niente contenuto senza fonte
 
