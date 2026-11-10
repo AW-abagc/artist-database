@@ -1,4 +1,4 @@
-# Lista completa artisti
+# Lista completa artisti hgfhfghgjgfgjgfjfg
 
 Indice di tutti gli artisti raccolti per il database, incrociando il materiale già presente su Drive (cartella "ARTIST REFERENCES") con gli artisti citati nei [programmi dei corsi](../programmi/). Aggiornato il 9 agosto 2026.
 
